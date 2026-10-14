@@ -1,0 +1,42 @@
+# зависимости
+node_modules/
+.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# сборка Next.js
+.next/
+out/
+build/
+dist/
+
+# переменные окружения
+.env
+.env*.local
+
+# логи
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dev.log
+server.log
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# операционные системы и редакторы
+.DS_Store
+Thumbs.db
+*.pem
+.idea/
+.vscode/
+*.swp
+
+# Vercel
+.vercel
+
+# база данных (если появится в ходе развития проекта)
+db/
+*.db

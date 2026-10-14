@@ -1,0 +1,47 @@
+
+name: Обновление афиши (klops.ru)
+
+# Ежедневный запуск краулера: сбор реальных событий Калининграда
+# с публичной серверной афиши klops.ru и фиксация обновлённого
+# датасета в репозитории. После push Vercel автоматически
+# передеплоит приложение — афиша остаётся актуальной без ручных действий.
+
+on:
+  schedule:
+    # 06:30 по Калининграду (UTC+2) — до начала дня
+    - cron: "30 4 * * *"
+  # Ручной запуск из вкладки Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-events:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Получить репозиторий
+        uses: actions/checkout@v4
+
+      - name: Установить Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Собрать события с klops.ru
+        run: node scripts/fetch-events.mjs
+        # Скрипт завершается ошибкой, если источник недоступен
+        # или собрано аномально мало событий, — тогда коммита не будет,
+        # а приложение продолжит работать с предыдущим датасетом.
+
+      - name: Зафиксировать обновлённый датасет
+        run: |
+          git config user.name "afisha39-updater"
+          git config user.email "actions@users.noreply.github.com"
+          git add src/data/events.json
+          if git diff --cached --quiet; then
+            echo "Изменений нет — афиша актуальна."
+          else
+            git commit -m "Данные: обновление афиши klops.ru ($(date +%d.%m.%Y))"
+            git push
+          fi

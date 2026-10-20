@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2026-10-19T10:07:26.869Z",
+  "generatedAt": "2026-10-20T09:33:34.224Z",
   "generator": "scripts/fetch-events.mjs — краулер реальной афиши klops.ru",
   "source": "https://klops.ru/afisha/",
   "note": "Реальные события Калининграда, собранные автоматическим обходом публичной серверной афиши klops.ru (материалы сайта распространяются по лицензии CC BY-SA 4.0). Даты и площадки — из микроформата schema.org/Event. Цена -1 означает платный вход без публикуемой цены.",
-  "horizonDays": 144,
+  "horizonDays": 143,
   "venues": [
-    {
-      "id": "dramteatr",
-      "name": "Калининградский областной драматический театр",
-      "shortName": "Драматический театр",
-      "address": "ул. Луначарского, 53",
-      "district": "Центральный район",
-      "description": "Старейший театр региона, открытый в 1947 году. Репертуар включает классику, современную драматургию и постановки для детей.",
-      "site": null,
-      "lat": 54.719664,
-      "lng": 20.492629
-    },
     {
       "id": "nдворец-спорта-янтарный-amber-arena-",
       "name": "Дворец спорта \"Янтарный\" (Amber Arena)",
@@ -28,15 +17,26 @@
       "lng": 20.485469
     },
     {
-      "id": "nпоселение-викингов-кауп",
-      "name": "Поселение викингов Кауп",
-      "shortName": "Поселение викингов",
+      "id": "dramteatr",
+      "name": "Калининградский областной драматический театр",
+      "shortName": "Драматический театр",
+      "address": "ул. Луначарского, 53",
+      "district": "Центральный район",
+      "description": "Старейший театр региона, открытый в 1947 году. Репертуар включает классику, современную драматургию и постановки для детей.",
+      "site": null,
+      "lat": 54.719664,
+      "lng": 20.492629
+    },
+    {
+      "id": "nдворец-спорта-юность-",
+      "name": "Дворец спорта \"Юность\"",
+      "shortName": "Дворец спорта \"Юность\"",
       "address": "",
       "district": "",
       "description": "",
       "site": null,
-      "lat": 54.878409,
-      "lng": 20.278766
+      "lat": 54.707421,
+      "lng": 20.504046
     },
     {
       "id": "philharmonic",
@@ -50,15 +50,15 @@
       "lng": 20.509535
     },
     {
-      "id": "nдворец-спорта-юность-",
-      "name": "Дворец спорта \"Юность\"",
-      "shortName": "Дворец спорта \"Юность\"",
+      "id": "nпоселение-викингов-кауп",
+      "name": "Поселение викингов Кауп",
+      "shortName": "Поселение викингов",
       "address": "",
       "district": "",
       "description": "",
       "site": null,
-      "lat": 54.707421,
-      "lng": 20.504046
+      "lat": 54.878409,
+      "lng": 20.278766
     },
     {
       "id": "yantar-hall",
@@ -226,17 +226,6 @@
       "lng": 20.471285
     },
     {
-      "id": "nтеатр-николая-захарова",
-      "name": "Театр Николая Захарова",
-      "shortName": "Театр Николая Захарова",
-      "address": "",
-      "district": "",
-      "description": "",
-      "site": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "id": "nдом-книжного-наследия-xx-века-имени-н-с-",
       "name": "Дом книжного наследия XX века имени Н. С. Гумилёва",
       "shortName": "Дом книжного наследия XX века имени Н. С. Гумилёва",
@@ -314,6 +303,17 @@
       "lng": 20.50489679035101
     },
     {
+      "id": "bfu",
+      "name": "Балтийский федеральный университет им. И. Канта",
+      "shortName": "БФУ им. И. Канта",
+      "address": "ул. Александра Невского, 14",
+      "district": "Центральный район",
+      "description": "Классический университет Калининграда: лектории, научные фестивали и открытые мероприятия городских кампусов.",
+      "site": null,
+      "lat": 54.724219,
+      "lng": 20.527546
+    },
+    {
       "id": "nчерняховск",
       "name": "Черняховск",
       "shortName": "Черняховск",
@@ -378,13 +378,24 @@
       "site": null,
       "lat": 54.679437,
       "lng": 20.479837
+    },
+    {
+      "id": "nмузей-черепов-и-скелетов",
+      "name": "Музей Черепов и Скелетов",
+      "shortName": "Музей Черепов и Скелетов",
+      "address": "",
+      "district": "",
+      "description": "",
+      "site": null,
+      "lat": 54.959919,
+      "lng": 20.482756
     }
   ],
   "events": [
     {
       "id": "123056",
-      "startsAt": "2026-10-19T09:00:00",
-      "endsAt": "2026-10-19T09:00:00",
+      "startsAt": "2026-10-20T09:00:00",
+      "endsAt": "2026-10-20T09:00:00",
       "title": "Экспозиция музейно-выставочного комплекса «Янтарный замок»",
       "categoryId": "exhibitions",
       "venueId": "n-янтарный-замок-",
@@ -401,8 +412,8 @@
     },
     {
       "id": "123153",
-      "startsAt": "2026-10-19T10:00:00",
-      "endsAt": "2026-10-19T10:00:00",
+      "startsAt": "2026-10-20T10:00:00",
+      "endsAt": "2026-10-20T10:00:00",
       "title": "«Куплю гараж»",
       "categoryId": "exhibitions",
       "venueId": "nмузей-дом-китобоя-",
@@ -419,8 +430,8 @@
     },
     {
       "id": "124502",
-      "startsAt": "2026-10-19T10:00:00",
-      "endsAt": "2026-10-19T10:00:00",
+      "startsAt": "2026-10-20T10:00:00",
+      "endsAt": "2026-10-20T10:00:00",
       "title": "РОВЕСНИКИ: ретроспективная фотовыставка Станислава Покровского",
       "categoryId": "exhibitions",
       "venueId": "history-museum",
@@ -437,8 +448,8 @@
     },
     {
       "id": "124273",
-      "startsAt": "2026-10-19T11:00:00",
-      "endsAt": "2026-10-19T11:00:00",
+      "startsAt": "2026-10-20T11:00:00",
+      "endsAt": "2026-10-20T11:00:00",
       "title": "«Разнообразие»",
       "categoryId": "exhibitions",
       "venueId": "amber-museum",
@@ -455,8 +466,8 @@
     },
     {
       "id": "124532",
-      "startsAt": "2026-10-19T15:00:00",
-      "endsAt": "2026-10-19T15:00:00",
+      "startsAt": "2026-10-20T15:00:00",
+      "endsAt": "2026-10-20T15:00:00",
       "title": "Выставка «Процесс»",
       "categoryId": "exhibitions",
       "venueId": "nдом-книжного-наследия-xx-века-имени-н-с-",
@@ -814,6 +825,24 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wNlwvNXZsYmthazcxdl82YWJkMTc1NmZhN2Q5N2M4NTk3NDkyZTQucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=ae3a446f3c8a796b"
     },
     {
+      "id": "124557",
+      "startsAt": "2026-10-23T10:00:00",
+      "endsAt": "2026-10-23T10:00:00",
+      "title": "Медицинский международный конгресс «Здоровье семьи»",
+      "categoryId": "education",
+      "venueId": "bfu",
+      "price": 0,
+      "priceNote": null,
+      "ageLimit": "18+",
+      "description": "23–24 октября 2026 года в БФУ им. И. Канта состоится Балтийский медицинский международный конгресс «Здоровье семьи — мультидисциплинарный подход: от университетской аудитории до клинической практики». Мероприятие приурочено к 20‑летию высшего медицинского образования в Калининградской области.\n\nОрганизаторами выступают: БФУ им. И. Канта, Министерство здравоохранения Калининградской области, Национальная ассоциация постгеномной медицины, Врачебная палата Калининградской области и компания «Арс медика».\n\nКонгресс объединит врачей, исследователей и преподавателей медицинских вузов. В работе примут участие специалисты из России, Беларуси, Узбекистана, Индии, Германии, Казахстана и Киргизии. Участники обсудят современные подходы к диагностике, лечению и профилактике заболеваний на всех этапах жизни семьи. …",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124557-meditsinskiy-mezhdunarodnyy-kongress-zdorovie-semi",
+      "ticketUrl": null,
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMFwvNnY3ZDM1dmE5eV9waG90b18yMDI2XzEwXzA2XzE3XzM2XzQyLndlYnAiXSxbInAiLCJ0aHVtYiIsIjkzNng3MjArMCswIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=0105a67202dab2f3"
+    },
+    {
       "id": "124338",
       "startsAt": "2026-10-23T18:00:00",
       "endsAt": "2026-10-23T18:00:00",
@@ -1100,24 +1129,6 @@
       "sourceUrl": "https://klops.ru/afisha/124339-teatralno-gastronomicheskiy-vecher-na-kurorte",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64032999?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=20139",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8yM1wvNGt5NnlsbG5mZV8yNF8ucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=f767f0e2c5382ffa"
-    },
-    {
-      "id": "124350",
-      "startsAt": "2026-10-24T18:00:00",
-      "endsAt": "2026-10-24T18:00:00",
-      "title": "«Князь»",
-      "categoryId": "theatre",
-      "venueId": "nтеатр-николая-захарова",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "16+",
-      "description": "Новый формат общения с искусством!\n\nХочется страстей? Здесь вы увидите все! Ревность, ненависть, любовь, плети, ножи, кресты и убийство! Лепестки роз, брошенные в лицо, из красных превратятся в черные и истекут кровью, обнажая невыносимые любовные треугольники. Мистика, рок, красота и уродство. Некая «игра в игре», в которой актёры перевоплощаются в персонажей романа, получая свободу существования. Но! Режиссёр — призрак присутствует везде с правом вмешательства в любой момент. Танцы и перемещения в черных плащах, великолепных одеждах, масках и головных уборах под магические звуки рока. Истинные лица прикрыты масками масонства.",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124350-knyaz",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@63829928?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8yNFwvMTh2OHE4cnd1dF82OWQ2NmU0NTg3ZWNhNGI0MGM2OWZmNjUuanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=132489fcba68349d"
     },
     {
       "id": "124352-1",
@@ -1750,6 +1761,24 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wOVwvMWMwNGx1NHhwaV9JTUdfOTY4OF8xLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=20b0e38b6a249bbc"
     },
     {
+      "id": "124556",
+      "startsAt": "2026-11-01T15:00:00",
+      "endsAt": "2026-11-01T15:00:00",
+      "title": "Квест-экскурсия в Музее Черепов и Скелетов",
+      "categoryId": "citywalks",
+      "venueId": "nмузей-черепов-и-скелетов",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "6+",
+      "description": "Готовы к захватывающему семейному путешествию по Музею Черепов и Скелетов (МЧС)?! Приглашаем 1 ноября в 15:00 детей и их родителей на веселую квест‑экскурсию, которая объединит историю, загадки и увлекательные задания в духе мексиканского «Дня мёртвых»!\n\nВ этот день особенно выделена культурная сторона темы: не пугаем, а показываем, как в разных культурах образ черепа становился символом памяти, цикличности жизни и даже праздника. Мексиканский «День мёртвых» — отличный повод взглянуть на экспозицию нашего Музея под новым углом: с любопытством и уважением к традициям.\n\nВас ждёт изучение экспозиции МЧС с экскурсоводом. Вместе вы будете проходить серию заданий прямо среди экспонатов. Разберётесь, как устроен скелет, какие тайны хранят черепа на выставке.\n\nВ квесте задействованы головоломки и задания на логику и внимательность. …",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124556-kvest-ekskursiya-v-muzee-cherepov-i-skeletov",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@65160645?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=20139",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMFwvM3k1dDNqanpudl9pbWFnZV9kY2Y3NGM4ZF80NjExXzRkNWNfYjQzOF85NTIxM2EyM2I3NTcucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=eea30a4c1e5cc9e3"
+    },
+    {
       "id": "124303-2",
       "startsAt": "2026-11-01T16:00:00",
       "endsAt": "2026-11-01T16:00:00",
@@ -1966,6 +1995,24 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8xM1wvN253ajY4dmU2OV85MGY2NDMwZTU4NGUxOTUxMGE4MjFiY2Q2YTRjZDlhMC5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=9440f66f6f640d4a"
     },
     {
+      "id": "124554",
+      "startsAt": "2026-11-08T18:00:00",
+      "endsAt": "2026-11-08T18:00:00",
+      "title": "Локомотив — Динамо-АК Барс (Казань)",
+      "categoryId": "sports",
+      "venueId": "nдворец-спорта-янтарный-amber-arena-",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "0+",
+      "description": "В гости к «Локомотиву» приедет действующий чемпион России — казанское «Динамо-Ак Барс». В этом сезоне команды уже трижды встречались друг с другом на Кубке легенд. Две победы на счету казанской команды, и одна — у «Локо». У калининградок будет шанс сравнять счет в противостоянии.",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124554-lokomotiv-dinamo-ak-bars-kazan",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@65159516?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMFwvN3I3NjF6ZWthdV8zRHVhTk92amhaQlh2a042SXlBUzg3a3BfZzdOMGhIZ01meUZVcUZqem85OElKcFRvc0tOMl8wX1BsX2EzUU13VW82VHRuV01ZS1FkNENQc2lTUFRHekVoLmpwZyJdLFsicCIsInRodW1iIiwiMTcwN3gxMzEzKzArMTI0Il0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=79c96fc81eb9c959"
+    },
+    {
       "id": "123794",
       "startsAt": "2026-11-08T19:00:00",
       "endsAt": "2026-11-08T19:00:00",
@@ -2000,6 +2047,24 @@
       "sourceUrl": "https://klops.ru/afisha/124095-leonid-kulakov",
       "ticketUrl": "https://widget.kassir.ru/?type=A&key=ae85de6e-3307-c55d-9e9e-63d6bd140d32&domain=kgd.kassir.ru&id=197295",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA4XC8yNlwvNnNxODU5ZTQ5al8xYWE0Mjk0NzIyMTJjMjFmNDc3NWJiOWUwODEyMGIzNS5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=35ff77524e9cae3d"
+    },
+    {
+      "id": "124555",
+      "startsAt": "2026-11-18T19:00:00",
+      "endsAt": "2026-11-18T19:00:00",
+      "title": "Локомотив — Динамо (Москва)",
+      "categoryId": "sports",
+      "venueId": "nдворец-спорта-янтарный-amber-arena-",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "0+",
+      "description": "«Локомотив» против московского «Динамо» — это всегда ярко, интересно и драматично. Тем более, что в составе обеих команд есть игроки, которые выйдут на площадку против своих бывших клубов. Например, нынешняя москвичка Юлия Бровкина против «Локо». Или новоявленная калининградка Ирина Капустина против «Динамо». Это придаст интриги матчу!",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124555-lokomotiv-dinamo-moskva",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@65159571?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMFwvNnNycjRzZWMyMV9oYU9ndmVYOHFrWDY1elZGbXV0OHdJNEl0dVN0WmI1ZEVQUV9fWFhjd190ZTVUM0VhTjJXbFhQSzQyeGRSUHN5cVkyUHFjY1c4bkpBb01jQ1dQZXFfT2NkUkhRYV9BLmpwZyJdLFsicCIsInRodW1iIiwiMTcwN3gxMzEzKzArMTA0Il0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=da3675baa8abb8ff"
     },
     {
       "id": "123793",

@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-21T09:29:13.063Z",
+  "generatedAt": "2026-10-22T09:32:28.656Z",
   "generator": "scripts/fetch-events.mjs — краулер реальной афиши klops.ru",
   "source": "https://klops.ru/afisha/",
   "note": "Реальные события Калининграда, собранные автоматическим обходом публичной серверной афиши klops.ru (материалы сайта распространяются по лицензии CC BY-SA 4.0). Даты и площадки — из микроформата schema.org/Event. Цена -1 означает платный вход без публикуемой цены.",
-  "horizonDays": 142,
+  "horizonDays": 141,
   "venues": [
+    {
+      "id": "yantar-hall",
+      "name": "Янтарь-Холл",
+      "shortName": "Янтарь-Холл",
+      "address": "г. Светлогорск, Калининградская область",
+      "district": "Светлогорский городской округ",
+      "description": "Современный концертно-конгрессный комплекс на побережье Балтийского моря: гастрольные шоу, фестивали и форумы.",
+      "site": null,
+      "lat": 54.945671,
+      "lng": 20.159533
+    },
+    {
+      "id": "philharmonic",
+      "name": "Калининградская областная филармония им. Е. Ф. Светланова",
+      "shortName": "Областная филармония",
+      "address": "пр-т Мира, 279 (кирха памяти королевы Луизы) и новый зал на Московском проспекте",
+      "district": "Центральный район",
+      "description": "Главная концертная организация региона: камерный зал в восстановленной кирхе королевы Луизы 1899 года и новый Большой концертный зал с органом.",
+      "site": "https://kldphil.ru",
+      "lat": 54.697547,
+      "lng": 20.509535
+    },
     {
       "id": "nдворец-спорта-янтарный-amber-arena-",
       "name": "Дворец спорта \"Янтарный\" (Amber Arena)",
@@ -17,15 +39,15 @@
       "lng": 20.485469
     },
     {
-      "id": "yantar-hall",
-      "name": "Янтарь-Холл",
-      "shortName": "Янтарь-Холл",
-      "address": "г. Светлогорск, Калининградская область",
-      "district": "Светлогорский городской округ",
-      "description": "Современный концертно-конгрессный комплекс на побережье Балтийского моря: гастрольные шоу, фестивали и форумы.",
+      "id": "dramteatr",
+      "name": "Калининградский областной драматический театр",
+      "shortName": "Драматический театр",
+      "address": "ул. Луначарского, 53",
+      "district": "Центральный район",
+      "description": "Старейший театр региона, открытый в 1947 году. Репертуар включает классику, современную драматургию и постановки для детей.",
       "site": null,
-      "lat": 54.945671,
-      "lng": 20.159533
+      "lat": 54.719664,
+      "lng": 20.492629
     },
     {
       "id": "nпоселение-викингов-кауп",
@@ -50,28 +72,6 @@
       "lng": 20.504046
     },
     {
-      "id": "dramteatr",
-      "name": "Калининградский областной драматический театр",
-      "shortName": "Драматический театр",
-      "address": "ул. Луначарского, 53",
-      "district": "Центральный район",
-      "description": "Старейший театр региона, открытый в 1947 году. Репертуар включает классику, современную драматургию и постановки для детей.",
-      "site": null,
-      "lat": 54.719664,
-      "lng": 20.492629
-    },
-    {
-      "id": "philharmonic",
-      "name": "Калининградская областная филармония им. Е. Ф. Светланова",
-      "shortName": "Областная филармония",
-      "address": "пр-т Мира, 279 (кирха памяти королевы Луизы) и новый зал на Московском проспекте",
-      "district": "Центральный район",
-      "description": "Главная концертная организация региона: камерный зал в восстановленной кирхе королевы Луизы 1899 года и новый Большой концертный зал с органом.",
-      "site": "https://kldphil.ru",
-      "lat": 54.697547,
-      "lng": 20.509535
-    },
-    {
       "id": "nкинотеатр-заря-",
       "name": "Кинотеатр \"Заря\"",
       "shortName": "Заря",
@@ -94,15 +94,15 @@
       "lng": 20.453489
     },
     {
-      "id": "nстендап-клуб-локация-",
-      "name": "Стендап-клуб «Локация»",
-      "shortName": "Стендап-клуб «Локация»",
+      "id": "nмузей-курортной-моды",
+      "name": "Музей курортной моды",
+      "shortName": "Музей курортной моды",
       "address": "",
       "district": "",
       "description": "",
       "site": null,
-      "lat": 54.722056,
-      "lng": 20.529972
+      "lat": 54.96115,
+      "lng": 20.480969
     },
     {
       "id": "nкалининградский-областной-музыкальный-ко",
@@ -116,15 +116,15 @@
       "lng": 20.519771296958602
     },
     {
-      "id": "nдк-железнодорожников",
-      "name": "ДК железнодорожников",
-      "shortName": "ДК железнодорожников",
+      "id": "nконференц-зал-radisson-hotel",
+      "name": "Конференц-зал Radisson Hotel",
+      "shortName": "Конференц-зал Radisson Hotel",
       "address": "",
       "district": "",
       "description": "",
       "site": null,
-      "lat": 54.69277,
-      "lng": 20.506903
+      "lat": 54.71975936774785,
+      "lng": 20.50489679035101
     },
     {
       "id": "nкалининградский-театр-эстрады",
@@ -171,6 +171,17 @@
       "lng": 20.475444
     },
     {
+      "id": "nдк-железнодорожников",
+      "name": "ДК железнодорожников",
+      "shortName": "ДК железнодорожников",
+      "address": "",
+      "district": "",
+      "description": "",
+      "site": null,
+      "lat": 54.69277,
+      "lng": 20.506903
+    },
+    {
       "id": "cathedral",
       "name": "Кафедральный собор (Кнайпхоф)",
       "shortName": "Кафедральный собор",
@@ -182,15 +193,15 @@
       "lng": 20.511817
     },
     {
-      "id": "nкультурный-квартал-понарт-",
-      "name": "Культурный квартал «Понарт»",
-      "shortName": "Культурный квартал «Понарт»",
+      "id": "nстендап-клуб-локация-",
+      "name": "Стендап-клуб «Локация»",
+      "shortName": "Стендап-клуб «Локация»",
       "address": "",
       "district": "",
       "description": "",
       "site": null,
-      "lat": 54.681133,
-      "lng": 20.48732
+      "lat": 54.722056,
+      "lng": 20.529972
     },
     {
       "id": "nмузей-дом-китобоя-",
@@ -270,6 +281,17 @@
       "lng": 20.518222
     },
     {
+      "id": "nпосёлок-краснолесье",
+      "name": "Посёлок Краснолесье",
+      "shortName": "Посёлок Краснолесье",
+      "address": "",
+      "district": "",
+      "description": "",
+      "site": null,
+      "lat": 54.394315,
+      "lng": 22.376162
+    },
+    {
       "id": "nпионерский",
       "name": "Пионерский",
       "shortName": "Пионерский",
@@ -303,26 +325,15 @@
       "lng": 20.495029558196467
     },
     {
-      "id": "nмузей-курортной-моды",
-      "name": "Музей курортной моды",
-      "shortName": "Музей курортной моды",
+      "id": "nкалининградская-областная-юношеская-библ",
+      "name": "Калининградская областная юношеская библиотека имени В. Маяковского",
+      "shortName": "Библиотека им. В. Маяковского",
       "address": "",
       "district": "",
       "description": "",
       "site": null,
-      "lat": 54.96115,
-      "lng": 20.480969
-    },
-    {
-      "id": "nконференц-зал-radisson-hotel",
-      "name": "Конференц-зал Radisson Hotel",
-      "shortName": "Конференц-зал Radisson Hotel",
-      "address": "",
-      "district": "",
-      "description": "",
-      "site": null,
-      "lat": 54.71975936774785,
-      "lng": 20.50489679035101
+      "lat": 54.69719528693663,
+      "lng": 20.505429949737305
     },
     {
       "id": "bfu",
@@ -336,37 +347,15 @@
       "lng": 20.527546
     },
     {
-      "id": "nчерняховск",
-      "name": "Черняховск",
-      "shortName": "Черняховск",
+      "id": "nкалининград",
+      "name": "Калининград",
+      "shortName": "Калининград",
       "address": "",
       "district": "",
       "description": "",
       "site": null,
-      "lat": 54.630706,
-      "lng": 21.819503
-    },
-    {
-      "id": "nкалининградская-областная-юношеская-библ",
-      "name": "Калининградская областная юношеская библиотека имени В. Маяковского",
-      "shortName": "Библиотека им. В. Маяковского",
-      "address": "",
-      "district": "",
-      "description": "",
-      "site": null,
-      "lat": 54.69719528693663,
-      "lng": 20.505429949737305
-    },
-    {
-      "id": "nицаэ",
-      "name": "ИЦАЭ",
-      "shortName": "ИЦАЭ",
-      "address": "",
-      "district": "",
-      "description": "",
-      "site": null,
-      "lat": 54.720683,
-      "lng": 20.498378
+      "lat": 54.70739,
+      "lng": 20.507307
     },
     {
       "id": "nбиблиотека-посёлка-космодемьянского-библ",
@@ -378,6 +367,28 @@
       "site": null,
       "lat": 54.728961,
       "lng": 20.355609
+    },
+    {
+      "id": "nпосёлок-янтарный",
+      "name": "Посёлок Янтарный",
+      "shortName": "Посёлок Янтарный",
+      "address": "",
+      "district": "",
+      "description": "",
+      "site": null,
+      "lat": 54.866591,
+      "lng": 19.938557
+    },
+    {
+      "id": "nбар-бастион-",
+      "name": "Бар «Бастион»",
+      "shortName": "Бар «Бастион»",
+      "address": "",
+      "district": "",
+      "description": "",
+      "site": null,
+      "lat": 54.68104,
+      "lng": 20.486583
     },
     {
       "id": "nрусский-центр-искусства",
@@ -416,8 +427,8 @@
   "events": [
     {
       "id": "123056",
-      "startsAt": "2026-10-21T09:00:00",
-      "endsAt": "2026-10-21T09:00:00",
+      "startsAt": "2026-10-22T09:00:00",
+      "endsAt": "2026-10-22T09:00:00",
       "title": "Экспозиция музейно-выставочного комплекса «Янтарный замок»",
       "categoryId": "exhibitions",
       "venueId": "n-янтарный-замок-",
@@ -434,8 +445,8 @@
     },
     {
       "id": "123153",
-      "startsAt": "2026-10-21T10:00:00",
-      "endsAt": "2026-10-21T10:00:00",
+      "startsAt": "2026-10-22T10:00:00",
+      "endsAt": "2026-10-22T10:00:00",
       "title": "«Куплю гараж»",
       "categoryId": "exhibitions",
       "venueId": "nмузей-дом-китобоя-",
@@ -452,8 +463,8 @@
     },
     {
       "id": "124502",
-      "startsAt": "2026-10-21T10:00:00",
-      "endsAt": "2026-10-21T10:00:00",
+      "startsAt": "2026-10-22T10:00:00",
+      "endsAt": "2026-10-22T10:00:00",
       "title": "РОВЕСНИКИ: ретроспективная фотовыставка Станислава Покровского",
       "categoryId": "exhibitions",
       "venueId": "history-museum",
@@ -470,8 +481,8 @@
     },
     {
       "id": "124273",
-      "startsAt": "2026-10-21T11:00:00",
-      "endsAt": "2026-10-21T11:00:00",
+      "startsAt": "2026-10-22T11:00:00",
+      "endsAt": "2026-10-22T11:00:00",
       "title": "«Разнообразие»",
       "categoryId": "exhibitions",
       "venueId": "amber-museum",
@@ -485,132 +496,6 @@
       "sourceUrl": "https://klops.ru/afisha/124273-raznoobrazie",
       "ticketUrl": null,
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xN1wvNHJ1cDJkcW4yd185dHNhNTY5c3hkMnlnZmF2ajN1eThtbXNudnhuczh3bi5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=753230a83c6a749d"
-    },
-    {
-      "id": "124552",
-      "startsAt": "2026-10-21T14:00:00",
-      "endsAt": "2026-10-21T14:00:00",
-      "title": "Творческая встреча с Валерием Горбанем",
-      "categoryId": "education",
-      "venueId": "nчерняховск",
-      "price": 0,
-      "priceNote": null,
-      "ageLimit": "12+",
-      "description": "В Черняховске состоится встреча с поэтом, писателем, участником контртеррористической операции в Чечне и кавалером ордена Мужества Валерием Горбанем.\n\nВход свободный.\n\nЭто событие в СМИ Анонсы",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124552-tvorcheskaya-vstrecha-s-valeriem-gorbanem",
-      "ticketUrl": null,
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8xOVwvMjM2OHJmbDVoMl8yMDI2XzEwXzE5XzEwLjU2LjM2LmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=49e85099a148b6f0"
-    },
-    {
-      "id": "124532",
-      "startsAt": "2026-10-21T15:00:00",
-      "endsAt": "2026-10-21T15:00:00",
-      "title": "Выставка «Процесс»",
-      "categoryId": "exhibitions",
-      "venueId": "nдом-книжного-наследия-xx-века-имени-н-с-",
-      "price": 0,
-      "priceNote": null,
-      "ageLimit": "12+",
-      "description": "17 октября в Доме книжного наследия ХХ века им. Н. С. Гумилёва состоится открытие художественной выставки комиксов калининградского художника Яны Кулишовой.\n\nПосетители узнают о процессе создания рисованных историй, о самом виде этого искусства, его особенностях — преимуществах и ограничениях, сложностях цветопередачи, степени заимствования форм, взаимодействию текста и изображения и о многих других интересных подробностях.\n\nВыставка работает по 31 октября.\n\nЭто событие в СМИ Анонсы",
-      "highlights": null,
-      "recurring": "Идёт сейчас",
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124532-vystavka-protsess",
-      "ticketUrl": null,
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8xNVwvOGVhdmFiOG1sdV96aC5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=8265892375ac2c78"
-    },
-    {
-      "id": "124547",
-      "startsAt": "2026-10-21T18:00:00",
-      "endsAt": "2026-10-21T18:00:00",
-      "title": "Книжный нетворкинг «Читать не перечитать»",
-      "categoryId": "education",
-      "venueId": "nкалининградская-областная-юношеская-библ",
-      "price": 0,
-      "priceNote": null,
-      "ageLimit": "16+",
-      "description": "21 октября, 18:00 — Встреча книжных блогеров и читателей «Читать не перечитать».\n\nПочему одни книги становятся любимыми у тысяч читателей, а о других знают только самые преданные поклонники? Где мы находим книги, которые хочется советовать друзьям? И как рассказывать о прочитанном так, чтобы другим тоже захотелось открыть эту книгу?\n\n21 октября в 18:00 встречаемся в Маяковке на встрече «Читать не перечитать»!\n\nХочется собрать людей, для которых книги — это не только чтение наедине с собой, но и повод знакомиться, общаться, делиться впечатлениями и находить единомышленников. …",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124547-knizhnyy-netvorking-chitat-ne-perechitat",
-      "ticketUrl": null,
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8xOVwvMmxtcDVoZG9xOF8yMDI2XzEwXzE5XzEwLjE4LjU3LmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=e510195a034f7bc8"
-    },
-    {
-      "id": "124548",
-      "startsAt": "2026-10-21T18:30:00",
-      "endsAt": "2026-10-21T18:30:00",
-      "title": "«Семейная среда: вторая жизнь вещей»",
-      "categoryId": "education",
-      "venueId": "nицаэ",
-      "price": 0,
-      "priceNote": null,
-      "ageLimit": "6+",
-      "description": "Как правильно сортировать отходы и какие виды пластика можно сдать на переработку? Разберёмся на «Семейной среде: вторая жизнь вещей» в ИЦАЭ Калининграда!\n\nОлеся Лавриненко, руководитель просветительских программ Союза переработчиков отходов Калининградской области, на лекции «Разделяй, сдавай, используй» расскажет, какие материалы принимают на переработку, куда сдавать вторсырьё и во что оно превращается.\n\nНа мастер-классе «Мусорная инженерия» всей семьёй научимся различать виды пластика, разберём спорные случаи и типичные ошибки сортировки. А памятка поможет применять новые знания дома.\n\nПриходите всей семьёй — узнавать новое и осваивать полезные экопривычки на практике!\n\n21 октября, 18:30\n\nЭто событие в СМИ Анонсы",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124548-semeynaya-sreda-vtoraya-zhizn-veschey",
-      "ticketUrl": null,
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8xOVwvNDVyejhsaXpueV9mclVTaVhmdmpxN3dTX0RnUFA3bktTNnRydGVvNGxzaW5ma2Q2WGJ6RHRPRGRlNjZfVkNxNFRUOEtEZ0NaVFBSQTU5X0pVMDNXS0NCb29OWHFzVXFkbzZfLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=80944dc8ce052852"
-    },
-    {
-      "id": "124376-1",
-      "startsAt": "2026-10-21T19:00:00",
-      "endsAt": "2026-10-21T19:00:00",
-      "title": "Стендап: Открытый микрофон",
-      "categoryId": "humor",
-      "venueId": "nстендап-клуб-локация-",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "18+",
-      "description": "Открытый микрофон — это живая площадка, где комики презентуют зрителям только что написанные и ещё не отполированные монологи. Новички получают шанс попробовать себя в роли комика, а опытные тестируют свежие заходы. Реакция публики — самый честный редактор, а потому «Открытый микрофон» — это особая комедийная атмосфера, заряженная ожиданием и настоящим моментом.",
-      "highlights": null,
-      "recurring": "4 даты",
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124376-stendap-otkrytyy-mikrofon",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/801833?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8yNVwvOHVzaThwM2VldV82YTJhYjAyN2Y4MmUxYWM4MWRhZTU3ZjgucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=cb7df45f64aafe19"
-    },
-    {
-      "id": "124232",
-      "startsAt": "2026-10-21T19:00:00",
-      "endsAt": "2026-10-21T19:00:00",
-      "title": "Табула раса",
-      "categoryId": "concerts",
-      "venueId": "cathedral",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "6+",
-      "description": "Новая Среда Московской филармонии соединит Альфреда Шнитке и Арво Пярта. Думаете, для них это впервые?\n\nНет, впервые было в Таллине 30 сентября 1977 года, когда Tabula rasa встала в пару к Concerto grosso №1, а партию фортепиано в ней исполнил сам Альфред Гарриевич. Появилась эта музыка по просьбе эстонского дирижера Эри Класа, задумавшего исполнить новый концерт Шнитке, но ощущающего необходимость дополнить программу. Пярт дополнить согласился. Взял тот же состав: две солирующие скрипки в лице Татьяны Гринденко и Гидона Кремера, струнный оркестр, препарированный рояль (у Шнитке был еще клавесин). Так осенью в Таллине собралась потрясающая компания. …",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124232-tabula-rasa",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@63630553?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xNFwvdHlheWR5amxxXzUuanBnIl0sWyJwIiwidGh1bWIiLCIzMTJ4MjQwKzArMCJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=77b8b7a026729244"
-    },
-    {
-      "id": "124056",
-      "startsAt": "2026-10-21T19:00:00",
-      "endsAt": "2026-10-21T19:00:00",
-      "title": "«Нюрнберг»",
-      "categoryId": "theatre",
-      "venueId": "dramteatr",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "16+",
-      "description": "Зрители окажутся во Дворце правосудия во время работы международного военного трибунала в финале величайшей трагедии XX века – II Мировой войны. Материалы к его заседаниям готовили члены делегаций четырех держав-победителей. Их сложные закулисные отношения будут в центре внимания публики. Кстати, среди исторических персонажей – не только участники процесса, но и звезда тех времен Марлен Дитрих.\n\nПо словам режиссера-постановщика, действие будет происходить на средней сцене. Зрители станут свидетелями драмы, которая разворачивается среди персонала суда из разных стран. Крупным планом – любовь, не допустимая по идеологическим причинам. Главные герои из одного поколения, разделенного революцией. В отличие от нацистских преступников, участь молодых влюбленных не известна до самого конца. …",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124056-nyurnberg",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@62696777?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA4XC8xOFwvNHZyNGxrbDNncV9GSUxHNjQwOF8yX2JpZy5qcGVnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=4c4664a71fc54435"
     },
     {
       "id": "124549",
@@ -631,6 +516,24 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8xOVwvZ3p0b213aGQwX21vLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=b15514edae164388"
     },
     {
+      "id": "124532",
+      "startsAt": "2026-10-22T15:00:00",
+      "endsAt": "2026-10-22T15:00:00",
+      "title": "Выставка «Процесс»",
+      "categoryId": "exhibitions",
+      "venueId": "nдом-книжного-наследия-xx-века-имени-н-с-",
+      "price": 0,
+      "priceNote": null,
+      "ageLimit": "12+",
+      "description": "17 октября в Доме книжного наследия ХХ века им. Н. С. Гумилёва состоится открытие художественной выставки комиксов калининградского художника Яны Кулишовой.\n\nПосетители узнают о процессе создания рисованных историй, о самом виде этого искусства, его особенностях — преимуществах и ограничениях, сложностях цветопередачи, степени заимствования форм, взаимодействию текста и изображения и о многих других интересных подробностях.\n\nВыставка работает по 31 октября.\n\nЭто событие в СМИ Анонсы",
+      "highlights": null,
+      "recurring": "Идёт сейчас",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124532-vystavka-protsess",
+      "ticketUrl": null,
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8xNVwvOGVhdmFiOG1sdV96aC5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=8265892375ac2c78"
+    },
+    {
       "id": "124550",
       "startsAt": "2026-10-22T15:00:00",
       "endsAt": "2026-10-22T15:00:00",
@@ -649,7 +552,7 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8xOVwvNzhvdnZ0ZWE0Zl8yMDI2XzEwXzE5XzExLjAwLjA2LmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=9ed8ebb4a4a88db7"
     },
     {
-      "id": "124337",
+      "id": "124337-1",
       "startsAt": "2026-10-22T18:00:00",
       "endsAt": "2026-10-22T18:00:00",
       "title": "Музыкально-гастрономический вечер «Джаз сквозь годы»",
@@ -660,10 +563,10 @@
       "ageLimit": "12+",
       "description": "Приглашаем вас на концерт в уютной театральной гостиной «Солёная ворона» на берегу Балтийского моря!\n\nПевец и музыкант Илья Пищенко (г. Санкт-Петербург) с программой «ДЖАЗ СКВОЗЬ ГОДЫ» при участии виртуозного гитариста Дмитрия Солодовникова. В программе — золотые хиты джаза разных лет, которые помогут вам погрузиться в атмосферу отдыха и самого лучшего настроения! Ожидайте ярких импровизаций, искренних эмоций и великолепного музыкального настроения!\n\nПо окончании представления Вас ждёт ужин от шеф-повара кафе «Солёная ворона» Константина Сорокина: салат, горячее и десерт. «Изюминка» ужина — фирменный марципановый кофе. Приветствуются свои напитки и хорошее настроение\n\nДжаза много не бывает!\n\nВажно: бесплатная парковка в Зеленоградске! Стоимость билета (концерт+ужин) — 3000 рублей. Подробная информация: +79052435843",
       "highlights": null,
-      "recurring": null,
+      "recurring": "2 даты",
       "source": "Klops.ru — афиша Калининграда",
       "sourceUrl": "https://klops.ru/afisha/124337-muzykalno-gastronomicheskiy-vecher-dzhaz-skvoz-gody",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64032451?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=20139",
+      "ticketUrl": null,
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8yM1wvNHE2b254YWR5OV8yMl8ucG5nIl0sWyJwIiwidGh1bWIiLCIxMDIzeDc4NiswKzEwMiJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=7f43d8c7f97e68fc"
     },
     {
@@ -937,22 +840,58 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA1XC8yOVwvMXN5bXN0dTYzdV8xMjAwXzgwMF9fXy5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=80d3bb25226ac323"
     },
     {
-      "id": "124427",
+      "id": "124590",
       "startsAt": "2026-10-24T10:00:00",
       "endsAt": "2026-10-24T10:00:00",
-      "title": "Фестиваль «Зелёный Кёнигсберг»",
-      "categoryId": "festivals",
-      "venueId": "nкультурный-квартал-понарт-",
+      "title": "Мероприятия Молодёжного центра",
+      "categoryId": "education",
+      "venueId": "nкалининград",
       "price": 0,
       "priceNote": null,
-      "ageLimit": "0+",
-      "description": "«Зелёный Кёнигсберг» возвращается — и этой осенью мы ныряем глубже.\n\nНовая тема фестиваля — Мировой океан. На первый взгляд океан и фестиваль комнатных растений могут казаться разными биомами, но на самом деле это одна большая история жизни: водоросли и фитопланктон, морские травы, коралловые сообщества, влажные тропики и всё то зелёное, что когда-то вышло из воды и постепенно захватило сушу.\n\nВ этот раз «Понарт» превратится в подводный зелёный мир: среди монстер, алоказий, суккулентов и других растений будем искать связи между привычной домашней коллекцией и океаном, без которого жизнь на планете просто не сложилась бы.\n\nКак всегда, вас ждут растения, локальные проекты, эксперты, лекции, мастер-классы, зелёные находки, общение и возможность немного обновить свою коллекцию 🪴\n\nБудет много живого, необычного и красивого — от подводной флоры до ваших любимых домашних джунглей. …",
+      "ageLimit": "12+",
+      "description": "Суббота:\n\n17:00 — вечер настольных игр в «Райдер плюс» (Куйбышева, 91а),\n\n17:00 — мастер-класс «Народные промыслы» в клубе «Спутник» (Карташева, 6).\n\nВоскресенье:\n\n15:00 — соревнования по жонглированию «Кидай каскад» в «Райдер плюс» (Куйбышева, 91а).\n\nВход свободный. Все мероприятия проводятся бесплатно для жителей Калининграда в возрасте от 10 до 35 лет.\n\nСайт входит в медиагруппу «Западная пресса» ОГРН 1063906014743, ИНН 3906148636, КПП 390601001",
       "highlights": null,
       "recurring": null,
       "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124427-festival-zelyonyy-kyonigsberg",
+      "sourceUrl": "https://klops.ru/afisha/124590-meropriyatiya-molodyozhnogo-tsentra",
       "ticketUrl": null,
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wNlwvMnVyNTFhMHd2MF9CT1RzdHdkVWYwem5vaW5UanprNWJyY081RlZISUhaUlBmb2EwZ19TWUdEYjRrY1h4bG94bHFuVDlqTkFOVmV4WjNTN2x5UlpDV2hfM09PRmFfMmd6d015LmpwZyJdLFsicCIsInRodW1iIiwiODUzeDY1NiswKzMxIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=7528c944bf308d82"
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMlwvNnc3dHJwbTVmNF8yMDI2XzEwXzIyXzEwLjUyLjM1LmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=ce85d8e4a1a4705d"
+    },
+    {
+      "id": "124589",
+      "startsAt": "2026-10-24T11:00:00",
+      "endsAt": "2026-10-24T11:00:00",
+      "title": "День ряпушки в посёлке Краснолесье",
+      "categoryId": "festivals",
+      "venueId": "nпосёлок-краснолесье",
+      "price": 0,
+      "priceNote": null,
+      "ageLimit": "0+",
+      "description": "Все ближе суббота, посвященная ряпушке! Рады представить вам подробную программу!\n\n11.00 – 16.00, Площадь напротив Виштынецкого эколого-исторического музея: стрит фуд из ряпушки от пионеров локальной гастрономии, Ярмарка «Вкусов Виштынецкой возвышенности»\n\n12.00 – 14.00, Краснолесенский дом культуры, Мастерская благоустройства Краснолесья с Петром Шереметьевым и Александрой Ильиной\n\n13.00 и 14.30, Старт от Виштынецкого эколого-исторического музея, Прогулки по округе с местными жителями (13.00 с Александром Дорошкиным (2 часа). Запись по тел. +7 963 290-02-68, 14.30 с Натальей Чечсна. Запись по тел. +7 921-107-05-16)\n\n13.00 – 16.00, Виштынецкий эколого-исторический музей. Лекционная программа о ряпушке в природе и гастрономии региона, а также истории Красной Книги региона от ихтиолога Олега Новожилова, Историка Светланы Колбанёвой и биолога Юлии Гришановой\n\n16. …",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124589-den-ryapushki-v-posyolke-krasnolesie",
+      "ticketUrl": null,
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMlwvNzc2Y2o3aHhicl9RTzMwNDBmNDV2MWxVekdFTzd0aWYyVm9qY0thY19HbzhQZm1JaU11SDZmVnZXdmFBTE9ORjRBcXpnX2QyeDF1ZDJZRGkySll1WEtWZW5jSUZnMVpETW1vLmpwZyJdLFsicCIsInRodW1iIiwiMjA0OHgxNTc1KzArNzM3Il0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=0bdbf33f260c94c1"
+    },
+    {
+      "id": "124588",
+      "startsAt": "2026-10-24T12:00:00",
+      "endsAt": "2026-10-24T12:00:00",
+      "title": "Экологический субботник в Янтарном",
+      "categoryId": "education",
+      "venueId": "nпосёлок-янтарный",
+      "price": 0,
+      "priceNote": null,
+      "ageLimit": "0+",
+      "description": "24 октября в 12:00 в Nordic Spa состоится экологический субботник, посвящённый заботе о побережье Балтийского моря.\n\nМы приглашаем вас присоединиться к мероприятию, а также будем благодарны за информационную поддержку - размещение анонса на ваших ресурсах, сайте или в социальных сетях.\n\nМоре и дюны принадлежат всем нам. Давайте вместе о них позаботимся!\n\nМы собираемся не просто убрать мусор, а привлечь внимание к бережному отношению к природе и сохранению красоты балтийского побережья.\n\nВ программе мероприятия:\n\nСовместная уборка побережья\n\nБеспроигрышная лотерея для всех участников\n\nСогревающие напитки и приятная атмосфера\n\nВозможность увидеть сухогруз у побережья\n\nДата: 24 октября. Время: 12:00. Место: Nordic Spa, п. Янтарный, ул.Морская Набережная, 9Г.\n\nСайт входит в медиагруппу «Западная пресса» ОГРН 1063906014743, ИНН 3906148636, КПП 390601001",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124588-ekologicheskiy-subbotnik-v-yantarnom",
+      "ticketUrl": null,
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMlwvMnVvbDk3Y3NzN18yMDI2XzEwXzIyXzEwLjMwLjU1LmpwZyJdLFsicCIsInRodW1iIiwiOTYweDczOCswKzQ3OCJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=3284a2b67965e1e3"
     },
     {
       "id": "124575",
@@ -1207,6 +1146,24 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xOFwvN2xoczRxeW1uOF8yNS4xMF8ucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=38e162fb561f992c"
     },
     {
+      "id": "124592",
+      "startsAt": "2026-10-25T12:00:00",
+      "endsAt": "2026-10-25T12:00:00",
+      "title": "Фримаркет",
+      "categoryId": "education",
+      "venueId": "nбар-бастион-",
+      "price": 0,
+      "priceNote": null,
+      "ageLimit": "0+",
+      "description": "ФРИМАРКЕТ — место, где хорошие вещи обретают вторую жизнь, а участники – отличное настроение и полезные находки. Осознанное потребление и душевный шоппинг. Вход свободный / Всё бесплатно\n\nВозникли вопросы? Звоните: +7 (4012) 33-73-72\n\nСайт входит в медиагруппу «Западная пресса» ОГРН 1063906014743, ИНН 3906148636, КПП 390601001",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124592-frimarket",
+      "ticketUrl": null,
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMlwvNHMzcnZrMDdieF81eV83NDRUMEV0X3doMGNTeVp6bW42VUpWV2FfWjFiT1NFaEwwbnFFYWdSdUVVZ0JYQWJsSFY5WGlRQTBfWUtQMkJneXVfSTZMY2JuVHhwa0RncnNvZlBYLmpwZyJdLFsicCIsInRodW1iIiwiMTY5NngxMzA0KzArMCJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=c3047c44a7bcb6e4"
+    },
+    {
       "id": "123995-1",
       "startsAt": "2026-10-25T14:00:00",
       "endsAt": "2026-10-25T14:00:00",
@@ -1279,22 +1236,22 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xOFwvNzYzajFyZGUxZl82YTlkNjMyNDQyMDU4ZWMyYjM3MGU4NGYucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=f8ee18d01ba82d83"
     },
     {
-      "id": "123995-2",
-      "startsAt": "2026-10-25T17:00:00",
-      "endsAt": "2026-10-25T17:00:00",
-      "title": "Бродский. Обещание любви",
-      "categoryId": "theatre",
-      "venueId": "nкалининградский-областной-музыкальный-те",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
+      "id": "124593",
+      "startsAt": "2026-10-25T16:00:00",
+      "endsAt": "2026-10-25T16:00:00",
+      "title": "Тренинг «Моя реализация. Чего хочу я?»",
+      "categoryId": "education",
+      "venueId": "nкалининградская-областная-юношеская-библ",
+      "price": 0,
+      "priceNote": null,
       "ageLimit": "16+",
-      "description": "Тысячелетиями люди пытаются понять, что такое любовь — награда, божий дар или испытание?! Для Иосифа Бродского первая любовь стала единственной, другой любви не могло быть, хотя вокруг было много красивых женщин.\n\nСпектакль «Бродский. Обещание любви» погружает нас в историю любви поэта и Марины Басмановой, которая была для творца не только любимой женщиной, но и музой.\n\nПроект реализован на средства Государственной стипендии Правительства РФ для молодых деятелей культуры и искусства, работающих в региональных театрах, от Союза театральных деятелей Российской Федерации, при поддержке Калининградского отделения СТД РФ.",
+      "description": "Тренинг с семейным психотерапевтом Еленой Гончаровой (Губановой). Участники поговорят о том, как понимать свои желания, определять личные цели и находить ресурсы для их достижения, как уделять время себе, слышать свои потребности и двигаться к желаемому, не теряя себя.\n\nВход свободный, по предварительной регистрации.\n\nСайт входит в медиагруппу «Западная пресса» ОГРН 1063906014743, ИНН 3906148636, КПП 390601001",
       "highlights": null,
-      "recurring": "2 даты",
+      "recurring": null,
       "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/123995-brodskiy-obeschanie-lyubvi",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/632156?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA4XC8xMlwvODd2amxtaWJldV9fLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=e47eab86015c25b4"
+      "sourceUrl": "https://klops.ru/afisha/124593-trening-moya-realizatsiya-chego-hochu-ya",
+      "ticketUrl": null,
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMlwvc3FvZGk5YnBhXzIwMjZfMTBfMjJfMTEuMTQuMzUuanBnIl0sWyJwIiwidGh1bWIiLCI4NTJ4NjU1KzArMTIxIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=fb4996b3a06c5f68"
     },
     {
       "id": "124195",
@@ -1313,6 +1270,24 @@
       "sourceUrl": "https://klops.ru/afisha/124195-lektsiya-neveroyatnye-istorii-plyazhnoy-mody",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@63425634?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=20139",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8wOVwvOGN0ZXdqMHoyNl8xLmpwZyJdLFsicCIsInRodW1iIiwiMzIwMXgyNDYzKzQwKzAiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=7dc853c356caf01c"
+    },
+    {
+      "id": "123995-2",
+      "startsAt": "2026-10-25T17:00:00",
+      "endsAt": "2026-10-25T17:00:00",
+      "title": "Бродский. Обещание любви",
+      "categoryId": "theatre",
+      "venueId": "nкалининградский-областной-музыкальный-те",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "16+",
+      "description": "Тысячелетиями люди пытаются понять, что такое любовь — награда, божий дар или испытание?! Для Иосифа Бродского первая любовь стала единственной, другой любви не могло быть, хотя вокруг было много красивых женщин.\n\nСпектакль «Бродский. Обещание любви» погружает нас в историю любви поэта и Марины Басмановой, которая была для творца не только любимой женщиной, но и музой.\n\nПроект реализован на средства Государственной стипендии Правительства РФ для молодых деятелей культуры и искусства, работающих в региональных театрах, от Союза театральных деятелей Российской Федерации, при поддержке Калининградского отделения СТД РФ.",
+      "highlights": null,
+      "recurring": "2 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/123995-brodskiy-obeschanie-lyubvi",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/632156?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA4XC8xMlwvODd2amxtaWJldV9fLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=e47eab86015c25b4"
     },
     {
       "id": "124296",
@@ -1369,22 +1344,22 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8xM1wvM3N4Nzgwdmt1dF8yZTgwNmExMjZhY2MxYmM2Y2Y2OWNlNzAzNjRmMjgyMC5qcGciXSxbInAiLCJ0aHVtYiIsIjUwOXgzOTIrMCswIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=bba15ba2921ddf91"
     },
     {
-      "id": "124376-2",
+      "id": "124145",
       "startsAt": "2026-10-25T20:00:00",
       "endsAt": "2026-10-25T20:00:00",
-      "title": "Стендап: Открытый микрофон",
+      "title": "Сольный стендап концерт Вадима Постильного",
       "categoryId": "humor",
       "venueId": "nстендап-клуб-локация-",
       "price": -1,
       "priceNote": "Точная цена — на странице продавца билетов",
       "ageLimit": "18+",
-      "description": "Открытый микрофон — это живая площадка, где комики презентуют зрителям только что написанные и ещё не отполированные монологи. Новички получают шанс попробовать себя в роли комика, а опытные тестируют свежие заходы. Реакция публики — самый честный редактор, а потому «Открытый микрофон» — это особая комедийная атмосфера, заряженная ожиданием и настоящим моментом.",
+      "description": "Вадим Постильный — резидент шоу «Stand Up» на ТНТ и финалист «Comedy Баттл». Его сольный концерт — это честный стендап о жизни, людях вокруг и ситуациях, которые каждый узнаёт с первых секунд. Фирменная самоирония, острые наблюдения и истории, в которых легко увидеть себя, своих друзей и всё то, что происходит с нами каждый день. Это юмор без лишнего пафоса — смешной, понятный и настоящий!",
       "highlights": null,
-      "recurring": "4 даты",
+      "recurring": null,
       "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124376-stendap-otkrytyy-mikrofon",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/801833?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8yNVwvOHVzaThwM2VldV82YTJhYjAyN2Y4MmUxYWM4MWRhZTU3ZjgucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=cb7df45f64aafe19"
+      "sourceUrl": "https://klops.ru/afisha/124145-solnyy-stendap-kontsert-vadima-postilnogo",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@63034507?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA4XC8zMVwvNGh1NWM2MjBld182YTZjNjhkZjlhYzYxZDE5NmZjMGE0YjcucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=a54a26bca17e58b0"
     },
     {
       "id": "124059",
@@ -1439,24 +1414,6 @@
       "sourceUrl": "https://klops.ru/afisha/124248-koralina-v-strane-koshmarov",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/506137?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xNlwvOW5oa2c4bHJmaF9GSUxHNDUyMl9iaWcuanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=824c668ae3ac0fcc"
-    },
-    {
-      "id": "124376-3",
-      "startsAt": "2026-10-28T19:00:00",
-      "endsAt": "2026-10-28T19:00:00",
-      "title": "Стендап: Открытый микрофон",
-      "categoryId": "humor",
-      "venueId": "nстендап-клуб-локация-",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "18+",
-      "description": "Открытый микрофон — это живая площадка, где комики презентуют зрителям только что написанные и ещё не отполированные монологи. Новички получают шанс попробовать себя в роли комика, а опытные тестируют свежие заходы. Реакция публики — самый честный редактор, а потому «Открытый микрофон» — это особая комедийная атмосфера, заряженная ожиданием и настоящим моментом.",
-      "highlights": null,
-      "recurring": "4 даты",
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124376-stendap-otkrytyy-mikrofon",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/801833?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8yNVwvOHVzaThwM2VldV82YTJhYjAyN2Y4MmUxYWM4MWRhZTU3ZjgucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=cb7df45f64aafe19"
     },
     {
       "id": "124057",
@@ -1837,24 +1794,6 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8wOFwvMjdyNXZ1aTVzY18xMGM5YTEwNmM0NjYzYzQ3ZGVmZmUwNzBjMGFhYmIzOS5qcGciXSxbInAiLCJ0aHVtYiIsIjUwOXgzOTIrNjIzKzAiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=d9485bfef563a218"
     },
     {
-      "id": "124376-4",
-      "startsAt": "2026-11-01T19:00:00",
-      "endsAt": "2026-11-01T19:00:00",
-      "title": "Стендап: Открытый микрофон",
-      "categoryId": "humor",
-      "venueId": "nстендап-клуб-локация-",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "18+",
-      "description": "Открытый микрофон — это живая площадка, где комики презентуют зрителям только что написанные и ещё не отполированные монологи. Новички получают шанс попробовать себя в роли комика, а опытные тестируют свежие заходы. Реакция публики — самый честный редактор, а потому «Открытый микрофон» — это особая комедийная атмосфера, заряженная ожиданием и настоящим моментом.",
-      "highlights": null,
-      "recurring": "4 даты",
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124376-stendap-otkrytyy-mikrofon",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/801833?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8yNVwvOHVzaThwM2VldV82YTJhYjAyN2Y4MmUxYWM4MWRhZTU3ZjgucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=cb7df45f64aafe19"
-    },
-    {
       "id": "124200",
       "startsAt": "2026-11-02T19:00:00",
       "endsAt": "2026-11-02T19:00:00",
@@ -2071,6 +2010,24 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA3XC8yM1wvMnc3NjFhdGtmbl85MzVmZjNmYTQ2YzIxMmJlZTM2MDY1M2I3ZWVmYTBjYS5qcGciXSxbInAiLCJ0aHVtYiIsIjUwOXgzOTIrNjg1KzAiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=db0aac80d2edc9b6"
     },
     {
+      "id": "124337-2",
+      "startsAt": "2026-11-12T18:00:00",
+      "endsAt": "2026-11-12T18:00:00",
+      "title": "Музыкально-гастрономический вечер «Джаз сквозь годы»",
+      "categoryId": "concerts",
+      "venueId": "nкафе-солёная-ворона-",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "12+",
+      "description": "Приглашаем вас на концерт в уютной театральной гостиной «Солёная ворона» на берегу Балтийского моря!\n\nПевец и музыкант Илья Пищенко (г. Санкт-Петербург) с программой «ДЖАЗ СКВОЗЬ ГОДЫ» при участии виртуозного гитариста Дмитрия Солодовникова. В программе — золотые хиты джаза разных лет, которые помогут вам погрузиться в атмосферу отдыха и самого лучшего настроения! Ожидайте ярких импровизаций, искренних эмоций и великолепного музыкального настроения!\n\nПо окончании представления Вас ждёт ужин от шеф-повара кафе «Солёная ворона» Константина Сорокина: салат, горячее и десерт. «Изюминка» ужина — фирменный марципановый кофе. Приветствуются свои напитки и хорошее настроение\n\nДжаза много не бывает!\n\nВажно: бесплатная парковка в Зеленоградске! Стоимость билета (концерт+ужин) — 3000 рублей. Подробная информация: +79052435843",
+      "highlights": null,
+      "recurring": "2 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124337-muzykalno-gastronomicheskiy-vecher-dzhaz-skvoz-gody",
+      "ticketUrl": null,
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8yM1wvNHE2b254YWR5OV8yMl8ucG5nIl0sWyJwIiwidGh1bWIiLCIxMDIzeDc4NiswKzEwMiJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=7f43d8c7f97e68fc"
+    },
+    {
       "id": "124095",
       "startsAt": "2026-11-13T20:00:00",
       "endsAt": "2026-11-13T20:00:00",
@@ -2105,24 +2062,6 @@
       "sourceUrl": "https://klops.ru/afisha/124555-lokomotiv-dinamo-moskva",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@65159571?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMFwvNnNycjRzZWMyMV9oYU9ndmVYOHFrWDY1elZGbXV0OHdJNEl0dVN0WmI1ZEVQUV9fWFhjd190ZTVUM0VhTjJXbFhQSzQyeGRSUHN5cVkyUHFjY1c4bkpBb01jQ1dQZXFfT2NkUkhRYV9BLmpwZyJdLFsicCIsInRodW1iIiwiMTcwN3gxMzEzKzArMTA0Il0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=da3675baa8abb8ff"
-    },
-    {
-      "id": "123793",
-      "startsAt": "2026-11-19T19:00:00",
-      "endsAt": "2026-11-19T19:00:00",
-      "title": "Анна Егоян",
-      "categoryId": "concerts",
-      "venueId": "nдк-железнодорожников",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "6+",
-      "description": "«Ставка на любовь» — это искренний разговор о выборе, который определяет нашу жизнь. Мы ежедневно делаем ставки — на людей, на чувства, на решения, не зная до конца, к чему они приведут. Любовь — самая смелая из них, ведь за ней всегда стоят риск, надежда и последствия.\n\nВ программе звучат строки о встречах и расставаниях, о верности и ревности, о выборе, который меняет всё, и о цене, которую мы за него платим. Здесь любовь раскрывается как игра без правил, где невозможно просчитать исход, но именно в этом — её сила и притягательность. Каждое стихотворение становится шагом, каждая история — ставкой, каждая пауза — моментом ожидания.\n\n«Ставка на любовь» — это программа, где зритель становится участником этой игры. Потому что в конечном итоге каждый из нас решает: рискнуть или остаться в стороне. И делает свою главную ставку.\n\nЭто событие в СМИ Анонсы",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/123793-anna-egoyan",
-      "ticketUrl": "https://widget.kassir.ru/?type=E&key=ae85de6e-3307-c55d-9e9e-63d6bd140d32&domain=kgd.kassir.ru&id=4662493",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA3XC8yM1wvMWZtZTFrdThtc18yM2FmMDgxNGE2MDAzM2ZmNzM0MjU5MjdjMDA3NjRkNS5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=4d6798684b42d47a"
     },
     {
       "id": "122846",
@@ -2440,13 +2379,13 @@
       "price": -1,
       "priceNote": "Точная цена — на странице продавца билетов",
       "ageLimit": "0+",
-      "description": "Друзья, приглашаем вас на скоморошью потеху «Идет коза рогатая» — новогоднее представление, где скучать не придется ни детям, ни взрослым! Мы подготовили для вас вихрь веселья: звонкие песни, залихватские пляски, добрые шутки и старые добрые потешки, которые знают все поколения.\n\nНо это не просто спектакль! Вас ждет захватывающая детективная история, в которой предстоит разобраться вместе с нашими героями. И, конечно, какой же праздник без главных волшебников? Дедушка Мороз и Снегурочка уже свои поздравления!\n\nВажная новость: на нашем празднике будет работать специальный почтовый ящик! Мы приглашаем детей и родителей написать письмо Деду Морозу вместе. Расскажите ему о своих мечтах, успехах и добрых делах за этот год.\n\nПриходите за порцией радости и новогоднего настроения!\n\nСтоимость билетов – 500 руб. (Дед Мороз вручит детям ваши подарки).\n\nАдрес проведения: Калининград, ул. …",
+      "description": "Друзья, приглашаем вас на новогодний спектакль «Идет коза рогатая» — яркое праздничное представление, где скучать не придется ни детям, ни взрослым! Мы подготовили для вас вихрь веселья: звонкие песни, залихватские пляски, добрые шутки и старые добрые потешки, которые знают все поколения.\n\nНо это не просто спектакль! Вас ждет захватывающая детективная история, в которой предстоит разобраться вместе с нашими героями. И, конечно, какой же праздник без главных волшебников? Дедушка Мороз и Снегурочка уже свои поздравления!\n\nВажная новость: на нашем празднике будет работать специальный почтовый ящик! Мы приглашаем детей и родителей написать письмо Деду Морозу вместе. Расскажите ему о своих мечтах, успехах и добрых делах за этот год.\n\nПриходите за порцией радости и новогоднего настроения!\n\nСтоимость билетов – 500 руб. (Дед Мороз вручит детям ваши подарки).\n\nАдрес проведения: Калининград, ул. …",
       "highlights": null,
       "recurring": "4 даты",
       "source": "Klops.ru — афиша Калининграда",
       "sourceUrl": "https://klops.ru/afisha/124574-idet-koza-rogataya",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/906414?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMVwvNjJ1a2RrZmFlM19fNF9fLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=79c2980d92e2757b"
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMVwvNDB2cGFneHRtM19fNF9fLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=fdb3d8b1f0b9b1e4"
     },
     {
       "id": "123994-2",
@@ -2494,13 +2433,13 @@
       "price": -1,
       "priceNote": "Точная цена — на странице продавца билетов",
       "ageLimit": "0+",
-      "description": "Друзья, приглашаем вас на скоморошью потеху «Идет коза рогатая» — новогоднее представление, где скучать не придется ни детям, ни взрослым! Мы подготовили для вас вихрь веселья: звонкие песни, залихватские пляски, добрые шутки и старые добрые потешки, которые знают все поколения.\n\nНо это не просто спектакль! Вас ждет захватывающая детективная история, в которой предстоит разобраться вместе с нашими героями. И, конечно, какой же праздник без главных волшебников? Дедушка Мороз и Снегурочка уже свои поздравления!\n\nВажная новость: на нашем празднике будет работать специальный почтовый ящик! Мы приглашаем детей и родителей написать письмо Деду Морозу вместе. Расскажите ему о своих мечтах, успехах и добрых делах за этот год.\n\nПриходите за порцией радости и новогоднего настроения!\n\nСтоимость билетов – 500 руб. (Дед Мороз вручит детям ваши подарки).\n\nАдрес проведения: Калининград, ул. …",
+      "description": "Друзья, приглашаем вас на новогодний спектакль «Идет коза рогатая» — яркое праздничное представление, где скучать не придется ни детям, ни взрослым! Мы подготовили для вас вихрь веселья: звонкие песни, залихватские пляски, добрые шутки и старые добрые потешки, которые знают все поколения.\n\nНо это не просто спектакль! Вас ждет захватывающая детективная история, в которой предстоит разобраться вместе с нашими героями. И, конечно, какой же праздник без главных волшебников? Дедушка Мороз и Снегурочка уже свои поздравления!\n\nВажная новость: на нашем празднике будет работать специальный почтовый ящик! Мы приглашаем детей и родителей написать письмо Деду Морозу вместе. Расскажите ему о своих мечтах, успехах и добрых делах за этот год.\n\nПриходите за порцией радости и новогоднего настроения!\n\nСтоимость билетов – 500 руб. (Дед Мороз вручит детям ваши подарки).\n\nАдрес проведения: Калининград, ул. …",
       "highlights": null,
       "recurring": "4 даты",
       "source": "Klops.ru — афиша Калининграда",
       "sourceUrl": "https://klops.ru/afisha/124574-idet-koza-rogataya",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/906414?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMVwvNjJ1a2RrZmFlM19fNF9fLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=79c2980d92e2757b"
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMVwvNDB2cGFneHRtM19fNF9fLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=fdb3d8b1f0b9b1e4"
     },
     {
       "id": "124543-2",
@@ -2566,13 +2505,13 @@
       "price": -1,
       "priceNote": "Точная цена — на странице продавца билетов",
       "ageLimit": "0+",
-      "description": "Друзья, приглашаем вас на скоморошью потеху «Идет коза рогатая» — новогоднее представление, где скучать не придется ни детям, ни взрослым! Мы подготовили для вас вихрь веселья: звонкие песни, залихватские пляски, добрые шутки и старые добрые потешки, которые знают все поколения.\n\nНо это не просто спектакль! Вас ждет захватывающая детективная история, в которой предстоит разобраться вместе с нашими героями. И, конечно, какой же праздник без главных волшебников? Дедушка Мороз и Снегурочка уже свои поздравления!\n\nВажная новость: на нашем празднике будет работать специальный почтовый ящик! Мы приглашаем детей и родителей написать письмо Деду Морозу вместе. Расскажите ему о своих мечтах, успехах и добрых делах за этот год.\n\nПриходите за порцией радости и новогоднего настроения!\n\nСтоимость билетов – 500 руб. (Дед Мороз вручит детям ваши подарки).\n\nАдрес проведения: Калининград, ул. …",
+      "description": "Друзья, приглашаем вас на новогодний спектакль «Идет коза рогатая» — яркое праздничное представление, где скучать не придется ни детям, ни взрослым! Мы подготовили для вас вихрь веселья: звонкие песни, залихватские пляски, добрые шутки и старые добрые потешки, которые знают все поколения.\n\nНо это не просто спектакль! Вас ждет захватывающая детективная история, в которой предстоит разобраться вместе с нашими героями. И, конечно, какой же праздник без главных волшебников? Дедушка Мороз и Снегурочка уже свои поздравления!\n\nВажная новость: на нашем празднике будет работать специальный почтовый ящик! Мы приглашаем детей и родителей написать письмо Деду Морозу вместе. Расскажите ему о своих мечтах, успехах и добрых делах за этот год.\n\nПриходите за порцией радости и новогоднего настроения!\n\nСтоимость билетов – 500 руб. (Дед Мороз вручит детям ваши подарки).\n\nАдрес проведения: Калининград, ул. …",
       "highlights": null,
       "recurring": "4 даты",
       "source": "Klops.ru — афиша Калининграда",
       "sourceUrl": "https://klops.ru/afisha/124574-idet-koza-rogataya",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/906414?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMVwvNjJ1a2RrZmFlM19fNF9fLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=79c2980d92e2757b"
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMVwvNDB2cGFneHRtM19fNF9fLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=fdb3d8b1f0b9b1e4"
     },
     {
       "id": "124574-4",
@@ -2584,13 +2523,13 @@
       "price": -1,
       "priceNote": "Точная цена — на странице продавца билетов",
       "ageLimit": "0+",
-      "description": "Друзья, приглашаем вас на скоморошью потеху «Идет коза рогатая» — новогоднее представление, где скучать не придется ни детям, ни взрослым! Мы подготовили для вас вихрь веселья: звонкие песни, залихватские пляски, добрые шутки и старые добрые потешки, которые знают все поколения.\n\nНо это не просто спектакль! Вас ждет захватывающая детективная история, в которой предстоит разобраться вместе с нашими героями. И, конечно, какой же праздник без главных волшебников? Дедушка Мороз и Снегурочка уже свои поздравления!\n\nВажная новость: на нашем празднике будет работать специальный почтовый ящик! Мы приглашаем детей и родителей написать письмо Деду Морозу вместе. Расскажите ему о своих мечтах, успехах и добрых делах за этот год.\n\nПриходите за порцией радости и новогоднего настроения!\n\nСтоимость билетов – 500 руб. (Дед Мороз вручит детям ваши подарки).\n\nАдрес проведения: Калининград, ул. …",
+      "description": "Друзья, приглашаем вас на новогодний спектакль «Идет коза рогатая» — яркое праздничное представление, где скучать не придется ни детям, ни взрослым! Мы подготовили для вас вихрь веселья: звонкие песни, залихватские пляски, добрые шутки и старые добрые потешки, которые знают все поколения.\n\nНо это не просто спектакль! Вас ждет захватывающая детективная история, в которой предстоит разобраться вместе с нашими героями. И, конечно, какой же праздник без главных волшебников? Дедушка Мороз и Снегурочка уже свои поздравления!\n\nВажная новость: на нашем празднике будет работать специальный почтовый ящик! Мы приглашаем детей и родителей написать письмо Деду Морозу вместе. Расскажите ему о своих мечтах, успехах и добрых делах за этот год.\n\nПриходите за порцией радости и новогоднего настроения!\n\nСтоимость билетов – 500 руб. (Дед Мороз вручит детям ваши подарки).\n\nАдрес проведения: Калининград, ул. …",
       "highlights": null,
       "recurring": "4 даты",
       "source": "Klops.ru — афиша Калининграда",
       "sourceUrl": "https://klops.ru/afisha/124574-idet-koza-rogataya",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/906414?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMVwvNjJ1a2RrZmFlM19fNF9fLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=79c2980d92e2757b"
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMVwvNDB2cGFneHRtM19fNF9fLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=fdb3d8b1f0b9b1e4"
     },
     {
       "id": "124351",

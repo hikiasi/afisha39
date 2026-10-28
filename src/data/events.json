@@ -1,10 +1,32 @@
 {
-  "generatedAt": "2026-10-27T09:56:45.914Z",
+  "generatedAt": "2026-10-28T10:43:49.072Z",
   "generator": "scripts/fetch-events.mjs — краулер реальной афиши klops.ru",
   "source": "https://klops.ru/afisha/",
   "note": "Реальные события Калининграда, собранные автоматическим обходом публичной серверной афиши klops.ru (материалы сайта распространяются по лицензии CC BY-SA 4.0). Даты и площадки — из микроформата schema.org/Event. Цена -1 означает платный вход без публикуемой цены.",
-  "horizonDays": 136,
+  "horizonDays": 135,
   "venues": [
+    {
+      "id": "philharmonic",
+      "name": "Калининградская областная филармония им. Е. Ф. Светланова",
+      "shortName": "Областная филармония",
+      "address": "пр-т Мира, 279 (кирха памяти королевы Луизы) и новый зал на Московском проспекте",
+      "district": "Центральный район",
+      "description": "Главная концертная организация региона: камерный зал в восстановленной кирхе королевы Луизы 1899 года и новый Большой концертный зал с органом.",
+      "site": "https://kldphil.ru",
+      "lat": 54.697547,
+      "lng": 20.509535
+    },
+    {
+      "id": "dramteatr",
+      "name": "Калининградский областной драматический театр",
+      "shortName": "Драматический театр",
+      "address": "ул. Луначарского, 53",
+      "district": "Центральный район",
+      "description": "Старейший театр региона, открытый в 1947 году. Репертуар включает классику, современную драматургию и постановки для детей.",
+      "site": null,
+      "lat": 54.719664,
+      "lng": 20.492629
+    },
     {
       "id": "nдворец-спорта-янтарный-amber-arena-",
       "name": "Дворец спорта \"Янтарный\" (Amber Arena)",
@@ -26,28 +48,6 @@
       "site": null,
       "lat": 54.945671,
       "lng": 20.159533
-    },
-    {
-      "id": "dramteatr",
-      "name": "Калининградский областной драматический театр",
-      "shortName": "Драматический театр",
-      "address": "ул. Луначарского, 53",
-      "district": "Центральный район",
-      "description": "Старейший театр региона, открытый в 1947 году. Репертуар включает классику, современную драматургию и постановки для детей.",
-      "site": null,
-      "lat": 54.719664,
-      "lng": 20.492629
-    },
-    {
-      "id": "philharmonic",
-      "name": "Калининградская областная филармония им. Е. Ф. Светланова",
-      "shortName": "Областная филармония",
-      "address": "пр-т Мира, 279 (кирха памяти королевы Луизы) и новый зал на Московском проспекте",
-      "district": "Центральный район",
-      "description": "Главная концертная организация региона: камерный зал в восстановленной кирхе королевы Луизы 1899 года и новый Большой концертный зал с органом.",
-      "site": "https://kldphil.ru",
-      "lat": 54.697547,
-      "lng": 20.509535
     },
     {
       "id": "nдворец-спорта-юность-",
@@ -81,6 +81,17 @@
       "site": null,
       "lat": 54.644994,
       "lng": 21.075267
+    },
+    {
+      "id": "nкалининградский-театр-эстрады",
+      "name": "Калининградский театр эстрады",
+      "shortName": "Калининградский театр эстрады",
+      "address": "",
+      "district": "",
+      "description": "",
+      "site": null,
+      "lat": 54.696761,
+      "lng": 20.502133
     },
     {
       "id": "nкалининградский-областной-музыкальный-ко",
@@ -138,17 +149,6 @@
       "lng": 20.278766
     },
     {
-      "id": "nкалининградский-театр-эстрады",
-      "name": "Калининградский театр эстрады",
-      "shortName": "Калининградский театр эстрады",
-      "address": "",
-      "district": "",
-      "description": "",
-      "site": null,
-      "lat": 54.696761,
-      "lng": 20.502133
-    },
-    {
       "id": "nкалининградский-областной-музыкальный-те",
       "name": "Калининградский областной музыкальный театр",
       "shortName": "Музыкальный театр",
@@ -158,17 +158,6 @@
       "site": null,
       "lat": 54.721614,
       "lng": 20.465554
-    },
-    {
-      "id": "nкалининградский-областной-театр-кукол",
-      "name": "Калининградский областной театр кукол",
-      "shortName": "Театр кукол",
-      "address": "",
-      "district": "",
-      "description": "",
-      "site": null,
-      "lat": 54.719482,
-      "lng": 20.475444
     },
     {
       "id": "nдк-железнодорожников",
@@ -303,17 +292,6 @@
       "lng": 20.523078389004333
     },
     {
-      "id": "nарт-пространство-дом-молодёжи-",
-      "name": "Арт-пространство «Дом молодёжи»",
-      "shortName": "Дом молодёжи",
-      "address": "",
-      "district": "",
-      "description": "",
-      "site": null,
-      "lat": 54.696345,
-      "lng": 20.516111
-    },
-    {
       "id": "nразвлекательный-комплекс-резиденция-коро",
       "name": "Развлекательный комплекс \"Резиденция Королей\"",
       "shortName": "Резиденция Королей",
@@ -369,6 +347,28 @@
       "lng": 20.505429949737305
     },
     {
+      "id": "nзамок-бранденбург",
+      "name": "Замок Бранденбург",
+      "shortName": "Замок Бранденбург",
+      "address": "",
+      "district": "",
+      "description": "",
+      "site": null,
+      "lat": 54.61432207537882,
+      "lng": 20.248848592590196
+    },
+    {
+      "id": "nпространство-клдскоп-земельная-12-кабине",
+      "name": "пространство «КЛДскоп» (Земельная, 12, кабинет 3)",
+      "shortName": "пространство «КЛДскоп» (Земельная, 12, кабинет 3)",
+      "address": "",
+      "district": "",
+      "description": "",
+      "site": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "id": "nмузей-черепов-и-скелетов",
       "name": "Музей Черепов и Скелетов",
       "shortName": "Музей Черепов и Скелетов",
@@ -383,8 +383,8 @@
   "events": [
     {
       "id": "123056",
-      "startsAt": "2026-10-27T09:00:00",
-      "endsAt": "2026-10-27T09:00:00",
+      "startsAt": "2026-10-28T09:00:00",
+      "endsAt": "2026-10-28T09:00:00",
       "title": "Экспозиция музейно-выставочного комплекса «Янтарный замок»",
       "categoryId": "exhibitions",
       "venueId": "n-янтарный-замок-",
@@ -401,8 +401,8 @@
     },
     {
       "id": "123153",
-      "startsAt": "2026-10-27T10:00:00",
-      "endsAt": "2026-10-27T10:00:00",
+      "startsAt": "2026-10-28T10:00:00",
+      "endsAt": "2026-10-28T10:00:00",
       "title": "«Куплю гараж»",
       "categoryId": "exhibitions",
       "venueId": "nмузей-дом-китобоя-",
@@ -419,8 +419,8 @@
     },
     {
       "id": "124502",
-      "startsAt": "2026-10-27T10:00:00",
-      "endsAt": "2026-10-27T10:00:00",
+      "startsAt": "2026-10-28T10:00:00",
+      "endsAt": "2026-10-28T10:00:00",
       "title": "РОВЕСНИКИ: ретроспективная фотовыставка Станислава Покровского",
       "categoryId": "exhibitions",
       "venueId": "history-museum",
@@ -437,8 +437,8 @@
     },
     {
       "id": "124273",
-      "startsAt": "2026-10-27T11:00:00",
-      "endsAt": "2026-10-27T11:00:00",
+      "startsAt": "2026-10-28T11:00:00",
+      "endsAt": "2026-10-28T11:00:00",
       "title": "«Разнообразие»",
       "categoryId": "exhibitions",
       "venueId": "amber-museum",
@@ -454,27 +454,9 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xN1wvNHJ1cDJkcW4yd185dHNhNTY5c3hkMnlnZmF2ajN1eThtbXNudnhuczh3bi5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=753230a83c6a749d"
     },
     {
-      "id": "124248-1",
-      "startsAt": "2026-10-27T15:00:00",
-      "endsAt": "2026-10-27T15:00:00",
-      "title": "«Коралина в стране кошмаров»",
-      "categoryId": "theatre",
-      "venueId": "dramteatr",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "12+",
-      "description": "Вы когда-нибудь хотели себе других родителей? Чувствовали себя чужим в родной семье? «»\n\nКоралина и ее вечно заваленные работой родители переезжают в новый дом. Девочка находит потайную дверь, за которой скрывается жизнь, чем-то похожая на ее собственную, только лучше. Гораздо лучше. Оказывается, остаться в этом идеальном мире можно навсегда, для этого нужно всего лишь пришить пуговицы вместо глаз...\n\nСредняя сцена драмтеатра с первых минут погружает в увлекательное путешествие по миру, находящемуся за потайной дверью. Режиссер Анна Морозова определяет жанр спектакля как хоррор-мюзикл: множество ярких музыкальных номеров с живым звуком и немного адреналина. Яркий спектакль, похожий на пластилиновый мультик, гарантированно подарит новые впечатления и перевернет ваши представления о детских постановках.",
-      "highlights": null,
-      "recurring": "4 даты",
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124248-koralina-v-strane-koshmarov",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/506137?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xNlwvOW5oa2c4bHJmaF9GSUxHNDUyMl9iaWcuanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=824c668ae3ac0fcc"
-    },
-    {
       "id": "124532",
-      "startsAt": "2026-10-27T15:00:00",
-      "endsAt": "2026-10-27T15:00:00",
+      "startsAt": "2026-10-28T15:00:00",
+      "endsAt": "2026-10-28T15:00:00",
       "title": "Выставка «Процесс»",
       "categoryId": "exhibitions",
       "venueId": "nдом-книжного-наследия-xx-века-имени-н-с-",
@@ -491,8 +473,8 @@
     },
     {
       "id": "124628",
-      "startsAt": "2026-10-27T17:00:00",
-      "endsAt": "2026-10-27T17:00:00",
+      "startsAt": "2026-10-28T17:00:00",
+      "endsAt": "2026-10-28T17:00:00",
       "title": "Выставка «Искусство вкуса. Посуда и предметы декора из янтаря»",
       "categoryId": "exhibitions",
       "venueId": "amber-museum",
@@ -501,83 +483,11 @@
       "ageLimit": "0+",
       "description": "27 октября в Музее янтаря начинает работу временная выставка «Искусство вкуса. Посуда и предметы декора из янтаря». На выставке, включающей в себя свыше ста экспонатов, представлены тарелки, сосуды, столовые приборы, вазы, подсвечники, а также интерьерные объекты, отобранные из музейных запасников и впервые объединенные общей темой истории местных гастрономических традиций. Экспозиция дополнена фарфором разных эпох из частных коллекций и рецептами блюд балтийской кухни.\n\nУже в эпоху Средневековья искусство сервировки стола и подачи блюд достигает высокого уровня и становится показателем социального статуса. Посуда становится разнообразной и утонченной. В XVII–XVIII веках активно развивается производство парадных сервизов для знати, которые служили демонстрацией невероятного богатства и престижа владельца. На этот же период приходится пик популярности янтарной посуды. …",
       "highlights": null,
-      "recurring": null,
+      "recurring": "Идёт сейчас",
       "source": "Klops.ru — афиша Калининграда",
       "sourceUrl": "https://klops.ru/afisha/124628-vystavka-iskusstvo-vkusa-posuda-i-predmety-dekora-iz-yantarya",
       "ticketUrl": null,
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yNlwvNm9wNndvZXZ2OV9tOWs3dW53eXZrMzR3Z3pzY284czhpZDVidHNzOWhqeC5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=37e6ae06adba9915"
-    },
-    {
-      "id": "124627-1",
-      "startsAt": "2026-10-27T18:00:00",
-      "endsAt": "2026-10-27T18:00:00",
-      "title": "Кинофестиваль «Искусство в кино. Акт творения»",
-      "categoryId": "festivals",
-      "venueId": "n-государственная-третьяковская-галерея-ф",
-      "price": 0,
-      "priceNote": null,
-      "ageLimit": "18+",
-      "description": "27 октября, 18:00 — «Больше чем музей»\n\nИстория о том, как заброшенный промышленный порт превратили в главный культурный центр Скандинавии, а музей — в живой городской организм.\n\n28 октября, 18:00 — «Страсть Игоря Савицкого»\n\nФильм о человеке, который, вооружившись страстью и преданностью искусству, спас тысячи шедевров русского авангарда от уничтожения советской цензурой.\n\nПеред показом со вступительным словом выступит экскурсовод Екатерина Неровная.\n\nВход на оба показа свободный, по предварительной регистрации.\n\nЭто событие в СМИ Анонсы",
-      "highlights": null,
-      "recurring": "2 даты",
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124627-kinofestival-iskusstvo-v-kino-akt-tvoreniya",
-      "ticketUrl": null,
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yNlwvMXhmZjIwbDExNV8yMDI2XzEwXzI2XzExLjIzLjE3LmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=ea83edc59d6b8b09"
-    },
-    {
-      "id": "124629",
-      "startsAt": "2026-10-27T18:30:00",
-      "endsAt": "2026-10-27T18:30:00",
-      "title": "Литературно-музыкальный вечер «Сергей Аверинцев. София»",
-      "categoryId": "education",
-      "venueId": "nкалининградская-областная-научная-библио",
-      "price": 0,
-      "priceNote": null,
-      "ageLimit": "16+",
-      "description": "«О высокая дева, первая, кого я встретил в Писаньи!»\n\nС этим известием он по-настоящему появился перед людьми. Его «Плутарх» был благородной прелюдией к дальнейшему. Первая характерно аверинцевская работа, которую в 1964 году услышали и только через восемь лет, в 1972 году смогли прочесть наши изумленные читатели, была посвящена Софии Премудрости Божией. Она называлась конспиративно: «К уяснению смысла надписи над конхой центральной абсиды Софии Киевской». Веселье, милость и красота мудрости – с этим забытым культурой смыслом пришел к нам Аверинцев; это сообщение он продолжал нести до конца своей жизни..» (Ольга Седакова)\n\n«Поэтика ранневизантийской литературы» Сергея Аверинцева - знаковая книга христианского (или вообще гуманитарного) возрождения в СССР семидесятых годов. Многие и многие люди прикоснулись к сокровищам Православия через эту книгу, многие пришли к вере. …",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124629-literaturno-muzykalnyy-vecher-sergey-averintsev-sofiya",
-      "ticketUrl": null,
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yNlwvN2hzZ2N3MG9icF8xMDAwMDQ1NDI2LnBuZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=2984d0b439e80749"
-    },
-    {
-      "id": "124248-2",
-      "startsAt": "2026-10-27T19:00:00",
-      "endsAt": "2026-10-27T19:00:00",
-      "title": "«Коралина в стране кошмаров»",
-      "categoryId": "theatre",
-      "venueId": "dramteatr",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "12+",
-      "description": "Вы когда-нибудь хотели себе других родителей? Чувствовали себя чужим в родной семье? «»\n\nКоралина и ее вечно заваленные работой родители переезжают в новый дом. Девочка находит потайную дверь, за которой скрывается жизнь, чем-то похожая на ее собственную, только лучше. Гораздо лучше. Оказывается, остаться в этом идеальном мире можно навсегда, для этого нужно всего лишь пришить пуговицы вместо глаз...\n\nСредняя сцена драмтеатра с первых минут погружает в увлекательное путешествие по миру, находящемуся за потайной дверью. Режиссер Анна Морозова определяет жанр спектакля как хоррор-мюзикл: множество ярких музыкальных номеров с живым звуком и немного адреналина. Яркий спектакль, похожий на пластилиновый мультик, гарантированно подарит новые впечатления и перевернет ваши представления о детских постановках.",
-      "highlights": null,
-      "recurring": "4 даты",
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124248-koralina-v-strane-koshmarov",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/506137?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xNlwvOW5oa2c4bHJmaF9GSUxHNDUyMl9iaWcuanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=824c668ae3ac0fcc"
-    },
-    {
-      "id": "124626",
-      "startsAt": "2026-10-28T10:00:00",
-      "endsAt": "2026-10-28T10:00:00",
-      "title": "Фестиваль социальных театров «Перезагрузка»",
-      "categoryId": "festivals",
-      "venueId": "nарт-пространство-дом-молодёжи-",
-      "price": 0,
-      "priceNote": null,
-      "ageLimit": "12+",
-      "description": "Социальный театр — это спектакли о реальных жизненных ситуациях и общественных проблемах. Через истории героев актёры и зрители могут посмотреть на неурядицы с другой стороны и найти возможные решения.\n\nВ программе:\n\nдокументальные и форум-спектакли,\n\nпсиходрамы,\n\nпостановки на основе реальных рассказов,\n\nинклюзивные спектакли,\n\nмастер-классы по актёрскому мастерству и пластике движений.\n\nВход для зрителей свободный, по п редварительной регистрации.\n\nЭто событие в СМИ Анонсы",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124626-festival-sotsialnyh-teatrov-perezagruzka",
-      "ticketUrl": null,
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yNlwvMWE0ejBwanBoeF8yMDI2XzEwXzI2XzExLjE5LjI1LmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=a296c4989854493c"
     },
     {
       "id": "124324",
@@ -598,7 +508,7 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8yMVwvNWF4d2VyYXMxZl8zXy5wbmciXSxbInAiLCJ0aHVtYiIsIjEyNTR4OTY0KzArMCJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=3acafd1275278827"
     },
     {
-      "id": "124627-2",
+      "id": "124627",
       "startsAt": "2026-10-28T18:00:00",
       "endsAt": "2026-10-28T18:00:00",
       "title": "Кинофестиваль «Искусство в кино. Акт творения»",
@@ -609,7 +519,7 @@
       "ageLimit": "18+",
       "description": "27 октября, 18:00 — «Больше чем музей»\n\nИстория о том, как заброшенный промышленный порт превратили в главный культурный центр Скандинавии, а музей — в живой городской организм.\n\n28 октября, 18:00 — «Страсть Игоря Савицкого»\n\nФильм о человеке, который, вооружившись страстью и преданностью искусству, спас тысячи шедевров русского авангарда от уничтожения советской цензурой.\n\nПеред показом со вступительным словом выступит экскурсовод Екатерина Неровная.\n\nВход на оба показа свободный, по предварительной регистрации.\n\nЭто событие в СМИ Анонсы",
       "highlights": null,
-      "recurring": "2 даты",
+      "recurring": null,
       "source": "Klops.ru — афиша Калининграда",
       "sourceUrl": "https://klops.ru/afisha/124627-kinofestival-iskusstvo-v-kino-akt-tvoreniya",
       "ticketUrl": null,
@@ -868,6 +778,24 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8yNVwvOWZucmk1Y2h6Ml82YTllYmM5Y2U5ZjJiOTU1ZDBhZWQ1NWQucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=f3ef820d8ba7b489"
     },
     {
+      "id": "124647-1",
+      "startsAt": "2026-10-30T12:00:00",
+      "endsAt": "2026-10-30T12:00:00",
+      "title": "Шоу Иллюзиониста Александра Прахова",
+      "categoryId": "kids",
+      "venueId": "yantar-hall",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "6+",
+      "description": "Шоу иллюзиониста Александра Прахова в АРТ-пространстве\n\nЭто будет не просто выступление, а путешествие в зал чудес и волшебства, где реальность перестанет иметь значение, а невозможное станет реальностью.\n\nАлександр Прахов уже выступал перед жителями большой России, ближнего и дальнего зарубежья, покоряя их своим мастерством рук и ломаным английским с русским акцентом\n\nУже совсем скоро нас ждут:\n\nОшеломляющие фокусы и иллюзии, которые вызовут у каждого неподдельный восторг. А если увидите поддельный восторг, звоните в полицию\n\nВолшебная атмосфера, которая сможет погрузить любого в мир сказки и фантазии. (скептиков не касается)\n\nАктивное взаимодействие с публикой — все станут участниками невероятного шоу. А ещё будут вставать со стульев и бегать на сцену как можно быстрее, так что ещё и физ. подготовка !\n\nНезабываемые эмоции и яркие впечатления, которые останутся с вами надолго. …",
+      "highlights": null,
+      "recurring": "2 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124647-shou-illyuzionista-aleksandra-prahova",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/702406?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=10859",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yOFwvNWVjbWVieXlvcF9QcmFob3ZfMTgwMHg5MDAuanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=10eef593de367ca4"
+    },
+    {
       "id": "124340-1",
       "startsAt": "2026-10-30T18:00:00",
       "endsAt": "2026-10-30T18:00:00",
@@ -1048,6 +976,42 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xNVwvMmZzeDM2d3FnYV82YTlhZjQ4MDA0YTVkMmI3NzA3YWZiMTkucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=3ac9d76a7b3ca944"
     },
     {
+      "id": "124638",
+      "startsAt": "2026-10-31T10:00:00",
+      "endsAt": "2026-10-31T10:00:00",
+      "title": "Субботник на руинах кирхи Бранденбурга",
+      "categoryId": "education",
+      "venueId": "nзамок-бранденбург",
+      "price": 0,
+      "priceNote": null,
+      "ageLimit": "12+",
+      "description": "Субботник на руинах кирхи Бранденбурга в поселке Ушаково (Гурьевский район)!\n\n31 октября, в субботу, «Хранители руин» отправляются на руины средневековой кирхи Бранденбурга в поселке Ушаково, чтобы провести сезонные работы на историческом памятнике.\n\nНа кирхе Бранденбурга, к сожалению, в настоящее время ни арендатора, ни шефа нет и порядок на территории объекта координируют «Хранители руин».\n\nЛетом мы организовали благотворительный сбор на уход за руинами кирхи, благодаря которому регулярно производился покос травы на объекте. Приглашаем вас на последний выезд на уборку территории древнего храма в этом году — его мы проведем все вместе!\n\nСбор в 10:00 у руин кирхи.\n\nФорма одежды: рабочая (ориентируйтесь на прогноз погоды). …",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124638-subbotnik-na-ruinah-kirhi-brandenburga",
+      "ticketUrl": null,
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yOFwvNmY2dGFqZmpwOF9fQ2w3VWZldzRXOXIzdV9lazd2NUVHVE9SeXRWeTdNQW8zYXhqclVtQjdBMXNWc2lwc1kzMG9CVEVqT3dMU294WXR0NVZoajVFaUtiTER3X19DUjhrNnN2LmpwZyJdLFsicCIsInRodW1iIiwiMTIwMHg5MjMrMCszMzgiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=028ea1528b5a8f5e"
+    },
+    {
+      "id": "124639",
+      "startsAt": "2026-10-31T11:30:00",
+      "endsAt": "2026-10-31T11:30:00",
+      "title": "Экопосиделки с вязанием и свопом",
+      "categoryId": "education",
+      "venueId": "nпространство-клдскоп-земельная-12-кабине",
+      "price": 0,
+      "priceNote": null,
+      "ageLimit": "12+",
+      "description": "Провожаем октябрь уютными экопосиделками. На этот раз дополним программу встречи небольшим свопом.\n\n31 октября, с 11:30, Калининград, ул. Земельная, 12, каб. 3, пространство КЛДскоп (крыльцо со стороны озера, внутри налево)\n\nЧто будем делать? Будем вязать и учиться вязать из трикотажной пряжи (старых футболок). Желающие смогут освоить простой и эффектный спиральный узор.\n\nЧто можно/желательно взять с собой:\n\nножницы для ткани – очень пригодятся, если есть;\n\nклубочки заранее нарезанной трикотажной пряжи – чтобы сразу приступить к вязанию;\n\nтолстый крючок, если есть.\n\nСтарые футболки приносить не нужно, запас у нас есть. Но если вы хотите вязать для себя непременно из своей футболки, то лучше нарезать её дома заранее (видеоинструкция). Устроим небольшой своп (с правилами). …",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124639-ekoposidelki-s-vyazaniem-i-svopom",
+      "ticketUrl": null,
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yOFwvMWo0aWQ5MThyOV8yMDI2XzEwXzI4XzExLjA2LjAwLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=c0d8838b2101fd87"
+    },
+    {
       "id": "123996-2",
       "startsAt": "2026-10-31T17:00:00",
       "endsAt": "2026-10-31T17:00:00",
@@ -1102,24 +1066,6 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8yNVwvOHVzaThwM2VldV82YTJhYjAyN2Y4MmUxYWM4MWRhZTU3ZjgucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=cb7df45f64aafe19"
     },
     {
-      "id": "123314",
-      "startsAt": "2026-10-31T18:00:00",
-      "endsAt": "2026-10-31T18:00:00",
-      "title": "«Ты где-то рядом»",
-      "categoryId": "theatre",
-      "venueId": "yantar-hall",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "12+",
-      "description": "В спектакле заняты: народный артист России Фёдор Добронравов, заслуженная артистка Новый спектакль продюсерского центра «Федор Добронравов» «Ты где-то рядом» рассказывает лирическую историю любви немолодых людей. Зрителям на протяжении полутора часов предстоит смеяться и грустить, переживать и радоваться за таких, порой, нелепых, но трогательных героев, которых сблизит танец.\n\nПостановка станет воссоединением коллег и друзей после долгой разлуки. Режиссер спектакля Владимир Большов, актёры Фёдор Добронравов и Марина Иванова познакомились в труппе театра «Сатирикон» 30 лет назад, и это стало началом долгой дружбы и совместного творчества. …",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/123314-ty-gde-to-ryadom",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@60231571?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=10859",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA1XC8yNVwvNDBrYTdmZW9zOV9Eb2Jyb250YXZvdl8xODAweDkwMC5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=892ca94b004d100c"
-    },
-    {
       "id": "124299",
       "startsAt": "2026-10-31T18:00:00",
       "endsAt": "2026-10-31T18:00:00",
@@ -1156,6 +1102,42 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xNlwvMWZrOThkenh4dF9GSUxHNjkzNV9iaWcuanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=8f6550bb0dac17f4"
     },
     {
+      "id": "123314",
+      "startsAt": "2026-10-31T18:00:00",
+      "endsAt": "2026-10-31T18:00:00",
+      "title": "«Ты где-то рядом»",
+      "categoryId": "theatre",
+      "venueId": "yantar-hall",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "12+",
+      "description": "В спектакле заняты: народный артист России Фёдор Добронравов, заслуженная артистка Новый спектакль продюсерского центра «Федор Добронравов» «Ты где-то рядом» рассказывает лирическую историю любви немолодых людей. Зрителям на протяжении полутора часов предстоит смеяться и грустить, переживать и радоваться за таких, порой, нелепых, но трогательных героев, которых сблизит танец.\n\nПостановка станет воссоединением коллег и друзей после долгой разлуки. Режиссер спектакля Владимир Большов, актёры Фёдор Добронравов и Марина Иванова познакомились в труппе театра «Сатирикон» 30 лет назад, и это стало началом долгой дружбы и совместного творчества. …",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/123314-ty-gde-to-ryadom",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@60231571?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=10859",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA1XC8yNVwvNDBrYTdmZW9zOV9Eb2Jyb250YXZvdl8xODAweDkwMC5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=892ca94b004d100c"
+    },
+    {
+      "id": "124162-1",
+      "startsAt": "2026-10-31T18:00:00",
+      "endsAt": "2026-10-31T18:00:00",
+      "title": "«Всё отдам за вашего мужа»",
+      "categoryId": "theatre",
+      "venueId": "nтеатр-николая-захарова",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "18+",
+      "description": "Одновременно лёгкая и светлая история о превратностях любви и семейной жизни. Героиня с нетерпением ждет супруга и готовит для него праздничный ужин: сегодня исполняется двадцать лет их совместной жизни. Но раздается звонок в дверь, и от семейной идиллии не остается и следа…",
+      "highlights": null,
+      "recurring": "2 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124162-vsyo-otdam-za-vashego-muzha",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64067130?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8wM1wvOW5yMnJydTUycV82OWQ1MjU3NTNkN2E3YjZhZGM4MjY2MTYuanBnIl0sWyJwIiwidGh1bWIiLCIzODF4MjkzKzArMjgiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=8c985257b60a7199"
+    },
+    {
       "id": "124346",
       "startsAt": "2026-10-31T18:00:00",
       "endsAt": "2026-10-31T18:00:00",
@@ -1171,7 +1153,7 @@
       "source": "Klops.ru — афиша Калининграда",
       "sourceUrl": "https://klops.ru/afisha/124346-lokomotiv-korabelka-sankt-peterburg",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64045362?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8yM1wvNjV0bDhhbWk5bF8wNC4xMF8uanBnIl0sWyJwIiwidGh1bWIiLCIxNzA3eDEzMTMrMCsxOTIiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=88d965d56f461a76"
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yN1wvN3BldWZ6bXd4MV94ZGxvUXB0TUsyT0NSNnNQOUZmVWJKSkJVU2U3cFFtQldOU3p1MHJPVml1Sms1TmxfMW5ReGxkam9DempMYV91bW5DTGxsSlZNYVZuTDBXX1p3bnFFRnpPLmpwZyJdLFsicCIsInRodW1iIiwiMjIwMngxNjkzKzE5NisxMyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=1e02684e91f8deea"
     },
     {
       "id": "124611-1",
@@ -1264,6 +1246,24 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMFwvNTNxdWxjdW5ld18xLjExXy5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=aef43c877ea45ea0"
     },
     {
+      "id": "124647-2",
+      "startsAt": "2026-11-01T12:00:00",
+      "endsAt": "2026-11-01T12:00:00",
+      "title": "Шоу Иллюзиониста Александра Прахова",
+      "categoryId": "kids",
+      "venueId": "yantar-hall",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "6+",
+      "description": "Шоу иллюзиониста Александра Прахова в АРТ-пространстве\n\nЭто будет не просто выступление, а путешествие в зал чудес и волшебства, где реальность перестанет иметь значение, а невозможное станет реальностью.\n\nАлександр Прахов уже выступал перед жителями большой России, ближнего и дальнего зарубежья, покоряя их своим мастерством рук и ломаным английским с русским акцентом\n\nУже совсем скоро нас ждут:\n\nОшеломляющие фокусы и иллюзии, которые вызовут у каждого неподдельный восторг. А если увидите поддельный восторг, звоните в полицию\n\nВолшебная атмосфера, которая сможет погрузить любого в мир сказки и фантазии. (скептиков не касается)\n\nАктивное взаимодействие с публикой — все станут участниками невероятного шоу. А ещё будут вставать со стульев и бегать на сцену как можно быстрее, так что ещё и физ. подготовка !\n\nНезабываемые эмоции и яркие впечатления, которые останутся с вами надолго. …",
+      "highlights": null,
+      "recurring": "2 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124647-shou-illyuzionista-aleksandra-prahova",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/702406?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=10859",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yOFwvNWVjbWVieXlvcF9QcmFob3ZfMTgwMHg5MDAuanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=10eef593de367ca4"
+    },
+    {
       "id": "124487",
       "startsAt": "2026-11-01T14:00:00",
       "endsAt": "2026-11-01T14:00:00",
@@ -1316,24 +1316,6 @@
       "sourceUrl": "https://klops.ru/afisha/124246-detskoe-shou-fokusov-aleksandra-prahova",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/829437?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xNVwvNGtlaGdyeW5nZV82YTlkNjU2OWViZDYwMjQ2YmNiMDM5ZDIucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=d6f88de64823f1b0"
-    },
-    {
-      "id": "124187",
-      "startsAt": "2026-11-01T18:00:00",
-      "endsAt": "2026-11-01T18:00:00",
-      "title": "«Булгаков. Спектакль длиною в жизнь»",
-      "categoryId": "theatre",
-      "venueId": "nкалининградский-областной-театр-кукол",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "16+",
-      "description": "«Булгаков. Спектакль длиною в жизнь»\n\nМихаил Афанасьевич Булгаков — грандиозная фигура в русской литературе, значимая, магическая. Мастер слова, он прожил жизнь, полную событий, борьбы и невероятных творческих прозрений. Его биография — и стала сценарием для спектакля.\n\nБулгаков — символ творческой свободы. Яркий, наш, близкий. Настоящий гений, вне времени.\n\nАндрей Ковалёв, раскрывает нам биографию Булгакова: без пафоса, без бутафории, без прикрас. Это искренняя попытка рассказать об ошибках, о жизни, о любви великого человека.\n\nПродолжительность 1 час 30 минут. Без антракта",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124187-bulgakov-spektakl-dlinoyu-v-zhizn",
-      "ticketUrl": "https://widget.kassir.ru/?type=A&key=ae85de6e-3307-c55d-9e9e-63d6bd140d32&domain=kgd.kassir.ru&id=311837",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8wOFwvMjdyNXZ1aTVzY18xMGM5YTEwNmM0NjYzYzQ3ZGVmZmUwNzBjMGFhYmIzOS5qcGciXSxbInAiLCJ0aHVtYiIsIjUwOXgzOTIrNjIzKzAiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=d9485bfef563a218"
     },
     {
       "id": "124376-2",
@@ -1426,24 +1408,6 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xOFwvNXh5czZqYjRqaV82YTUwZDRkY2MxOTEzODAzNjY2YzAxOGNfMV8ucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=b04a15e6ab7e740b"
     },
     {
-      "id": "124248-3",
-      "startsAt": "2026-11-05T15:00:00",
-      "endsAt": "2026-11-05T15:00:00",
-      "title": "«Коралина в стране кошмаров»",
-      "categoryId": "theatre",
-      "venueId": "dramteatr",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "12+",
-      "description": "Вы когда-нибудь хотели себе других родителей? Чувствовали себя чужим в родной семье? «»\n\nКоралина и ее вечно заваленные работой родители переезжают в новый дом. Девочка находит потайную дверь, за которой скрывается жизнь, чем-то похожая на ее собственную, только лучше. Гораздо лучше. Оказывается, остаться в этом идеальном мире можно навсегда, для этого нужно всего лишь пришить пуговицы вместо глаз...\n\nСредняя сцена драмтеатра с первых минут погружает в увлекательное путешествие по миру, находящемуся за потайной дверью. Режиссер Анна Морозова определяет жанр спектакля как хоррор-мюзикл: множество ярких музыкальных номеров с живым звуком и немного адреналина. Яркий спектакль, похожий на пластилиновый мультик, гарантированно подарит новые впечатления и перевернет ваши представления о детских постановках.",
-      "highlights": null,
-      "recurring": "4 даты",
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124248-koralina-v-strane-koshmarov",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/506137?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xNlwvOW5oa2c4bHJmaF9GSUxHNDUyMl9iaWcuanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=824c668ae3ac0fcc"
-    },
-    {
       "id": "124612",
       "startsAt": "2026-11-05T18:00:00",
       "endsAt": "2026-11-05T18:00:00",
@@ -1478,24 +1442,6 @@
       "sourceUrl": "https://klops.ru/afisha/124435-organnaya-mozaika",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64748501?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wOFwvNnJra3BzYzRscV81LmpwZyJdLFsicCIsInRodW1iIiwiMzEyeDI0MCswKzAiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=d63010f759c35453"
-    },
-    {
-      "id": "124248-4",
-      "startsAt": "2026-11-05T19:00:00",
-      "endsAt": "2026-11-05T19:00:00",
-      "title": "«Коралина в стране кошмаров»",
-      "categoryId": "theatre",
-      "venueId": "dramteatr",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "12+",
-      "description": "Вы когда-нибудь хотели себе других родителей? Чувствовали себя чужим в родной семье? «»\n\nКоралина и ее вечно заваленные работой родители переезжают в новый дом. Девочка находит потайную дверь, за которой скрывается жизнь, чем-то похожая на ее собственную, только лучше. Гораздо лучше. Оказывается, остаться в этом идеальном мире можно навсегда, для этого нужно всего лишь пришить пуговицы вместо глаз...\n\nСредняя сцена драмтеатра с первых минут погружает в увлекательное путешествие по миру, находящемуся за потайной дверью. Режиссер Анна Морозова определяет жанр спектакля как хоррор-мюзикл: множество ярких музыкальных номеров с живым звуком и немного адреналина. Яркий спектакль, похожий на пластилиновый мультик, гарантированно подарит новые впечатления и перевернет ваши представления о детских постановках.",
-      "highlights": null,
-      "recurring": "4 даты",
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124248-koralina-v-strane-koshmarov",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/506137?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xNlwvOW5oa2c4bHJmaF9GSUxHNDUyMl9iaWcuanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=824c668ae3ac0fcc"
     },
     {
       "id": "124340-2",
@@ -1948,6 +1894,42 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xNVwvNGtlaGdyeW5nZV82YTlkNjU2OWViZDYwMjQ2YmNiMDM5ZDIucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=d6f88de64823f1b0"
     },
     {
+      "id": "124622",
+      "startsAt": "2026-11-15T19:00:00",
+      "endsAt": "2026-11-15T19:00:00",
+      "title": "RockCellos",
+      "categoryId": "concerts",
+      "venueId": "nкалининградский-театр-эстрады",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "6+",
+      "description": "15 ноября в Калиниграде выступит группа RockCellos из Санкт-Петербурга. Это будет незабываемый драйвовый вечер.\n\nА вы знали, что рок и виолончель созданы друг для друга? Именно виолончель добавляет рок-хитам многогранности, загадочности и неуправляемости. То, что группа RockCellos вытворяет с виолончелями — невероятно!\n\nВ программе вечера — мировые хиты: Nirvana, Metallica, AC/DC, Linkin Park, Muse, Queen, The Cranberries, Scorpions, Pink Floyd, Marilyn Manson, Red Hot Chili Peppers, System of a Down, The Beatles, Bon Jovi, Kiss, Limp Bizkit, The Prodigy, Michael Jackson, Blur, 30 Seconds To Mars, Coldplay, Arctic Monkeys, No Doubt, Radiohead, Maroon 5, Gorillaz, Survivor, The Rasmus, Depeche Mode, Europe, Deep Purple, Aerosmith и др.",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124622-rockcellos",
+      "ticketUrl": "https://widget.kassir.ru/?type=A&key=ae85de6e-3307-c55d-9e9e-63d6bd140d32&domain=kgd.kassir.ru&id=236165",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yNlwvOGtyNmo0ZnVqa18zMGZmOThlYTMwMjUwOTMzNDA3ZTBiOTJjYTAzY2E5OS5qZmlmIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=f595d89fc5487412"
+    },
+    {
+      "id": "124637",
+      "startsAt": "2026-11-16T19:00:00",
+      "endsAt": "2026-11-16T19:00:00",
+      "title": "«Трое на качелях». Благотворительный спектакль",
+      "categoryId": "theatre",
+      "venueId": "dramteatr",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "16+",
+      "description": "Комедия с элементами триллера и мистификации.\n\nВыходя из дома утром, никогда не знаешь наверняка, где окажешься к вечеру. Говорят, чтобы рассмешить Бога, достаточно рассказать ему свои планы — съезжу туда, встречусь с тем, вернусь домой... Но потом вдруг происходит непредвиденное, и оказывается, что торопиться больше некуда, а впереди осталась всего одна важная встреча. Последняя встреча.\n\nВ комнате оказались трое. Один спешил на свидание, другой — на деловой обед, третий торопился в издательство... Но почему-то, открывая двери разных помещений, все они шагнули в одно — в это место, не похожее ни на ресторан, ни на редакторский офис. Почему мы здесь? Как это случилось? Как выбраться?! Герои будут долго задавать вопросы, пока не придут, наконец, к одному верному, но, увы, неутешительному ответу. …",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124637-troe-na-kachelyah-blagotvoritelnyy-spektakl",
+      "ticketUrl": "https://widget.kassir.ru/?type=E&key=ae85de6e-3307-c55d-9e9e-63d6bd140d32&domain=kgd.kassir.ru&id=5866416",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yN1wvNHJ4amZ5aTZ6dl85NzJmZTFmNDk0ZmEzNTkwYjllOGY0MTcyMDAzZjFkMi5wbmciXSxbInAiLCJ0aHVtYiIsIjUwOXgzOTIrNzEzKzAiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=1dd8336c18157d02"
+    },
+    {
       "id": "124267-2",
       "startsAt": "2026-11-17T19:00:00",
       "endsAt": "2026-11-17T19:00:00",
@@ -2074,6 +2056,24 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8wMlwvOWYybmN0OXk0b182YTg0NDNlZTE4MDljNWYxMzZlNzRkMGUuanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=22c972732cfca0a9"
     },
     {
+      "id": "124162-2",
+      "startsAt": "2026-11-27T19:00:00",
+      "endsAt": "2026-11-27T19:00:00",
+      "title": "«Всё отдам за вашего мужа»",
+      "categoryId": "theatre",
+      "venueId": "nтеатр-николая-захарова",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "18+",
+      "description": "Одновременно лёгкая и светлая история о превратностях любви и семейной жизни. Героиня с нетерпением ждет супруга и готовит для него праздничный ужин: сегодня исполняется двадцать лет их совместной жизни. Но раздается звонок в дверь, и от семейной идиллии не остается и следа…",
+      "highlights": null,
+      "recurring": "2 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124162-vsyo-otdam-za-vashego-muzha",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64067130?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8wM1wvOW5yMnJydTUycV82OWQ1MjU3NTNkN2E3YjZhZGM4MjY2MTYuanBnIl0sWyJwIiwidGh1bWIiLCIzODF4MjkzKzArMjgiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=8c985257b60a7199"
+    },
+    {
       "id": "124429",
       "startsAt": "2026-11-28T18:00:00",
       "endsAt": "2026-11-28T18:00:00",
@@ -2180,24 +2180,6 @@
       "sourceUrl": "https://klops.ru/afisha/124181-balet-belosnezhka-i-sem-gnomov",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@63356894?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8wN1wvNzc3MjUxNmI2eV9fMTAyNF83NTBfY29weS5qcGciXSxbInAiLCJ0aHVtYiIsIjk3NXg3NTArMjQrMCJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=fa25265fa93a68bd"
-    },
-    {
-      "id": "124526",
-      "startsAt": "2026-12-06T11:00:00",
-      "endsAt": "2026-12-06T11:00:00",
-      "title": "«Новые приключения Буратино»",
-      "categoryId": "kids",
-      "venueId": "nкалининградский-областной-музыкальный-те",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "6+",
-      "description": "Приглашаем детей и их родителей на сказку для всей семьи! Вы услышите те самые знаменитые песни А.Рыбникова и увидите тех самых любимых героев! Давно известные и любимые герои волшебной сказки пришли на праздник в Театр Карабаса Барабаса, но оказалось, что Буратино потерял золотой ключик, время остановилось, а значит, и праздник никак не может начаться! Какие приключения и препятствия ждут Буратино, Мальвину, Пьеро, Тортиллу, Лису Алису и Кота Базилио, Дуремара и других героев сказки, кто же на самом деле похитил золотой ключик, состоялся ли обещанный праздник — все это вы увидите в новой волшебной музыкальной сказке!",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124526-novye-priklyucheniya-buratino",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64753073?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8xNFwvOGJ2amhybXA3al9CdXJhdGlub18xXy5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=d892edf548caff8a"
     },
     {
       "id": "121143",

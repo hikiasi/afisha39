@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-10T12:51:12.339Z",
+  "generatedAt": "2026-11-11T12:00:04.433Z",
   "generator": "scripts/fetch-events.mjs — краулер реальной афиши klops.ru",
   "source": "https://klops.ru/afisha/",
   "note": "Реальные события Калининграда, собранные автоматическим обходом публичной серверной афиши klops.ru (материалы сайта распространяются по лицензии CC BY-SA 4.0). Даты и площадки — из микроформата schema.org/Event. Цена -1 означает платный вход без публикуемой цены.",
-  "horizonDays": 122,
+  "horizonDays": 121,
   "venues": [
     {
-      "id": "dramteatr",
-      "name": "Калининградский областной драматический театр",
-      "shortName": "Драматический театр",
-      "address": "ул. Луначарского, 53",
-      "district": "Центральный район",
-      "description": "Старейший театр региона, открытый в 1947 году. Репертуар включает классику, современную драматургию и постановки для детей.",
+      "id": "yantar-hall",
+      "name": "Янтарь-Холл",
+      "shortName": "Янтарь-Холл",
+      "address": "г. Светлогорск, Калининградская область",
+      "district": "Светлогорский городской округ",
+      "description": "Современный концертно-конгрессный комплекс на побережье Балтийского моря: гастрольные шоу, фестивали и форумы.",
       "site": null,
-      "lat": 54.719664,
-      "lng": 20.492629
+      "lat": 54.945671,
+      "lng": 20.159533
     },
     {
       "id": "nдворец-спорта-янтарный-amber-arena-",
@@ -26,6 +26,17 @@
       "site": null,
       "lat": 54.749263,
       "lng": 20.485469
+    },
+    {
+      "id": "nдворец-спорта-юность-",
+      "name": "Дворец спорта \"Юность\"",
+      "shortName": "Дворец спорта \"Юность\"",
+      "address": "",
+      "district": "",
+      "description": "",
+      "site": null,
+      "lat": 54.707421,
+      "lng": 20.504046
     },
     {
       "id": "nкинотеатр-заря-",
@@ -50,26 +61,15 @@
       "lng": 20.509535
     },
     {
-      "id": "nдворец-спорта-юность-",
-      "name": "Дворец спорта \"Юность\"",
-      "shortName": "Дворец спорта \"Юность\"",
-      "address": "",
-      "district": "",
-      "description": "",
+      "id": "dramteatr",
+      "name": "Калининградский областной драматический театр",
+      "shortName": "Драматический театр",
+      "address": "ул. Луначарского, 53",
+      "district": "Центральный район",
+      "description": "Старейший театр региона, открытый в 1947 году. Репертуар включает классику, современную драматургию и постановки для детей.",
       "site": null,
-      "lat": 54.707421,
-      "lng": 20.504046
-    },
-    {
-      "id": "yantar-hall",
-      "name": "Янтарь-Холл",
-      "shortName": "Янтарь-Холл",
-      "address": "г. Светлогорск, Калининградская область",
-      "district": "Светлогорский городской округ",
-      "description": "Современный концертно-конгрессный комплекс на побережье Балтийского моря: гастрольные шоу, фестивали и форумы.",
-      "site": null,
-      "lat": 54.945671,
-      "lng": 20.159533
+      "lat": 54.719664,
+      "lng": 20.492629
     },
     {
       "id": "nкалининградский-театр-эстрады",
@@ -339,8 +339,8 @@
   "events": [
     {
       "id": "123056",
-      "startsAt": "2026-11-10T09:00:00",
-      "endsAt": "2026-11-10T09:00:00",
+      "startsAt": "2026-11-11T09:00:00",
+      "endsAt": "2026-11-11T09:00:00",
       "title": "Экспозиция музейно-выставочного комплекса «Янтарный замок»",
       "categoryId": "exhibitions",
       "venueId": "n-янтарный-замок-",
@@ -357,8 +357,8 @@
     },
     {
       "id": "124651",
-      "startsAt": "2026-11-10T10:00:00",
-      "endsAt": "2026-11-10T10:00:00",
+      "startsAt": "2026-11-11T10:00:00",
+      "endsAt": "2026-11-11T10:00:00",
       "title": "Открытие выставки «Морским судам быть!»",
       "categoryId": "exhibitions",
       "venueId": "nбиблиотека-им-космонавта-а-а-леонова-биб",
@@ -375,8 +375,8 @@
     },
     {
       "id": "124502",
-      "startsAt": "2026-11-10T10:00:00",
-      "endsAt": "2026-11-10T10:00:00",
+      "startsAt": "2026-11-11T10:00:00",
+      "endsAt": "2026-11-11T10:00:00",
       "title": "РОВЕСНИКИ: ретроспективная фотовыставка Станислава Покровского",
       "categoryId": "exhibitions",
       "venueId": "history-museum",
@@ -393,8 +393,8 @@
     },
     {
       "id": "124675",
-      "startsAt": "2026-11-10T11:00:00",
-      "endsAt": "2026-11-10T11:00:00",
+      "startsAt": "2026-11-11T11:00:00",
+      "endsAt": "2026-11-11T11:00:00",
       "title": "Открытие выставки «Вдохновение. Краски. Море»",
       "categoryId": "exhibitions",
       "venueId": "nдом-книжного-наследия-xx-века-имени-н-с-",
@@ -411,8 +411,8 @@
     },
     {
       "id": "121486",
-      "startsAt": "2026-11-10T14:00:00",
-      "endsAt": "2026-11-10T14:00:00",
+      "startsAt": "2026-11-11T14:00:00",
+      "endsAt": "2026-11-11T14:00:00",
       "title": "Выставка «Потоп»",
       "categoryId": "exhibitions",
       "venueId": "nкультурный-квартал-понарт-",
@@ -429,8 +429,8 @@
     },
     {
       "id": "124628",
-      "startsAt": "2026-11-10T17:00:00",
-      "endsAt": "2026-11-10T17:00:00",
+      "startsAt": "2026-11-11T17:00:00",
+      "endsAt": "2026-11-11T17:00:00",
       "title": "Выставка «Искусство вкуса. Посуда и предметы декора из янтаря»",
       "categoryId": "exhibitions",
       "venueId": "amber-museum",
@@ -518,24 +518,6 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yM1wvMW02MzhwYjJqY182YWRhNmEzOTc3NTkyNjFhNDZkOGI0NjUucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=1c77c48946fbae34"
     },
     {
-      "id": "124337",
-      "startsAt": "2026-11-12T18:00:00",
-      "endsAt": "2026-11-12T18:00:00",
-      "title": "Музыкально-гастрономический вечер «Джаз сквозь годы»",
-      "categoryId": "concerts",
-      "venueId": "nкафе-солёная-ворона-",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "12+",
-      "description": "Приглашаем вас на концерт в уютной театральной гостиной «Солёная ворона» на берегу Балтийского моря!\n\nПевец и музыкант Илья Пищенко (г. Санкт-Петербург) с программой «ДЖАЗ СКВОЗЬ ГОДЫ» при участии виртуозного гитариста Дмитрия Солодовникова. В программе — золотые хиты джаза разных лет, которые помогут вам погрузиться в атмосферу отдыха и самого лучшего настроения! Ожидайте ярких импровизаций, искренних эмоций и великолепного музыкального настроения!\n\nПо окончании представления Вас ждёт ужин от шеф-повара кафе «Солёная ворона» Константина Сорокина: салат, горячее и десерт. «Изюминка» ужина — фирменный марципановый кофе. Приветствуются свои напитки и хорошее настроение\n\nДжаза много не бывает!\n\nВажно: бесплатная парковка в Зеленоградске! Стоимость билета (концерт+ужин) — 3000 рублей. Подробная информация: +79052435843",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124337-muzykalno-gastronomicheskiy-vecher-dzhaz-skvoz-gody",
-      "ticketUrl": null,
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8yM1wvNHE2b254YWR5OV8yMl8ucG5nIl0sWyJwIiwidGh1bWIiLCIxMDIzeDc4NiswKzEwMiJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=7f43d8c7f97e68fc"
-    },
-    {
       "id": "124478",
       "startsAt": "2026-11-12T19:00:00",
       "endsAt": "2026-11-12T19:00:00",
@@ -617,7 +599,7 @@
       "price": -1,
       "priceNote": "Точная цена — на странице продавца билетов",
       "ageLimit": "12+",
-      "description": "Приглашаем вас на концерт и ужин в уютной музыкальной гостиной «Солёная ворона» на берегу Балтийского моря!\n\nИлья Крестоверов — солист Калининградского областного музыкального театра, приглашает вас в путешествие по золотому фонду советского кинематографа. Этот концерт — не просто набор хитов, а искренний диалог со зрителем через мелодии, которые стали саундтреками к жизни нескольких поколений.\n\nОт озорной «Песенки о медведях» до философского «Есть только миг», от лирической «Александры» до дружеской «Пора-пора-порадуемся» — каждая композиция станет поводом для улыбки или светлой грусти.\n\nПо окончании представления Вас ждёт ужин от шеф-повара кафе «Солёная ворона» Константина Сорокина: салат, горячее и десерт. «Изюминка» ужина — фирменный марципановый кофе. Приветствуются свои напитки и хорошее настроение. Важно: бесплатная парковка в Зеленоградске!\n\nПодробная информация: +79052435843. …",
+      "description": "Приглашаем вас на концерт и ужин в уютной музыкальной гостиной «Солёная ворона» на берегу Балтийского моря!\n\nИлья Крестоверов — солист Калининградского областного музыкального театра, приглашает вас в путешествие по золотому фонду советского кинематографа. Этот концерт — не просто набор хитов, а искренний диалог со зрителем через мелодии, которые стали саундтреками к жизни нескольких поколений.\n\nОт озорной «Песенки о медведях» до философского «Есть только миг», от лирической «Александры» до дружеской «Пора-пора-порадуемся» — каждая композиция станет поводом для улыбки или светлой грусти.\n\nПо окончании представления Вас ждёт ужин от шеф-повара кафе «Солёная ворона» Константина Сорокина: салат, горячее и десерт. «Изюминка» ужина — фирменный марципановый кофе. Приветствуются свои напитки и хорошее настроение. Важно: бесплатная парковка в Зеленоградске!\n\nПодробная информация: +79052435843.",
       "highlights": null,
       "recurring": null,
       "source": "Klops.ru — афиша Калининграда",
@@ -660,6 +642,24 @@
       "sourceUrl": "https://klops.ru/afisha/124459-nebesnye-luchi",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64743862?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wOFwvNGF3dHhybnE4MF81LmpwZyJdLFsicCIsInRodW1iIiwiMzEyeDI0MCswKzAiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=a0fa62879b6147e3"
+    },
+    {
+      "id": "124479",
+      "startsAt": "2026-11-13T19:00:00",
+      "endsAt": "2026-11-13T19:00:00",
+      "title": "Трио Даниила Крамера с программой «Игры в джаз»",
+      "categoryId": "concerts",
+      "venueId": "philharmonic",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "12+",
+      "description": "Исполнители: народный артист России Даниил Крамер – фортепиано, Дарья Чернакова – контрабас/вокал, Анастасия Джаззи – вокал, тромбон\n\nВ программе:\n\nДаниил Крамер: «… Моё трио, это, собственно, и есть мой бренд.\n\nЯ недаром назвал эту программу «Игры в джаз», потому что я делаю программу так, чтобы, собственно, это не было джазом ради джаза.\n\nЯ играюсь с различными стилями, в том числе соединениями стилей, с соединениями кельтской стилистики, классической, различных стилей классической музыки. И все это окружено джазом. Именно поэтому я назвал это «Игры в джаз».\n\nИ я строю программу в Трио так, чтобы это не был джаз только развлекательный, только ради ритма, ради расслабления. Множество произведений внутри моих программ в «Трио» — это произведение, как я надеюсь, с достаточно глубоким содержанием. А в некоторые я вкладываю даже трагичность. …",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124479-trio-daniila-kramera-s-programmoy-igry-v-dzhaz",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64750028?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wOVwvM2QxbjViaXp1al9rejdzejJlYXM2eDdoMm03anpmczl6aXduemcyNzlkbi5wbmciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=b2e41b3a3276244a"
     },
     {
       "id": "124514-1",
@@ -817,7 +817,7 @@
       "ageLimit": "18+",
       "description": "Главный герой этой антиутопии — преподаватель, специалист по литературе Серебряного века Сергей Фролов – приговорен к заключению в Комбинате исполнения наказаний и смертной казни. Исполнения приговора приходится ждать в очень комфортных условиях, напоминающих хороший отель. Только есть один нюанс – никто не знает, когда именно автоматический выстрел исполнит приговор: через день или через десятилетия.\n\nРежиссер Алексей Золотовицкий акцентирует внимание на маленьком человеке, который, не имея возможности сопротивляться обстоятельствам, пытается выжить, сохранить себя и найти новую опору. В спектакле, как и в романе Данилова, крепко сплетены лирика, комизм и трагическое начало, что дополнительно сближает выдуманный мир с реальными переживаниями.\n\n*После представления и встречи с автором от театра впервые отправится автобус «Драмтеатр — Зеленоградск». …",
       "highlights": null,
-      "recurring": "2 даты",
+      "recurring": "3 даты",
       "source": "Klops.ru — афиша Калининграда",
       "sourceUrl": "https://klops.ru/afisha/124469-sasha-privet",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/808252?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
@@ -961,7 +961,7 @@
       "ageLimit": "18+",
       "description": "Главный герой этой антиутопии — преподаватель, специалист по литературе Серебряного века Сергей Фролов – приговорен к заключению в Комбинате исполнения наказаний и смертной казни. Исполнения приговора приходится ждать в очень комфортных условиях, напоминающих хороший отель. Только есть один нюанс – никто не знает, когда именно автоматический выстрел исполнит приговор: через день или через десятилетия.\n\nРежиссер Алексей Золотовицкий акцентирует внимание на маленьком человеке, который, не имея возможности сопротивляться обстоятельствам, пытается выжить, сохранить себя и найти новую опору. В спектакле, как и в романе Данилова, крепко сплетены лирика, комизм и трагическое начало, что дополнительно сближает выдуманный мир с реальными переживаниями.\n\n*После представления и встречи с автором от театра впервые отправится автобус «Драмтеатр — Зеленоградск». …",
       "highlights": null,
-      "recurring": "2 даты",
+      "recurring": "3 даты",
       "source": "Klops.ru — афиша Калининграда",
       "sourceUrl": "https://klops.ru/afisha/124469-sasha-privet",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/808252?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
@@ -1022,7 +1022,7 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yN1wvNHJ4amZ5aTZ6dl85NzJmZTFmNDk0ZmEzNTkwYjllOGY0MTcyMDAzZjFkMi5wbmciXSxbInAiLCJ0aHVtYiIsIjUwOXgzOTIrNzEzKzAiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=1dd8336c18157d02"
     },
     {
-      "id": "124267",
+      "id": "124267-1",
       "startsAt": "2026-11-17T19:00:00",
       "endsAt": "2026-11-17T19:00:00",
       "title": "«Примадонны»",
@@ -1033,7 +1033,7 @@
       "ageLimit": "16+",
       "description": "В комедии положений «Примадонны» Кена Людвига главным героям — неудачливым английским актерам, придется претерпеть множество приключений, чтобы прийти к счастливому финалу. Умирающая старуха-миллионерша разыскивает давно пропавших племянников. Молодые люди решают явиться в дом тетушки. Но оказывается, что искала старушка не племянников, а племянниц. И молодые люди вынуждены переодеться в женское платье. Но старушке становится гораздо лучше. К тому же в доме у нее оказываются милые молодые девушки. Актеры-авантюристы, конечно же влюбляются, но путь к сердцам девушек проходит сквозь приключения, шутки и массу сюрпризов.",
       "highlights": null,
-      "recurring": null,
+      "recurring": "2 даты",
       "source": "Klops.ru — афиша Калининграда",
       "sourceUrl": "https://klops.ru/afisha/124267-primadonny",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/179660?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
@@ -1598,7 +1598,43 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA4XC8yNlwvM3U3ZXJyaTR5Y183MDY0ZTM3MWQyNmU0MzUzYjI3NWQzNzYxMTkwZDMyOC5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=fec16d9c8edace68"
     },
     {
-      "id": "123808",
+      "id": "123808-1",
+      "startsAt": "2026-12-18T19:00:00",
+      "endsAt": "2026-12-18T19:00:00",
+      "title": "Балет «Щелкунчик» в сопровождении оркестра",
+      "categoryId": "theatre",
+      "venueId": "yantar-hall",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "6+",
+      "description": "«Русский балет» и Калининградский симфонический оркестр, дирижер Михаил Кирхгофф представляют балет «ЩЕЛКУНЧИК»\n\nБалет «Щелкунчик» — это повесть о зарождении первой любви и открытии огромного мира переживаний и чувств. Зрителей восхищают храбрость Принца-Щелкунчика, победившего войско коварной Мышильды, доброта и смелость маленькой Маши, разглядевшей в деревянной кукле-Щелкунчике благородного и бесстрашного Принца и, конечно, сказочный мир чудес и превращений.\n\nЛибретто, созданное Мариусом Петипа по мотивам сказки Гофмана «Щелкунчик и мышиный король», со временем претерпевало разные интерпретации, однако во всех редакциях и постановках добро побеждало зло, а любовь торжествовала. …",
+      "highlights": null,
+      "recurring": "2 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/123808-balet-schelkunchik-v-soprovozhdenii-orkestra",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/712395?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=10859",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA3XC8yNFwvMnoyaWI5NDFmX1lBS0hfXzE4MDB4OTAwX18xXy5qcGciXSxbInAiLCJ0aHVtYiIsIjEwMDB4NTY4IyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=eb4a3e04f9c19b18"
+    },
+    {
+      "id": "124469-3",
+      "startsAt": "2026-12-18T19:00:00",
+      "endsAt": "2026-12-18T19:00:00",
+      "title": "«Саша, привет!»",
+      "categoryId": "theatre",
+      "venueId": "dramteatr",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "18+",
+      "description": "Главный герой этой антиутопии — преподаватель, специалист по литературе Серебряного века Сергей Фролов – приговорен к заключению в Комбинате исполнения наказаний и смертной казни. Исполнения приговора приходится ждать в очень комфортных условиях, напоминающих хороший отель. Только есть один нюанс – никто не знает, когда именно автоматический выстрел исполнит приговор: через день или через десятилетия.\n\nРежиссер Алексей Золотовицкий акцентирует внимание на маленьком человеке, который, не имея возможности сопротивляться обстоятельствам, пытается выжить, сохранить себя и найти новую опору. В спектакле, как и в романе Данилова, крепко сплетены лирика, комизм и трагическое начало, что дополнительно сближает выдуманный мир с реальными переживаниями.\n\n*После представления и встречи с автором от театра впервые отправится автобус «Драмтеатр — Зеленоградск». …",
+      "highlights": null,
+      "recurring": "3 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124469-sasha-privet",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/808252?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wOVwvOXRoeDgzdGtmZl8xX2JpZy5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=5b25b071018e9cf2"
+    },
+    {
+      "id": "123808-2",
       "startsAt": "2026-12-19T17:00:00",
       "endsAt": "2026-12-19T17:00:00",
       "title": "Балет «Щелкунчик» в сопровождении оркестра",
@@ -1609,10 +1645,10 @@
       "ageLimit": "6+",
       "description": "«Русский балет» и Калининградский симфонический оркестр, дирижер Михаил Кирхгофф представляют балет «ЩЕЛКУНЧИК»\n\nБалет «Щелкунчик» — это повесть о зарождении первой любви и открытии огромного мира переживаний и чувств. Зрителей восхищают храбрость Принца-Щелкунчика, победившего войско коварной Мышильды, доброта и смелость маленькой Маши, разглядевшей в деревянной кукле-Щелкунчике благородного и бесстрашного Принца и, конечно, сказочный мир чудес и превращений.\n\nЛибретто, созданное Мариусом Петипа по мотивам сказки Гофмана «Щелкунчик и мышиный король», со временем претерпевало разные интерпретации, однако во всех редакциях и постановках добро побеждало зло, а любовь торжествовала. …",
       "highlights": null,
-      "recurring": null,
+      "recurring": "2 даты",
       "source": "Klops.ru — афиша Калининграда",
       "sourceUrl": "https://klops.ru/afisha/123808-balet-schelkunchik-v-soprovozhdenii-orkestra",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@61977122?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=10859",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/712395?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=10859",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA3XC8yNFwvMnoyaWI5NDFmX1lBS0hfXzE4MDB4OTAwX18xXy5qcGciXSxbInAiLCJ0aHVtYiIsIjEwMDB4NTY4IyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=eb4a3e04f9c19b18"
     },
     {
@@ -1742,6 +1778,24 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMVwvNDB2cGFneHRtM19fNF9fLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=fdb3d8b1f0b9b1e4"
     },
     {
+      "id": "124782-1",
+      "startsAt": "2026-12-26T11:00:00",
+      "endsAt": "2026-12-26T11:00:00",
+      "title": "«Новогодний детектив»",
+      "categoryId": "kids",
+      "venueId": "dramteatr",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "6+",
+      "description": "В канун Нового года в сказочном городе происходит настоящее чрезвычайное происшествие — таинственным образом пропадает волшебный мешок с письмами к Деду Морозу! Под угрозой оказываются заветные детские мечты, подарки и сам праздник.\n\nЗа дело берется самый проницательный и харизматичный сыщик — Детектив Слежкин. Вместе со своими верными и отважными помощниками он начинает расследование, полное тайн, неожиданных улик и сказочных превращений. Героям предстоит столкнуться с коварными ловушками, оказаться в темном подземелье и проявить настоящую смекалку, чтобы спасти Новый год.\n\nСказка наполнена юмором (понятным как детям, так и их родителям), динамичными погонями и интерактивными элементами, где маленькие зрители могут помочь следствию.\n\nВ сказке вы увидете следующих героев:\n\nДетектив Слежкин — главный сыщик, эксцентричный, умный, но иногда излишне драматичный. …",
+      "highlights": null,
+      "recurring": "4 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124782-novogodniy-detektiv",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/916738?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8xMVwvM3FhMTYyMndmOF9hNDEzNjM2OF85NTQzXzQ0ZTJfOWRlZV9kZWMwZGE4ODZlYWYuanBlZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=1e66cf800e152ce2"
+    },
+    {
       "id": "124729-3",
       "startsAt": "2026-12-26T13:30:00",
       "endsAt": "2026-12-26T13:30:00",
@@ -1776,6 +1830,24 @@
       "sourceUrl": "https://klops.ru/afisha/124574-idet-koza-rogataya",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/906414?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMVwvNDB2cGFneHRtM19fNF9fLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=fdb3d8b1f0b9b1e4"
+    },
+    {
+      "id": "124782-2",
+      "startsAt": "2026-12-26T14:00:00",
+      "endsAt": "2026-12-26T14:00:00",
+      "title": "«Новогодний детектив»",
+      "categoryId": "kids",
+      "venueId": "dramteatr",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "6+",
+      "description": "В канун Нового года в сказочном городе происходит настоящее чрезвычайное происшествие — таинственным образом пропадает волшебный мешок с письмами к Деду Морозу! Под угрозой оказываются заветные детские мечты, подарки и сам праздник.\n\nЗа дело берется самый проницательный и харизматичный сыщик — Детектив Слежкин. Вместе со своими верными и отважными помощниками он начинает расследование, полное тайн, неожиданных улик и сказочных превращений. Героям предстоит столкнуться с коварными ловушками, оказаться в темном подземелье и проявить настоящую смекалку, чтобы спасти Новый год.\n\nСказка наполнена юмором (понятным как детям, так и их родителям), динамичными погонями и интерактивными элементами, где маленькие зрители могут помочь следствию.\n\nВ сказке вы увидете следующих героев:\n\nДетектив Слежкин — главный сыщик, эксцентричный, умный, но иногда излишне драматичный. …",
+      "highlights": null,
+      "recurring": "4 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124782-novogodniy-detektiv",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/916738?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8xMVwvM3FhMTYyMndmOF9hNDEzNjM2OF85NTQzXzQ0ZTJfOWRlZV9kZWMwZGE4ODZlYWYuanBlZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=1e66cf800e152ce2"
     },
     {
       "id": "123994-2",
@@ -1832,6 +1904,24 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMVwvNDB2cGFneHRtM19fNF9fLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=fdb3d8b1f0b9b1e4"
     },
     {
+      "id": "124782-3",
+      "startsAt": "2026-12-27T11:00:00",
+      "endsAt": "2026-12-27T11:00:00",
+      "title": "«Новогодний детектив»",
+      "categoryId": "kids",
+      "venueId": "dramteatr",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "6+",
+      "description": "В канун Нового года в сказочном городе происходит настоящее чрезвычайное происшествие — таинственным образом пропадает волшебный мешок с письмами к Деду Морозу! Под угрозой оказываются заветные детские мечты, подарки и сам праздник.\n\nЗа дело берется самый проницательный и харизматичный сыщик — Детектив Слежкин. Вместе со своими верными и отважными помощниками он начинает расследование, полное тайн, неожиданных улик и сказочных превращений. Героям предстоит столкнуться с коварными ловушками, оказаться в темном подземелье и проявить настоящую смекалку, чтобы спасти Новый год.\n\nСказка наполнена юмором (понятным как детям, так и их родителям), динамичными погонями и интерактивными элементами, где маленькие зрители могут помочь следствию.\n\nВ сказке вы увидете следующих героев:\n\nДетектив Слежкин — главный сыщик, эксцентричный, умный, но иногда излишне драматичный. …",
+      "highlights": null,
+      "recurring": "4 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124782-novogodniy-detektiv",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/916738?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8xMVwvM3FhMTYyMndmOF9hNDEzNjM2OF85NTQzXzQ0ZTJfOWRlZV9kZWMwZGE4ODZlYWYuanBlZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=1e66cf800e152ce2"
+    },
+    {
       "id": "124728-1",
       "startsAt": "2026-12-27T11:00:00",
       "endsAt": "2026-12-27T11:00:00",
@@ -1866,24 +1956,6 @@
       "sourceUrl": "https://klops.ru/afisha/124574-idet-koza-rogataya",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/906414?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMVwvNDB2cGFneHRtM19fNF9fLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=fdb3d8b1f0b9b1e4"
-    },
-    {
-      "id": "124730-1",
-      "startsAt": "2026-12-27T13:30:00",
-      "endsAt": "2026-12-27T13:30:00",
-      "title": "Дед Мороз и Леди Баг. Битва за новый год",
-      "categoryId": "kids",
-      "venueId": "nтеатр-николая-захарова",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "6+",
-      "description": "Детское новогоднее представление в необычном театре за столиками. Конкурсы, подвижные игры, квесты и призы. Шоу фокусника. Памятный сувенир каждому ребенку. Фотосессия с Дедом Морозом и персонажами. Новогодний буфет",
-      "highlights": null,
-      "recurring": "4 даты",
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124730-ded-moroz-i-ledi-bag-bitva-za-novyy-god",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/915421?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8wOVwvMzkxa252eGpnOF82YWU4YWMxOGExZmNlNGFhYjk2ZTFjY2YucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=42dffac1e3dd7002"
     },
     {
       "id": "124543-2",
@@ -1958,6 +2030,24 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8wOVwvN2txMHZxODhiY182YWU4YTg2Zjk2NDFlYTFiMjBiYTJiZDguanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=09f639370a25b47b"
     },
     {
+      "id": "124782-4",
+      "startsAt": "2026-12-30T11:00:00",
+      "endsAt": "2026-12-30T11:00:00",
+      "title": "«Новогодний детектив»",
+      "categoryId": "kids",
+      "venueId": "dramteatr",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "6+",
+      "description": "В канун Нового года в сказочном городе происходит настоящее чрезвычайное происшествие — таинственным образом пропадает волшебный мешок с письмами к Деду Морозу! Под угрозой оказываются заветные детские мечты, подарки и сам праздник.\n\nЗа дело берется самый проницательный и харизматичный сыщик — Детектив Слежкин. Вместе со своими верными и отважными помощниками он начинает расследование, полное тайн, неожиданных улик и сказочных превращений. Героям предстоит столкнуться с коварными ловушками, оказаться в темном подземелье и проявить настоящую смекалку, чтобы спасти Новый год.\n\nСказка наполнена юмором (понятным как детям, так и их родителям), динамичными погонями и интерактивными элементами, где маленькие зрители могут помочь следствию.\n\nВ сказке вы увидете следующих героев:\n\nДетектив Слежкин — главный сыщик, эксцентричный, умный, но иногда излишне драматичный. …",
+      "highlights": null,
+      "recurring": "4 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124782-novogodniy-detektiv",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/916738?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8xMVwvM3FhMTYyMndmOF9hNDEzNjM2OF85NTQzXzQ0ZTJfOWRlZV9kZWMwZGE4ODZlYWYuanBlZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=1e66cf800e152ce2"
+    },
+    {
       "id": "124728-2",
       "startsAt": "2026-12-30T11:00:00",
       "endsAt": "2026-12-30T11:00:00",
@@ -1974,24 +2064,6 @@
       "sourceUrl": "https://klops.ru/afisha/124728-novogodnyaya-elka-dlya-malyshey",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/747707?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8wOVwvMzV1M2Rsa3VmMl82YWU4YWFlNjU5ODg5OWQwM2UwMzZjZWUuanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=19c2a5a317c601e1"
-    },
-    {
-      "id": "124730-2",
-      "startsAt": "2026-12-30T13:30:00",
-      "endsAt": "2026-12-30T13:30:00",
-      "title": "Дед Мороз и Леди Баг. Битва за новый год",
-      "categoryId": "kids",
-      "venueId": "nтеатр-николая-захарова",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "6+",
-      "description": "Детское новогоднее представление в необычном театре за столиками. Конкурсы, подвижные игры, квесты и призы. Шоу фокусника. Памятный сувенир каждому ребенку. Фотосессия с Дедом Морозом и персонажами. Новогодний буфет",
-      "highlights": null,
-      "recurring": "4 даты",
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124730-ded-moroz-i-ledi-bag-bitva-za-novyy-god",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/915421?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8wOVwvMzkxa252eGpnOF82YWU4YWMxOGExZmNlNGFhYjk2ZTFjY2YucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=42dffac1e3dd7002"
     },
     {
       "id": "124728-3",
@@ -2084,6 +2156,24 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMVwvNGV6bTVtZGpybF9fMzEyXzI0MF8uanBnIl0sWyJwIiwidGh1bWIiLCIzMTJ4MjQwKzArMCJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=74181c17ced6a9b0"
     },
     {
+      "id": "124267-2",
+      "startsAt": "2027-01-04T18:00:00",
+      "endsAt": "2027-01-04T18:00:00",
+      "title": "«Примадонны»",
+      "categoryId": "theatre",
+      "venueId": "dramteatr",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "16+",
+      "description": "В комедии положений «Примадонны» Кена Людвига главным героям — неудачливым английским актерам, придется претерпеть множество приключений, чтобы прийти к счастливому финалу. Умирающая старуха-миллионерша разыскивает давно пропавших племянников. Молодые люди решают явиться в дом тетушки. Но оказывается, что искала старушка не племянников, а племянниц. И молодые люди вынуждены переодеться в женское платье. Но старушке становится гораздо лучше. К тому же в доме у нее оказываются милые молодые девушки. Актеры-авантюристы, конечно же влюбляются, но путь к сердцам девушек проходит сквозь приключения, шутки и массу сюрпризов.",
+      "highlights": null,
+      "recurring": "2 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124267-primadonny",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/179660?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xNlwvN3M3dm5sNTZwcV9GSUxHMTMwMV9iaWdfMV9iaWdfMV8uanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=ee7b0bfa057816cc"
+    },
+    {
       "id": "124728-4",
       "startsAt": "2027-01-05T11:00:00",
       "endsAt": "2027-01-05T11:00:00",
@@ -2100,24 +2190,6 @@
       "sourceUrl": "https://klops.ru/afisha/124728-novogodnyaya-elka-dlya-malyshey",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/747707?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8wOVwvMzV1M2Rsa3VmMl82YWU4YWFlNjU5ODg5OWQwM2UwMzZjZWUuanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=19c2a5a317c601e1"
-    },
-    {
-      "id": "124730-3",
-      "startsAt": "2027-01-05T13:30:00",
-      "endsAt": "2027-01-05T13:30:00",
-      "title": "Дед Мороз и Леди Баг. Битва за новый год",
-      "categoryId": "kids",
-      "venueId": "nтеатр-николая-захарова",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "6+",
-      "description": "Детское новогоднее представление в необычном театре за столиками. Конкурсы, подвижные игры, квесты и призы. Шоу фокусника. Памятный сувенир каждому ребенку. Фотосессия с Дедом Морозом и персонажами. Новогодний буфет",
-      "highlights": null,
-      "recurring": "4 даты",
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124730-ded-moroz-i-ledi-bag-bitva-za-novyy-god",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/915421?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8wOVwvMzkxa252eGpnOF82YWU4YWMxOGExZmNlNGFhYjk2ZTFjY2YucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=42dffac1e3dd7002"
     },
     {
       "id": "124623",
@@ -2172,24 +2244,6 @@
       "sourceUrl": "https://klops.ru/afisha/124580-novogodnee-puteshestvie-s-matushkoy-rossiey",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/906677?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMVwvM3o4Ynk5a2NzZ19fMzEyXzI0MF8uanBnIl0sWyJwIiwidGh1bWIiLCIzMTJ4MjQwKzArMCJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=d829588afefb157d"
-    },
-    {
-      "id": "124730-4",
-      "startsAt": "2027-01-07T13:30:00",
-      "endsAt": "2027-01-07T13:30:00",
-      "title": "Дед Мороз и Леди Баг. Битва за новый год",
-      "categoryId": "kids",
-      "venueId": "nтеатр-николая-захарова",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "6+",
-      "description": "Детское новогоднее представление в необычном театре за столиками. Конкурсы, подвижные игры, квесты и призы. Шоу фокусника. Памятный сувенир каждому ребенку. Фотосессия с Дедом Морозом и персонажами. Новогодний буфет",
-      "highlights": null,
-      "recurring": "4 даты",
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124730-ded-moroz-i-ledi-bag-bitva-za-novyy-god",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/915421?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8wOVwvMzkxa252eGpnOF82YWU4YWMxOGExZmNlNGFhYjk2ZTFjY2YucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=42dffac1e3dd7002"
     },
     {
       "id": "124553",

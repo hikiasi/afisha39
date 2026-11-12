@@ -1,53 +1,20 @@
 {
-  "generatedAt": "2026-11-11T12:00:04.433Z",
+  "generatedAt": "2026-11-12T13:02:09.902Z",
   "generator": "scripts/fetch-events.mjs — краулер реальной афиши klops.ru",
   "source": "https://klops.ru/afisha/",
   "note": "Реальные события Калининграда, собранные автоматическим обходом публичной серверной афиши klops.ru (материалы сайта распространяются по лицензии CC BY-SA 4.0). Даты и площадки — из микроформата schema.org/Event. Цена -1 означает платный вход без публикуемой цены.",
-  "horizonDays": 121,
+  "horizonDays": 120,
   "venues": [
-    {
-      "id": "yantar-hall",
-      "name": "Янтарь-Холл",
-      "shortName": "Янтарь-Холл",
-      "address": "г. Светлогорск, Калининградская область",
-      "district": "Светлогорский городской округ",
-      "description": "Современный концертно-конгрессный комплекс на побережье Балтийского моря: гастрольные шоу, фестивали и форумы.",
-      "site": null,
-      "lat": 54.945671,
-      "lng": 20.159533
-    },
     {
       "id": "nдворец-спорта-янтарный-amber-arena-",
       "name": "Дворец спорта \"Янтарный\" (Amber Arena)",
-      "shortName": "ДС «Янтарный»",
+      "shortName": "Дворец спорта \"Янтарный\" (Amber Arena)",
       "address": "",
       "district": "",
       "description": "",
       "site": null,
       "lat": 54.749263,
       "lng": 20.485469
-    },
-    {
-      "id": "nдворец-спорта-юность-",
-      "name": "Дворец спорта \"Юность\"",
-      "shortName": "Дворец спорта \"Юность\"",
-      "address": "",
-      "district": "",
-      "description": "",
-      "site": null,
-      "lat": 54.707421,
-      "lng": 20.504046
-    },
-    {
-      "id": "nкинотеатр-заря-",
-      "name": "Кинотеатр \"Заря\"",
-      "shortName": "Кинотеатр \"Заря\"",
-      "address": "",
-      "district": "",
-      "description": "",
-      "site": null,
-      "lat": 54.720595,
-      "lng": 20.482981
     },
     {
       "id": "philharmonic",
@@ -70,6 +37,28 @@
       "site": null,
       "lat": 54.719664,
       "lng": 20.492629
+    },
+    {
+      "id": "yantar-hall",
+      "name": "Янтарь-Холл",
+      "shortName": "Янтарь-Холл",
+      "address": "г. Светлогорск, Калининградская область",
+      "district": "Светлогорский городской округ",
+      "description": "Современный концертно-конгрессный комплекс на побережье Балтийского моря: гастрольные шоу, фестивали и форумы.",
+      "site": null,
+      "lat": 54.945671,
+      "lng": 20.159533
+    },
+    {
+      "id": "nдворец-спорта-юность-",
+      "name": "Дворец спорта \"Юность\"",
+      "shortName": "Дворец спорта \"Юность\"",
+      "address": "",
+      "district": "",
+      "description": "",
+      "site": null,
+      "lat": 54.707421,
+      "lng": 20.504046
     },
     {
       "id": "nкалининградский-театр-эстрады",
@@ -114,6 +103,17 @@
       "site": null,
       "lat": 54.721614,
       "lng": 20.465554
+    },
+    {
+      "id": "nкинотеатр-заря-",
+      "name": "Кинотеатр \"Заря\"",
+      "shortName": "Заря",
+      "address": "",
+      "district": "",
+      "description": "",
+      "site": null,
+      "lat": 54.720595,
+      "lng": 20.482981
     },
     {
       "id": "nдк-железнодорожников",
@@ -339,8 +339,8 @@
   "events": [
     {
       "id": "123056",
-      "startsAt": "2026-11-11T09:00:00",
-      "endsAt": "2026-11-11T09:00:00",
+      "startsAt": "2026-11-12T09:00:00",
+      "endsAt": "2026-11-12T09:00:00",
       "title": "Экспозиция музейно-выставочного комплекса «Янтарный замок»",
       "categoryId": "exhibitions",
       "venueId": "n-янтарный-замок-",
@@ -357,8 +357,8 @@
     },
     {
       "id": "124651",
-      "startsAt": "2026-11-11T10:00:00",
-      "endsAt": "2026-11-11T10:00:00",
+      "startsAt": "2026-11-12T10:00:00",
+      "endsAt": "2026-11-12T10:00:00",
       "title": "Открытие выставки «Морским судам быть!»",
       "categoryId": "exhibitions",
       "venueId": "nбиблиотека-им-космонавта-а-а-леонова-биб",
@@ -375,8 +375,8 @@
     },
     {
       "id": "124502",
-      "startsAt": "2026-11-11T10:00:00",
-      "endsAt": "2026-11-11T10:00:00",
+      "startsAt": "2026-11-12T10:00:00",
+      "endsAt": "2026-11-12T10:00:00",
       "title": "РОВЕСНИКИ: ретроспективная фотовыставка Станислава Покровского",
       "categoryId": "exhibitions",
       "venueId": "history-museum",
@@ -393,8 +393,8 @@
     },
     {
       "id": "124675",
-      "startsAt": "2026-11-11T11:00:00",
-      "endsAt": "2026-11-11T11:00:00",
+      "startsAt": "2026-11-12T11:00:00",
+      "endsAt": "2026-11-12T11:00:00",
       "title": "Открытие выставки «Вдохновение. Краски. Море»",
       "categoryId": "exhibitions",
       "venueId": "nдом-книжного-наследия-xx-века-имени-н-с-",
@@ -411,8 +411,8 @@
     },
     {
       "id": "121486",
-      "startsAt": "2026-11-11T14:00:00",
-      "endsAt": "2026-11-11T14:00:00",
+      "startsAt": "2026-11-12T14:00:00",
+      "endsAt": "2026-11-12T14:00:00",
       "title": "Выставка «Потоп»",
       "categoryId": "exhibitions",
       "venueId": "nкультурный-квартал-понарт-",
@@ -429,8 +429,8 @@
     },
     {
       "id": "124628",
-      "startsAt": "2026-11-11T17:00:00",
-      "endsAt": "2026-11-11T17:00:00",
+      "startsAt": "2026-11-12T17:00:00",
+      "endsAt": "2026-11-12T17:00:00",
       "title": "Выставка «Искусство вкуса. Посуда и предметы декора из янтаря»",
       "categoryId": "exhibitions",
       "venueId": "amber-museum",
@@ -444,78 +444,6 @@
       "sourceUrl": "https://klops.ru/afisha/124628-vystavka-iskusstvo-vkusa-posuda-i-predmety-dekora-iz-yantarya",
       "ticketUrl": null,
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yNlwvNm9wNndvZXZ2OV9tOWs3dW53eXZrMzR3Z3pzY284czhpZDVidHNzOWhqeC5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=37e6ae06adba9915"
-    },
-    {
-      "id": "124670",
-      "startsAt": "2026-11-11T19:00:00",
-      "endsAt": "2026-11-11T19:00:00",
-      "title": "Церемония вручения премии «Пумперникель — 2026»",
-      "categoryId": "theatre",
-      "venueId": "nкинотеатр-заря-",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "18+",
-      "description": "В 2026 году главная ресторанная премия «Пумперникель» проходит в 14-й раз. Организаторы определяют лучшие заведения Калининграда по результатам народного онлайн-голосования, голосования фуди и независимых экспертов из сферы HoReCa. Церемония награждения станет официальным завершением премии. Вечером 11 ноября в «Заре» объявят победителей во всех номинациях.\n\nНоминации ресторанной премии «Пумперникель — 2026»:\n\nОткрытие года (новые заведения, открывшиеся с 1 августа 2025 года по 31 июля 2026 года)\n\nЛучший ресторан на море\n\nЛучшая кофейня\n\nЛучший бар\n\nЛучшие ресторанные десерты\n\nЛучшая выпечка\n\nЛучший завтрак\n\nЛучшая пицца\n\nЛучший рыбный ресторан\n\nЛучший мясной ресторан\n\nЛучший семейный ресторан\n\nЛучший ресторан для праздника\n\nЛучший ресторан высокой кухни\n\nЛучший ресторан при отеле\n\nСпециальные номинации:\n\nЛучший ресторан Балтийской кухни\n\nВыбор гостя\n\nЛучший российская винная карта\n\nЛучш …",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124670-tseremoniya-vrucheniya-premii-pumpernikel-2026",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@65768262?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8wMlwvODdmbW12N2VkZV9fLmpwZyJdLFsicCIsInRodW1iIiwiMTAwMHg1NjgjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=e4ff6e1a6f328a4a"
-    },
-    {
-      "id": "124566",
-      "startsAt": "2026-11-11T19:00:00",
-      "endsAt": "2026-11-11T19:00:00",
-      "title": "Хироко Иноуэ приглашает: Голос эпохи. 95 лет Микаэлу Таривердиеву",
-      "categoryId": "concerts",
-      "venueId": "philharmonic",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "12+",
-      "description": "Посвящается юбилею выдающегося композитора\n\nВ год 95-летия со дня рождения Микаэла Таривердиева филармония приглашает на концерт, посвящённый композитору, чья музыка стала неотъемлемой частью отечественной культуры. Его сочинения для кино знакомы нескольким поколениям слушателей, а органные произведения открывают другую сторону его творчества – сложную, многоплановую и самобытную.\n\nЛауреат международных конкурсов Хироко Иноуэ исполнит «Домский собор», Первый концерт для органа «Кассандра», хоральные прелюдии из сборника «Подражание старым мастерам», «Бассо остинато» из Второго органного концерта «Полифоническая тетрадь».\n\nВ программе также прозвучат пьесы из фортепианного цикла «Настроения», «Маленький принц» из фильма «Пассажир с экватора» и «Снег над Ленинградом» из картины «Ирония судьбы, или С лёгким паром!». …",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124566-hiroko-inoue-priglashaet-golos-epohi-95-let-mikaelu-tariverdievu",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@65175838?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMFwvNjhvdXJ0MGk3Nl8xMS4xMV8uSlBHIl0sWyJwIiwidGh1bWIiLCIxMDAweDU2OCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=bb4ffcf62ad34e45"
-    },
-    {
-      "id": "124511",
-      "startsAt": "2026-11-11T19:00:00",
-      "endsAt": "2026-11-11T19:00:00",
-      "title": "Хиты 90х-2000х",
-      "categoryId": "concerts",
-      "venueId": "nдк-железнодорожников",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "12+",
-      "description": "Хиты 90х — 2000х — это настоящий фейерверк хитов и любимых песен, которые знает вся страна. Этот звездный концерт позволит вам отправиться в волнующее путешествие, вернуться на один вечер в прошлое, в мир любимой поп-музыки 90-х.-2000х.\n\nВ программе примут участие:\n\nГруппа «140 ударов в минуту». Основными хитами, ставшими визитной карточкой коллектива, являются песни «Тополя», «Я скучаю по тебе», «У меня есть ты»,«Без тебя»,«Ресницы», «Школьный выпускной», «Не буди меня», «Знай», «Не сходи с ума», «Вернуть тебя», «Дочка».\n\nГруппа «Турбомода», была первым проектом продюсерского центра Сергея Жукова — основателя суперпопулярного коллектива «Руки Вверх!». Песни «Мама» («Ты уезжаешь к маме, в сердце которой камень») и «Позови» («Если снова будешь гордою, то останешься голодной...»). …",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124511-hity-90h-2000h",
-      "ticketUrl": "https://widget.kassir.ru/?type=E&key=ae85de6e-3307-c55d-9e9e-63d6bd140d32&domain=kgd.kassir.ru&id=5927121",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8xM1wvNmQxOWxzNG0zYV9lY2E3NmNlOTM5YzM1NjEzYjQyNDNmYmNlMzdmYjEyOC5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=3d7d6d27f320c085"
-    },
-    {
-      "id": "124618",
-      "startsAt": "2026-11-11T21:30:00",
-      "endsAt": "2026-11-11T21:30:00",
-      "title": "Вот такое шоу, собачка",
-      "categoryId": "humor",
-      "venueId": "nстендап-клуб-локация-",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "18+",
-      "description": "А ты смог бы за пару минут убедить целый зал, что твоя история — чистая правда? В этом шоу зрители рассказывают истории из жизни. Настоящие или выдуманные — никто не знает. Ведущий цепляется за детали, задаёт вопросы и пытается вывести рассказчика на чистую воду. А зал решает: верить или не верить.\n\nТри истории. Три попытки всех обмануть. И 5000₽ тому, кто сделает это лучше остальных. Причём быть комиком не нужно — главное — иметь историю и уметь убедительно врать. Или не врать.",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124618-vot-takoe-shou-sobachka",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@65323929?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yM1wvMW02MzhwYjJqY182YWRhNmEzOTc3NTkyNjFhNDZkOGI0NjUucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=1c77c48946fbae34"
     },
     {
       "id": "124478",
@@ -533,7 +461,7 @@
       "source": "Klops.ru — афиша Калининграда",
       "sourceUrl": "https://klops.ru/afisha/124478-art-proekt-solista-filarmonii-aleksandra-dudnitskogo-hvorostovskiy",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64623097?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wOVwvMWViOXFvcnpndl9wajJwMG95anQybG1td3owYjY0dzdvY3IxcnZtbWZ5ai5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=e23922ed3ca4cd38"
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wOVwvMWViOXFvcnpndl9wajJwMG95anQybG1td3owYjY0dzdvY3IxcnZtbWZ5ai5qcGciXSxbInAiLCJ0aHVtYiIsIjEwMDB4NTY4IyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=f02afbcc731d7232"
     },
     {
       "id": "124306",
@@ -626,24 +554,6 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8wOFwveGZkOHBja2tfZmM5ZmMyMGU2YzVjNWZmOWMxZGMxMDdlZDc1NmFhZTEuanBnIl0sWyJwIiwidGh1bWIiLCI1MDl4MzkyKzc3MCswIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=660794de1af64289"
     },
     {
-      "id": "124459",
-      "startsAt": "2026-11-13T19:00:00",
-      "endsAt": "2026-11-13T19:00:00",
-      "title": "Небесные лучи",
-      "categoryId": "concerts",
-      "venueId": "cathedral",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "6+",
-      "description": "Три года назад Сяофен Хе стал лауреатом Международного конкурса органистов имени Микаэла Таривердиева. Что ж, пришло время возвращаться с концертом. Парочку красивых метеоров, небесные лучи и даже целую Ланиакею прихватил с собой музыкант, решив исполнить этюды современного французского композитора и органиста Жана-Батиста Робина.\n\nВ программе: М. Регер, И.С. Бах, И. Брамс, Ф. Мендельсон. Ж.-Б. Робин, М. Дюрюфле, Ш.-М. Видор, Л. Вьерн",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124459-nebesnye-luchi",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64743862?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wOFwvNGF3dHhybnE4MF81LmpwZyJdLFsicCIsInRodW1iIiwiMzEyeDI0MCswKzAiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=a0fa62879b6147e3"
-    },
-    {
       "id": "124479",
       "startsAt": "2026-11-13T19:00:00",
       "endsAt": "2026-11-13T19:00:00",
@@ -660,6 +570,24 @@
       "sourceUrl": "https://klops.ru/afisha/124479-trio-daniila-kramera-s-programmoy-igry-v-dzhaz",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64750028?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wOVwvM2QxbjViaXp1al9rejdzejJlYXM2eDdoMm03anpmczl6aXduemcyNzlkbi5wbmciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=b2e41b3a3276244a"
+    },
+    {
+      "id": "124459",
+      "startsAt": "2026-11-13T19:00:00",
+      "endsAt": "2026-11-13T19:00:00",
+      "title": "Небесные лучи",
+      "categoryId": "concerts",
+      "venueId": "cathedral",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "6+",
+      "description": "Три года назад Сяофен Хе стал лауреатом Международного конкурса органистов имени Микаэла Таривердиева. Что ж, пришло время возвращаться с концертом. Парочку красивых метеоров, небесные лучи и даже целую Ланиакею прихватил с собой музыкант, решив исполнить этюды современного французского композитора и органиста Жана-Батиста Робина.\n\nВ программе: М. Регер, И.С. Бах, И. Брамс, Ф. Мендельсон. Ж.-Б. Робин, М. Дюрюфле, Ш.-М. Видор, Л. Вьерн",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124459-nebesnye-luchi",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64743862?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wOFwvNGF3dHhybnE4MF81LmpwZyJdLFsicCIsInRodW1iIiwiMzEyeDI0MCswKzAiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=a0fa62879b6147e3"
     },
     {
       "id": "124514-1",
@@ -714,6 +642,24 @@
       "sourceUrl": "https://klops.ru/afisha/124095-leonid-kulakov",
       "ticketUrl": "https://widget.kassir.ru/?type=A&key=ae85de6e-3307-c55d-9e9e-63d6bd140d32&domain=kgd.kassir.ru&id=197295",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA4XC8yNlwvNnNxODU5ZTQ5al8xYWE0Mjk0NzIyMTJjMjFmNDc3NWJiOWUwODEyMGIzNS5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=35ff77524e9cae3d"
+    },
+    {
+      "id": "122489",
+      "startsAt": "2026-11-13T20:00:00",
+      "endsAt": "2026-11-13T20:00:00",
+      "title": "Xcho",
+      "categoryId": "concerts",
+      "venueId": "nyalta-club",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "16+",
+      "description": "Xcho — талантливый музыкант, который рвёт музыкальные чарты и завоевывает сердца поклонников по всей стране. Его зажигательные ритмы и душевные тексты наполнят вечер эмоциями и энергией.\n\nXcho — это артист с неординарным стилем и харизмой, который с легкостью сочетает различные музыкальные жанры, создавая неповторимые композиции.\n\nНе упустите шанс стать частью этого незабываемого события! Загляните в мир завораживающей музыки Xcho и откройте для себя новые грани звукового восприятия!",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/122489-xcho",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@56763697?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzAyXC8xOVwvN21mNXd3NDRlc182OThjODE2NjQ0ZWEzNDBmMTZlOGJjZDMuanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=a3d0c95bbf7257e7"
     },
     {
       "id": "124129",
@@ -803,7 +749,7 @@
       "source": "Klops.ru — афиша Калининграда",
       "sourceUrl": "https://klops.ru/afisha/124480-vokalnyy-ansambl-kamerata",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64750063?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wOVwvNmVlMmlpYXcxel9lZGhrbzRzb2J0emkydzhtcXM5dmRoMDdoZ3E2OHc2NC5qcGciXSxbInAiLCJ0aHVtYiIsIjEwMDB4NTY4IyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=8522bf2b222f3615"
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wOVwvNmVlMmlpYXcxel9lZGhrbzRzb2J0emkydzhtcXM5dmRoMDdoZ3E2OHc2NC5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=a76da0ecc069dcab"
     },
     {
       "id": "124469-1",
@@ -1004,6 +950,24 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yNlwvOGtyNmo0ZnVqa18zMGZmOThlYTMwMjUwOTMzNDA3ZTBiOTJjYTAzY2E5OS5qZmlmIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=f595d89fc5487412"
     },
     {
+      "id": "124100",
+      "startsAt": "2026-11-15T20:00:00",
+      "endsAt": "2026-11-15T20:00:00",
+      "title": "Алиса Дударева. Стендап",
+      "categoryId": "humor",
+      "venueId": "nстендап-клуб-локация-",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "18+",
+      "description": "Алиса Дударева — новый яркий талант в мире комедии, ее уникальная комбинация остроумия и обаяния завоевывает все больше зрительских сердец. Ты узнаешь ее из тысячи по словам … у Алисы самый сексуальный голос в мире стендапа. Это придает ее выступлениям особое очарование и гипнотический эффект. В случае Алисы, лучше один раз услышать.\n\nЭто событие в СМИ Анонсы",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124100-alisa-dudareva-stendap",
+      "ticketUrl": "https://widget.kassir.ru/?type=A&key=ae85de6e-3307-c55d-9e9e-63d6bd140d32&domain=kgd.kassir.ru&id=300651",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA4XC8yNlwvNGxxNTFqeDN1OF8xZDcxMDQ2NzhjOTVlYTljNGQ2ZTllMTA5OTc5NDJkOC5wbmciXSxbInAiLCJ0aHVtYiIsIjUwOXgzOTIrNzI3KzAiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=cb6e888f60c2e7f0"
+    },
+    {
       "id": "124637",
       "startsAt": "2026-11-16T19:00:00",
       "endsAt": "2026-11-16T19:00:00",
@@ -1020,6 +984,24 @@
       "sourceUrl": "https://klops.ru/afisha/124637-troe-na-kachelyah-blagotvoritelnyy-spektakl",
       "ticketUrl": "https://widget.kassir.ru/?type=E&key=ae85de6e-3307-c55d-9e9e-63d6bd140d32&domain=kgd.kassir.ru&id=5866416",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yN1wvNHJ4amZ5aTZ6dl85NzJmZTFmNDk0ZmEzNTkwYjllOGY0MTcyMDAzZjFkMi5wbmciXSxbInAiLCJ0aHVtYiIsIjUwOXgzOTIrNzEzKzAiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=1dd8336c18157d02"
+    },
+    {
+      "id": "124482",
+      "startsAt": "2026-11-17T19:00:00",
+      "endsAt": "2026-11-17T19:00:00",
+      "title": "Джаз без границ",
+      "categoryId": "concerts",
+      "venueId": "philharmonic",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "12+",
+      "description": "За роялем — народный артист России Сергей Жилин\n\nИсполнители: Ансамбль студентов и педагогов Московской консерватории «Звук». Джаз-квинтет «Акцент» эстрадного отделения колледжа (руководитель — Евгений Калинин).",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124482-dzhaz-bez-granits",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64750163?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wOVwvMzZqcm4wbnJ6ZF8wZ3dyZ3UzMzZseXI3cjRjaTVlb2ZqZXExcHV6Zjc3eS5wbmciXSxbInAiLCJ0aHVtYiIsIjY2NHg1MTErMCswIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=e6befd07b90ff9c7"
     },
     {
       "id": "124267-1",
@@ -1074,6 +1056,24 @@
       "sourceUrl": "https://klops.ru/afisha/122846-mot",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@58341265?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA0XC8wM1wvNnJ6NHg1dDR2aF9fMzEyXzI0MC5qcGciXSxbInAiLCJ0aHVtYiIsIjMxMngyNDArMCswIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=274b22ad6e1ec3aa"
+    },
+    {
+      "id": "124484",
+      "startsAt": "2026-11-19T19:00:00",
+      "endsAt": "2026-11-19T19:00:00",
+      "title": "Поэзия XX века в музыке",
+      "categoryId": "concerts",
+      "venueId": "philharmonic",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "12+",
+      "description": "Калининградская областная филармония представляет концерт-манифест. Новый вечер абонемента №3 посвящен самому нервному, страстному и противоречивому диалогу двух столетий — встрече великой русской поэзии Серебряного века и советской эпохи с музыкой гениев XX столетия.\n\nВек потрясений породил поэзию невероятной силы. Рваный ритм и пронзительная интимность Марины Цветаевой, строгая царственность и скрытая боль Анны Ахматовой, бунтарский крик Андрея Вознесенского и гражданский пафос Евгения Евтушенко стали голосом времени. Композиторы ответили им достойно, создав музыкальные портреты поэтов, где классические традиции столкнулись с новаторством.\n\nМузыкальную панораму дополнят шедевры отечественных авторов. …",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124484-poeziya-xx-veka-v-muzyke",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64750375?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wOVwvMml6c3ZpZDAyaF9nOGtsOXlicHZpN3g3emxiY3BubTkxYXIxajE1MnR2eC5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=0d3c73e9dc72d12f"
     },
     {
       "id": "121501",
@@ -1344,6 +1344,24 @@
       "sourceUrl": "https://klops.ru/afisha/124429-lektsiya-vasiliya-beynarovicha-kak-ne-vospitat-seriynogo-ubiytsu",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64566335?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wNlwvMWpqOGh0azIybV82YTRmYTFiNTk3MjJhZThmYmE1ZmUwZjMuanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=013521593410c38a"
+    },
+    {
+      "id": "124683",
+      "startsAt": "2026-11-28T19:00:00",
+      "endsAt": "2026-11-28T19:00:00",
+      "title": "«Старые грабители»",
+      "categoryId": "festivals",
+      "venueId": "nкинотеатр-заря-",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "16+",
+      "description": "17-й ФЕСТИВАЛЬ БРАЗИЛЬСКОГО КИНО В РОССИИ — 2026. БРАЗИЛИЯ | КОМЕДИЯ | ЦВЕТНОЙ | 2026 | 93 МИНУТЫ\n\n35 лет назад Родолфу был несправедливо осуждён после того, как разоблачил коррупцию в компании, где работал. Чувствуя вину за то, что подтолкнула его к этому шагу, его жена Марта посвятила жизнь подготовке финансового реванша. И вот появляется шанс осуществить задуманное: двое молодых людей пытаются ограбить дом супругов, но пожилые хозяева обезвреживают незваных гостей и, шантажируя их, заставляют выполнить план Марты — ограбить банк!",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124683-starye-grabiteli",
+      "ticketUrl": "https://widget.kassir.ru/film/zarya-kinoteatr/17-y-festival-brazilskogo-kino-v-rossii--2026-5860_2026-11-28?type=E&key=ae85de6e-3307-c55d-9e9e-63d6bd140d32&domain=kgd.kassir.ru&id=6814012",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8wMlwvNDF3enVkdmw0cF9hYjE4ZjkwZTdlNDc3Mjg0YTUxMGMxMWRlN2IxZjE2Yi5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=6ca99a6d4b9eb16d"
     },
     {
       "id": "124246-3",
@@ -1742,6 +1760,24 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA4XC8xMlwvMmhkZ3hteXlpdV9fX19fXzFfLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=8209f12f7c042551"
     },
     {
+      "id": "124782-1",
+      "startsAt": "2026-12-26T11:00:00",
+      "endsAt": "2026-12-26T11:00:00",
+      "title": "«Новогодний детектив»",
+      "categoryId": "kids",
+      "venueId": "dramteatr",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "6+",
+      "description": "В канун Нового года в сказочном городе происходит настоящее чрезвычайное происшествие — таинственным образом пропадает волшебный мешок с письмами к Деду Морозу! Под угрозой оказываются заветные детские мечты, подарки и сам праздник.\n\nЗа дело берется самый проницательный и харизматичный сыщик — Детектив Слежкин. Вместе со своими верными и отважными помощниками он начинает расследование, полное тайн, неожиданных улик и сказочных превращений. Героям предстоит столкнуться с коварными ловушками, оказаться в темном подземелье и проявить настоящую смекалку, чтобы спасти Новый год.\n\nСказка наполнена юмором (понятным как детям, так и их родителям), динамичными погонями и интерактивными элементами, где маленькие зрители могут помочь следствию.\n\nВ сказке вы увидете следующих героев:\n\nДетектив Слежкин — главный сыщик, эксцентричный, умный, но иногда излишне драматичный. …",
+      "highlights": null,
+      "recurring": "4 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124782-novogodniy-detektiv",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/916738?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8xMVwvM3FhMTYyMndmOF9hNDEzNjM2OF85NTQzXzQ0ZTJfOWRlZV9kZWMwZGE4ODZlYWYuanBlZyJdLFsicCIsInRodW1iIiwiMTAwMHg1NjgjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=297068b274df602f"
+    },
+    {
       "id": "124729-2",
       "startsAt": "2026-12-26T11:00:00",
       "endsAt": "2026-12-26T11:00:00",
@@ -1776,24 +1812,6 @@
       "sourceUrl": "https://klops.ru/afisha/124574-idet-koza-rogataya",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/906414?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMVwvNDB2cGFneHRtM19fNF9fLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=fdb3d8b1f0b9b1e4"
-    },
-    {
-      "id": "124782-1",
-      "startsAt": "2026-12-26T11:00:00",
-      "endsAt": "2026-12-26T11:00:00",
-      "title": "«Новогодний детектив»",
-      "categoryId": "kids",
-      "venueId": "dramteatr",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "6+",
-      "description": "В канун Нового года в сказочном городе происходит настоящее чрезвычайное происшествие — таинственным образом пропадает волшебный мешок с письмами к Деду Морозу! Под угрозой оказываются заветные детские мечты, подарки и сам праздник.\n\nЗа дело берется самый проницательный и харизматичный сыщик — Детектив Слежкин. Вместе со своими верными и отважными помощниками он начинает расследование, полное тайн, неожиданных улик и сказочных превращений. Героям предстоит столкнуться с коварными ловушками, оказаться в темном подземелье и проявить настоящую смекалку, чтобы спасти Новый год.\n\nСказка наполнена юмором (понятным как детям, так и их родителям), динамичными погонями и интерактивными элементами, где маленькие зрители могут помочь следствию.\n\nВ сказке вы увидете следующих героев:\n\nДетектив Слежкин — главный сыщик, эксцентричный, умный, но иногда излишне драматичный. …",
-      "highlights": null,
-      "recurring": "4 даты",
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124782-novogodniy-detektiv",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/916738?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8xMVwvM3FhMTYyMndmOF9hNDEzNjM2OF85NTQzXzQ0ZTJfOWRlZV9kZWMwZGE4ODZlYWYuanBlZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=1e66cf800e152ce2"
     },
     {
       "id": "124729-3",
@@ -1847,7 +1865,7 @@
       "source": "Klops.ru — афиша Калининграда",
       "sourceUrl": "https://klops.ru/afisha/124782-novogodniy-detektiv",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/916738?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8xMVwvM3FhMTYyMndmOF9hNDEzNjM2OF85NTQzXzQ0ZTJfOWRlZV9kZWMwZGE4ODZlYWYuanBlZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=1e66cf800e152ce2"
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8xMVwvM3FhMTYyMndmOF9hNDEzNjM2OF85NTQzXzQ0ZTJfOWRlZV9kZWMwZGE4ODZlYWYuanBlZyJdLFsicCIsInRodW1iIiwiMTAwMHg1NjgjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=297068b274df602f"
     },
     {
       "id": "123994-2",
@@ -1866,6 +1884,24 @@
       "sourceUrl": "https://klops.ru/afisha/123994-velikiy-getsbi",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/580524?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA4XC8xMlwvMmhkZ3hteXlpdV9fX19fXzFfLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=8209f12f7c042551"
+    },
+    {
+      "id": "124782-3",
+      "startsAt": "2026-12-27T11:00:00",
+      "endsAt": "2026-12-27T11:00:00",
+      "title": "«Новогодний детектив»",
+      "categoryId": "kids",
+      "venueId": "dramteatr",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "6+",
+      "description": "В канун Нового года в сказочном городе происходит настоящее чрезвычайное происшествие — таинственным образом пропадает волшебный мешок с письмами к Деду Морозу! Под угрозой оказываются заветные детские мечты, подарки и сам праздник.\n\nЗа дело берется самый проницательный и харизматичный сыщик — Детектив Слежкин. Вместе со своими верными и отважными помощниками он начинает расследование, полное тайн, неожиданных улик и сказочных превращений. Героям предстоит столкнуться с коварными ловушками, оказаться в темном подземелье и проявить настоящую смекалку, чтобы спасти Новый год.\n\nСказка наполнена юмором (понятным как детям, так и их родителям), динамичными погонями и интерактивными элементами, где маленькие зрители могут помочь следствию.\n\nВ сказке вы увидете следующих героев:\n\nДетектив Слежкин — главный сыщик, эксцентричный, умный, но иногда излишне драматичный. …",
+      "highlights": null,
+      "recurring": "4 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124782-novogodniy-detektiv",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/916738?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8xMVwvM3FhMTYyMndmOF9hNDEzNjM2OF85NTQzXzQ0ZTJfOWRlZV9kZWMwZGE4ODZlYWYuanBlZyJdLFsicCIsInRodW1iIiwiMTAwMHg1NjgjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=297068b274df602f"
     },
     {
       "id": "124543-1",
@@ -1902,24 +1938,6 @@
       "sourceUrl": "https://klops.ru/afisha/124574-idet-koza-rogataya",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/906414?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMVwvNDB2cGFneHRtM19fNF9fLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=fdb3d8b1f0b9b1e4"
-    },
-    {
-      "id": "124782-3",
-      "startsAt": "2026-12-27T11:00:00",
-      "endsAt": "2026-12-27T11:00:00",
-      "title": "«Новогодний детектив»",
-      "categoryId": "kids",
-      "venueId": "dramteatr",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "6+",
-      "description": "В канун Нового года в сказочном городе происходит настоящее чрезвычайное происшествие — таинственным образом пропадает волшебный мешок с письмами к Деду Морозу! Под угрозой оказываются заветные детские мечты, подарки и сам праздник.\n\nЗа дело берется самый проницательный и харизматичный сыщик — Детектив Слежкин. Вместе со своими верными и отважными помощниками он начинает расследование, полное тайн, неожиданных улик и сказочных превращений. Героям предстоит столкнуться с коварными ловушками, оказаться в темном подземелье и проявить настоящую смекалку, чтобы спасти Новый год.\n\nСказка наполнена юмором (понятным как детям, так и их родителям), динамичными погонями и интерактивными элементами, где маленькие зрители могут помочь следствию.\n\nВ сказке вы увидете следующих героев:\n\nДетектив Слежкин — главный сыщик, эксцентричный, умный, но иногда излишне драматичный. …",
-      "highlights": null,
-      "recurring": "4 даты",
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124782-novogodniy-detektiv",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/916738?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8xMVwvM3FhMTYyMndmOF9hNDEzNjM2OF85NTQzXzQ0ZTJfOWRlZV9kZWMwZGE4ODZlYWYuanBlZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=1e66cf800e152ce2"
     },
     {
       "id": "124728-1",
@@ -2045,7 +2063,7 @@
       "source": "Klops.ru — афиша Калининграда",
       "sourceUrl": "https://klops.ru/afisha/124782-novogodniy-detektiv",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/916738?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8xMVwvM3FhMTYyMndmOF9hNDEzNjM2OF85NTQzXzQ0ZTJfOWRlZV9kZWMwZGE4ODZlYWYuanBlZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=1e66cf800e152ce2"
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8xMVwvM3FhMTYyMndmOF9hNDEzNjM2OF85NTQzXzQ0ZTJfOWRlZV9kZWMwZGE4ODZlYWYuanBlZyJdLFsicCIsInRodW1iIiwiMTAwMHg1NjgjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=297068b274df602f"
     },
     {
       "id": "124728-2",

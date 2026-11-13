@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-12T13:02:09.902Z",
+  "generatedAt": "2026-11-13T12:27:40.566Z",
   "generator": "scripts/fetch-events.mjs — краулер реальной афиши klops.ru",
   "source": "https://klops.ru/afisha/",
   "note": "Реальные события Калининграда, собранные автоматическим обходом публичной серверной афиши klops.ru (материалы сайта распространяются по лицензии CC BY-SA 4.0). Даты и площадки — из микроформата schema.org/Event. Цена -1 означает платный вход без публикуемой цены.",
-  "horizonDays": 120,
+  "horizonDays": 119,
   "venues": [
     {
       "id": "nдворец-спорта-янтарный-amber-arena-",
@@ -17,17 +17,6 @@
       "lng": 20.485469
     },
     {
-      "id": "philharmonic",
-      "name": "Калининградская областная филармония им. Е. Ф. Светланова",
-      "shortName": "Областная филармония",
-      "address": "пр-т Мира, 279 (кирха памяти королевы Луизы) и новый зал на Московском проспекте",
-      "district": "Центральный район",
-      "description": "Главная концертная организация региона: камерный зал в восстановленной кирхе королевы Луизы 1899 года и новый Большой концертный зал с органом.",
-      "site": "https://kldphil.ru",
-      "lat": 54.697547,
-      "lng": 20.509535
-    },
-    {
       "id": "dramteatr",
       "name": "Калининградский областной драматический театр",
       "shortName": "Драматический театр",
@@ -37,6 +26,17 @@
       "site": null,
       "lat": 54.719664,
       "lng": 20.492629
+    },
+    {
+      "id": "philharmonic",
+      "name": "Калининградская областная филармония им. Е. Ф. Светланова",
+      "shortName": "Областная филармония",
+      "address": "пр-т Мира, 279 (кирха памяти королевы Луизы) и новый зал на Московском проспекте",
+      "district": "Центральный район",
+      "description": "Главная концертная организация региона: камерный зал в восстановленной кирхе королевы Луизы 1899 года и новый Большой концертный зал с органом.",
+      "site": "https://kldphil.ru",
+      "lat": 54.697547,
+      "lng": 20.509535
     },
     {
       "id": "yantar-hall",
@@ -314,17 +314,6 @@
       "lng": 20.50489679035101
     },
     {
-      "id": "bfu",
-      "name": "Балтийский федеральный университет им. И. Канта",
-      "shortName": "БФУ им. И. Канта",
-      "address": "ул. Александра Невского, 14",
-      "district": "Центральный район",
-      "description": "Классический университет Калининграда: лектории, научные фестивали и открытые мероприятия городских кампусов.",
-      "site": null,
-      "lat": 54.724219,
-      "lng": 20.527546
-    },
-    {
       "id": "nул-ялтинская-20",
       "name": "ул. Ялтинская 20",
       "shortName": "ул. Ялтинская 20",
@@ -339,8 +328,8 @@
   "events": [
     {
       "id": "123056",
-      "startsAt": "2026-11-12T09:00:00",
-      "endsAt": "2026-11-12T09:00:00",
+      "startsAt": "2026-11-13T09:00:00",
+      "endsAt": "2026-11-13T09:00:00",
       "title": "Экспозиция музейно-выставочного комплекса «Янтарный замок»",
       "categoryId": "exhibitions",
       "venueId": "n-янтарный-замок-",
@@ -357,8 +346,8 @@
     },
     {
       "id": "124651",
-      "startsAt": "2026-11-12T10:00:00",
-      "endsAt": "2026-11-12T10:00:00",
+      "startsAt": "2026-11-13T10:00:00",
+      "endsAt": "2026-11-13T10:00:00",
       "title": "Открытие выставки «Морским судам быть!»",
       "categoryId": "exhibitions",
       "venueId": "nбиблиотека-им-космонавта-а-а-леонова-биб",
@@ -375,8 +364,8 @@
     },
     {
       "id": "124502",
-      "startsAt": "2026-11-12T10:00:00",
-      "endsAt": "2026-11-12T10:00:00",
+      "startsAt": "2026-11-13T10:00:00",
+      "endsAt": "2026-11-13T10:00:00",
       "title": "РОВЕСНИКИ: ретроспективная фотовыставка Станислава Покровского",
       "categoryId": "exhibitions",
       "venueId": "history-museum",
@@ -393,8 +382,8 @@
     },
     {
       "id": "124675",
-      "startsAt": "2026-11-12T11:00:00",
-      "endsAt": "2026-11-12T11:00:00",
+      "startsAt": "2026-11-13T11:00:00",
+      "endsAt": "2026-11-13T11:00:00",
       "title": "Открытие выставки «Вдохновение. Краски. Море»",
       "categoryId": "exhibitions",
       "venueId": "nдом-книжного-наследия-xx-века-имени-н-с-",
@@ -411,8 +400,8 @@
     },
     {
       "id": "121486",
-      "startsAt": "2026-11-12T14:00:00",
-      "endsAt": "2026-11-12T14:00:00",
+      "startsAt": "2026-11-13T14:00:00",
+      "endsAt": "2026-11-13T14:00:00",
       "title": "Выставка «Потоп»",
       "categoryId": "exhibitions",
       "venueId": "nкультурный-квартал-понарт-",
@@ -429,8 +418,8 @@
     },
     {
       "id": "124628",
-      "startsAt": "2026-11-12T17:00:00",
-      "endsAt": "2026-11-12T17:00:00",
+      "startsAt": "2026-11-13T17:00:00",
+      "endsAt": "2026-11-13T17:00:00",
       "title": "Выставка «Искусство вкуса. Посуда и предметы декора из янтаря»",
       "categoryId": "exhibitions",
       "venueId": "amber-museum",
@@ -446,82 +435,10 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yNlwvNm9wNndvZXZ2OV9tOWs3dW53eXZrMzR3Z3pzY284czhpZDVidHNzOWhqeC5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=37e6ae06adba9915"
     },
     {
-      "id": "124478",
-      "startsAt": "2026-11-12T19:00:00",
-      "endsAt": "2026-11-12T19:00:00",
-      "title": "«Арт-проект солиста филармонии Александра Дудницкого». Хворостовский",
-      "categoryId": "concerts",
-      "venueId": "philharmonic",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "12+",
-      "description": "Вечер посвящен памяти великого русского певца Дмитрия Хворостовского, одного из лучших русских баритонов последних десятилетий. С 1989 по 2017 год он с огромным успехом выступал на ведущих сценах мира – от Мариинского театра до Метрополитен-оперы, Ла Скала и Ковент-Гардена; его Онегин и Елецкий, Демон и Ди Луна, Жермон и Родриго, Фигаро и Валентин стали образцами для целого поколения русских вокалистов.\n\nОн был признан величайшим баритоном мира, выступал во всех крупных оперных театрах и концертных залах, критики восхищались абсолютной красотой его голоса, приводящего в восторг миллионы слушателей. Дмитрий Хворостовский… Он покинул земной мир в 2017 году, оставив нам в наследство свои спектакли, концерты, компакт-диски, всё то, что почитатели его безусловного таланта берегут с трепетом и восхищением. …",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124478-art-proekt-solista-filarmonii-aleksandra-dudnitskogo-hvorostovskiy",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64623097?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wOVwvMWViOXFvcnpndl9wajJwMG95anQybG1td3owYjY0dzdvY3IxcnZtbWZ5ai5qcGciXSxbInAiLCJ0aHVtYiIsIjEwMDB4NTY4IyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=f02afbcc731d7232"
-    },
-    {
-      "id": "124306",
-      "startsAt": "2026-11-12T19:00:00",
-      "endsAt": "2026-11-12T19:00:00",
-      "title": "Проверка опытных комиков",
-      "categoryId": "humor",
-      "venueId": "nстендап-клуб-локация-",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "18+",
-      "description": "В этот вечер вы увидите, как опытные комики работают над новым материалом и проверяют его на зрителях: одни шутки звучат впервые, другие проходят обкатку и шлифовку. Хорошая возможность увидеть процесс изнутри и стать частью того, как создаётся хороший стендап монолог. Свежие мысли и импровизация — всё происходит живо и в моменте. Приходите, чтобы увидеть, как рождается комедия.",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124306-proverka-opytnyh-komikov",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/714451?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xOFwvNXh5czZqYjRqaV82YTUwZDRkY2MxOTEzODAzNjY2YzAxOGNfMV8ucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=b04a15e6ab7e740b"
-    },
-    {
-      "id": "124147",
-      "startsAt": "2026-11-12T21:30:00",
-      "endsAt": "2026-11-12T21:30:00",
-      "title": "Комедийное шоу «Без проблем»",
-      "categoryId": "humor",
-      "venueId": "nстендап-клуб-локация-",
-      "price": -1,
-      "priceNote": "Точная цена — на странице продавца билетов",
-      "ageLimit": "18+",
-      "description": "Формат, в котором жизненные ситуации становятся поводом не для переживаний, а для хорошего разговора и юмора. На сцене опытные комики вместе с профессиональным психотерапевтом и сексологом Анастасией Чёрной разбирают истории, знакомые каждому: отношения, работа, друзья, семейные вопросы и всё то, с чем мы сталкиваемся каждый день. Иногда лучшие ответы приходят именно через смех!",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124147-komediynoe-shou-bez-problem",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/801859?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA4XC8zMVwvNWpzNWs4em1hOF82YTk0MjMyMmM4MTVhODMwMWU3MzBmOGYucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=7caef787e91f6210"
-    },
-    {
-      "id": "124725",
-      "startsAt": "2026-11-13T11:00:00",
-      "endsAt": "2026-11-13T11:00:00",
-      "title": "«Гражданское общество: единство, поддержка, развитие»",
-      "categoryId": "education",
-      "venueId": "bfu",
-      "price": 0,
-      "priceNote": null,
-      "ageLimit": "18+",
-      "description": "13 ноября Общественная палата Калининградской области при поддержке регионального правительства и БФУ имени Канта проведёт VII Гражданский форум. Мероприятие соберёт представителей общественных организаций, органов власти, научного сообщества, молодёжных объединений, участников СВО, активных граждан и представителей общественных палат субъектов Российской Федерации. Это ключевая площадка для укрепления общественного диалога, обмена опытом и продвижения социально значимых инициатив.\n\nВ рамках Форума запланированы тематические сессии, на которых участники обсудят актуальные вопросы развития гражданского общества по следующим направлениям:\n\nЕдинство в многообразии: традиционные ценности как фундамент мира и солидарности народов России\n\nОбщественный контроль — важный инструмент взаимодействия общества и власти\n\nМолодёжь — стратегический ресурс развития региона\n\nГражданские инициативы — в инт …",
-      "highlights": null,
-      "recurring": null,
-      "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124725-grazhdanskoe-obschestvo-edinstvo-podderzhka-razvitie",
-      "ticketUrl": null,
-      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzExXC8wNlwvNHh6eGtxYzQ3Ml9fLmpwZyJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=66bcd03c637986c8"
-    },
-    {
       "id": "124583",
       "startsAt": "2026-11-13T18:00:00",
       "endsAt": "2026-11-13T18:00:00",
-      "title": "Музыкально-гастрономический вечер «Кино в главной роли»",
+      "title": "Отменен. Музыкально-гастрономический вечер «Кино в главной роли»",
       "categoryId": "concerts",
       "venueId": "nкафе-солёная-ворона-",
       "price": -1,
@@ -531,7 +448,7 @@
       "highlights": null,
       "recurring": null,
       "source": "Klops.ru — афиша Калининграда",
-      "sourceUrl": "https://klops.ru/afisha/124583-muzykalno-gastronomicheskiy-vecher-kino-v-glavnoy-roli",
+      "sourceUrl": "https://klops.ru/afisha/124583-otmenen-muzykalno-gastronomicheskiy-vecher-kino-v-glavnoy-roli",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@65241859?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=20139",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMVwvMjZ3b3F1eGU4Y18xM18ucG5nIl0sWyJwIiwidGh1bWIiLCIxMDI0eDc4NyswKzY1Il0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=6414cbad8832e83f"
     },
@@ -698,7 +615,7 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8yNVwvOWZucmk1Y2h6Ml82YTllYmM5Y2U5ZjJiOTU1ZDBhZWQ1NWQucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=f3ef820d8ba7b489"
     },
     {
-      "id": "124605",
+      "id": "124605-1",
       "startsAt": "2026-11-14T11:30:00",
       "endsAt": "2026-11-14T11:30:00",
       "title": "«Маленький принц»",
@@ -709,10 +626,10 @@
       "ageLimit": "6+",
       "description": "Посвящается детям, которые будут взрослыми и взрослым, которые были детьми. Театр Николая Захарова бережно, трепетно, но всё же по-своему, рассказывает знаменитую историю Антуана де Сент-Экзюпери.\n\nДетям будет созвучна трогательная история о маленьком мальчике, который путешествует от планеты к планете, познает мир, учится дружбе и любви, а взрослым – философская глубина и афористичность текста.",
       "highlights": null,
-      "recurring": null,
+      "recurring": "2 даты",
       "source": "Klops.ru — афиша Калининграда",
       "sourceUrl": "https://klops.ru/afisha/124605-malenkiy-prints",
-      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@65289671?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/219060?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMlwvOGpvdnB1aWVja182N2Y1NDJmZWVmZDJjMzk4MjMyMGVkNjRfMV8uanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=67a7fcb271d4e6f3"
     },
     {
@@ -768,6 +685,24 @@
       "sourceUrl": "https://klops.ru/afisha/124469-sasha-privet",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/808252?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wOVwvOXRoeDgzdGtmZl8xX2JpZy5qcGciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=5b25b071018e9cf2"
+    },
+    {
+      "id": "124323-1",
+      "startsAt": "2026-11-14T18:00:00",
+      "endsAt": "2026-11-14T18:00:00",
+      "title": "Музыкально-гастрономический вечер «Мелодии любви»",
+      "categoryId": "concerts",
+      "venueId": "nкафе-солёная-ворона-",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "12+",
+      "description": "Приглашаем вас на концерт и ужин в уютной театральной гостиной «Солёная ворона» на берегу Балтийского моря!\n\nОлег Яковенко — актер театра и кино (сериалы «Склифосовский», «СЛЕД», «Глухарь», «Не родись красивой», «Улицы разбитых фонарей» и др.),, автор-исполнитель, лауреат международных конкурсов приглашает на программу « Мелодии любви « и это не просто музыкальная программа, а настоящая палитра эмоций, а как может быть иначе, если эти песни поют все, слушают все и эти песни о любви!\n\nПо окончании представления Вас ждёт ужин от шеф-повара кафе «Солёная ворона» Константина Сорокина: салат, горячее и десерт. «Изюминка» ужина — фирменный марципановый кофе. Приветствуются свои напитки и хорошее настроение.\n\nУникальное музыкальное событие для Вашего вечера!\n\nВажно: бесплатная парковка в Зеленоградске! Стоимость билета (концерт+ужин) — 3000 рублей. Подробная информация: +79052435843",
+      "highlights": null,
+      "recurring": "2 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124323-muzykalno-gastronomicheskiy-vecher-melodii-lyubvi",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/733363?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=20139",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8yMVwvOG1kaTRxNG9xOF8yXy5wbmciXSxbInAiLCJ0aHVtYiIsIjEwNTR4ODEwKzArMTUiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=8020d081bbd76968"
     },
     {
       "id": "124606",
@@ -1022,6 +957,24 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xNlwvN3M3dm5sNTZwcV9GSUxHMTMwMV9iaWdfMV9iaWdfMV8uanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=ee7b0bfa057816cc"
     },
     {
+      "id": "124483",
+      "startsAt": "2026-11-18T19:00:00",
+      "endsAt": "2026-11-18T19:00:00",
+      "title": "Золотые хиты джаза",
+      "categoryId": "concerts",
+      "venueId": "philharmonic",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "12+",
+      "description": "Специальный гость: Аркадий Шилклопер — кулохорн, валторна, альпийский рог\n\nИсполнители: Концертный духовой оркестр Калининградской областной филармонии имени Е.Ф.Светланова (дирижёр Роман Иванов). Солисты филармонии: лауреаты Премии Калининградской области «Признание» Виктория Бобкова (вокал), Александр Дудницкий (вокал)\n\nСпециальный гость: Аркадий Шилклопер — кулохорн, валторна, альпийский рог.",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124483-zolotye-hity-dzhaza",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@64750205?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8wOVwvNDNoNXd3dTljbF9yMmtpOTZzYmZnazF1YW05M3ducnZyMnl3ZWxocWdsNC5wbmciXSxbInAiLCJ0aHVtYiIsIjEwMDB4NTY4IyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=e6f0fe7c925e047e"
+    },
+    {
       "id": "124555",
       "startsAt": "2026-11-18T19:00:00",
       "endsAt": "2026-11-18T19:00:00",
@@ -1038,6 +991,24 @@
       "sourceUrl": "https://klops.ru/afisha/124555-lokomotiv-dinamo-moskva",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@65159571?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMFwvMTExMWlpOTk2c184MzBBMTc4NC5KUEciXSxbInAiLCJ0aHVtYiIsIjU4MjN4NDQ4MCs0NDcrMCJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=64dff0a5735b9cd2"
+    },
+    {
+      "id": "124659",
+      "startsAt": "2026-11-18T22:00:00",
+      "endsAt": "2026-11-18T22:00:00",
+      "title": "Комедийное шоу «Сексологика»",
+      "categoryId": "humor",
+      "venueId": "nстендап-клуб-локация-",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "18+",
+      "description": "А что, если самые неловкие вопросы не гуглить в три часа ночи, а разбирать прямо на сцене?\n\n«Сексологика» — это секс-просвет в формате живого шоу: профессиональный сексолог Юлия Гришина, Николь, Ксюша Утицына и приглашённый гость-мужчина обсуждают то, о чём многие знают слишком мало, но почему-то стесняются спросить. Странные мифы, откровенные вопросы, герои с сайтов знакомств — будет очень интересно и очень по-взрослому. Честный разговор, профессиональный взгляд и юмор. Потому что знать о себе больше — никогда не кринж.\n\nВечер проходит на новой концертной площадке с профессиональной сценой, качественным звуком, кухней, баром и комфортной зоной со столиками.\n\nВозрастное ограничение: 18+. При входе организатор вправе попросить документ, удостоверяющий личность и возраст.",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124659-komediynoe-shou-seksologika",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@65454722?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yOVwvNWRtcTE1cDI5ZF82YWJmOGM4M2I3MWUwNzVjNDA5OGE0ODZfMV8ucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=7bd5d4291a09e825"
     },
     {
       "id": "122846",
@@ -1146,6 +1117,24 @@
       "sourceUrl": "https://klops.ru/afisha/124613-komediynoe-shou-devochki-eto-pipets",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/events/855834?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yM1wvNXBjanc1MnAxdl82YWQ5MDE1NGM4NGZjN2ZlM2UwZmY5NjAucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=c5e239512e0df894"
+    },
+    {
+      "id": "124245",
+      "startsAt": "2026-11-21T21:30:00",
+      "endsAt": "2026-11-21T21:30:00",
+      "title": "Чёрный стендап",
+      "categoryId": "humor",
+      "venueId": "nстендап-клуб-локация-",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "18+",
+      "description": "В этот вечер комики будут шутить на темы, которые редко становятся предметом обычных разговоров. Без запретных зон и без осторожных формулировок — остро, смело и местами очень неожиданно. Если вам близок юмор без фильтров, этот вечер точно не оставит вас равнодушными!",
+      "highlights": null,
+      "recurring": null,
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124245-chyornyy-stendap",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/848360?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8xNVwvMmZzeDM2d3FnYV82YTlhZjQ4MDA0YTVkMmI3NzA3YWZiMTkucG5nIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=3ac9d76a7b3ca944"
     },
     {
       "id": "124246-2",
@@ -1328,6 +1317,24 @@
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yOFwvMmF2ejAyNWY3al9JTUdfOTMzMy5KUEciXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=02abb56f01810c73"
     },
     {
+      "id": "124323-2",
+      "startsAt": "2026-11-28T18:00:00",
+      "endsAt": "2026-11-28T18:00:00",
+      "title": "Музыкально-гастрономический вечер «Мелодии любви»",
+      "categoryId": "concerts",
+      "venueId": "nкафе-солёная-ворона-",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "12+",
+      "description": "Приглашаем вас на концерт и ужин в уютной театральной гостиной «Солёная ворона» на берегу Балтийского моря!\n\nОлег Яковенко — актер театра и кино (сериалы «Склифосовский», «СЛЕД», «Глухарь», «Не родись красивой», «Улицы разбитых фонарей» и др.),, автор-исполнитель, лауреат международных конкурсов приглашает на программу « Мелодии любви « и это не просто музыкальная программа, а настоящая палитра эмоций, а как может быть иначе, если эти песни поют все, слушают все и эти песни о любви!\n\nПо окончании представления Вас ждёт ужин от шеф-повара кафе «Солёная ворона» Константина Сорокина: салат, горячее и десерт. «Изюминка» ужина — фирменный марципановый кофе. Приветствуются свои напитки и хорошее настроение.\n\nУникальное музыкальное событие для Вашего вечера!\n\nВажно: бесплатная парковка в Зеленоградске! Стоимость билета (концерт+ужин) — 3000 рублей. Подробная информация: +79052435843",
+      "highlights": null,
+      "recurring": "2 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124323-muzykalno-gastronomicheskiy-vecher-melodii-lyubvi",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/733363?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=20139",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8yMVwvOG1kaTRxNG9xOF8yXy5wbmciXSxbInAiLCJ0aHVtYiIsIjEwNTR4ODEwKzArMTUiXSxbInAiLCJ0aHVtYiIsIjQxNngzMjAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODUgLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0=/file.jpg?sha=8020d081bbd76968"
+    },
+    {
       "id": "124429",
       "startsAt": "2026-11-28T18:00:00",
       "endsAt": "2026-11-28T18:00:00",
@@ -1434,6 +1441,24 @@
       "sourceUrl": "https://klops.ru/afisha/124181-balet-belosnezhka-i-sem-gnomov",
       "ticketUrl": "https://widget.afisha.yandex.ru/w/sessions/ticketsteam-571@63356894?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
       "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzA5XC8wN1wvNzc3MjUxNmI2eV9fMTAyNF83NTBfY29weS5qcGciXSxbInAiLCJ0aHVtYiIsIjk3NXg3NTArMjQrMCJdLFsicCIsInRodW1iIiwiNDE2eDMyMCMiXSxbInAiLCJlbmNvZGUiLCJqcGciLCItcXVhbGl0eSA4NSAtc3RyaXAgLWludGVybGFjZSBQbGFuZSJdXQ==/file.jpg?sha=fa25265fa93a68bd"
+    },
+    {
+      "id": "124605-2",
+      "startsAt": "2026-12-05T11:30:00",
+      "endsAt": "2026-12-05T11:30:00",
+      "title": "«Маленький принц»",
+      "categoryId": "kids",
+      "venueId": "nтеатр-николая-захарова",
+      "price": -1,
+      "priceNote": "Точная цена — на странице продавца билетов",
+      "ageLimit": "6+",
+      "description": "Посвящается детям, которые будут взрослыми и взрослым, которые были детьми. Театр Николая Захарова бережно, трепетно, но всё же по-своему, рассказывает знаменитую историю Антуана де Сент-Экзюпери.\n\nДетям будет созвучна трогательная история о маленьком мальчике, который путешествует от планеты к планете, познает мир, учится дружбе и любви, а взрослым – философская глубина и афористичность текста.",
+      "highlights": null,
+      "recurring": "2 даты",
+      "source": "Klops.ru — афиша Калининграда",
+      "sourceUrl": "https://klops.ru/afisha/124605-malenkiy-prints",
+      "ticketUrl": "https://widget.afisha.yandex.ru/w/events/219060?clientKey=168b630a-3a81-42f9-9fe5-a61ea53ac70f&regionId=22",
+      "imageUrl": "https://assets1.klops.ru/affiche_media/W1siZiIsIjIwMjZcLzEwXC8yMlwvOGpvdnB1aWVja182N2Y1NDJmZWVmZDJjMzk4MjMyMGVkNjRfMV8uanBnIl0sWyJwIiwidGh1bWIiLCI0MTZ4MzIwIyJdLFsicCIsImVuY29kZSIsImpwZyIsIi1xdWFsaXR5IDg1IC1zdHJpcCAtaW50ZXJsYWNlIFBsYW5lIl1d/file.jpg?sha=67a7fcb271d4e6f3"
     },
     {
       "id": "124611-1",
